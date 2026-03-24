@@ -11,10 +11,14 @@
             "id": "7c2eb189397d65f2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1-Carl/Principles & Values/2026-02-09 Marketing Alignment — Weekly Team Meeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-09 Marketing Alignment — Weekly Team Meeting"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-Carl/Principles & Values/2026-02-09 Marketing Alignment — Weekly Team Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-02-09 Marketing Alignment — Weekly Team Meeting"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-Carl/Principles & Values/2026-02-09 Marketing Alignment — Weekly Team Meeting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-02-09 Marketing Alignment — Weekly Team Meeting"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1-Carl/Principles & Values/2026-02-09 Marketing Alignment — Weekly Team Meeting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-02-09 Marketing Alignment — Weekly Team Meeting"
             }
           },
           {
@@ -190,6 +197,14 @@
   },
   "active": "7c2eb189397d65f2",
   "lastOpenFiles": [
+    "1-Carl/Principles & Values/2026-01-05 Carl + Claire Catch-Up — 2026 Planning & Brand Direction.md",
+    "1-Carl/People & Relationships/Sebastien L'Hermitte.md",
+    "1-Carl/People & Relationships/Claire Senda.md",
+    "1-Carl/Decision Log/2025-09-15 Heaven Sake Operational Crisis & Management Restructuring.md",
+    "1-Carl/Decision Log/2025-06-03 Voice Note — Operations Performance Review & Leadership Issues.md",
+    "0-Inbox/INDEX.md",
+    "0-Inbox/2026-03-25.md",
+    "Untitled.canvas",
     "3-Operations/Team & Partners/Régis Camus.md",
     "5-Archive/Low-Value Meetings/2026-03-20 Carl-Claire - AI Advertising Setup & Analytics Integration.md",
     "5-Archive/Low-Value Meetings/2026-03-17 Carl-Claire - Rolling Stones Content & Digital Outreach.md",
@@ -209,13 +224,6 @@
     "5-Archive/Duplicates/Sake Glossary — Copywriting Library duplicate.md",
     "5-Archive/Duplicates/Never Say List — Copywriting Library duplicate.md",
     "5-Archive/Duplicates/Buyer Personas — Copywriting Library duplicate.md",
-    "5-Archive/Duplicates/Brand Voice Bible — Copywriting Library duplicate.md",
-    "5-Archive/Duplicates/2026-03-20 Abdel Meeting — AI Infrastructure Notion.md",
-    "5-Archive/Duplicates/2026-03-18 Catch Up with Jakub — AI Marketing Roadmap.md",
-    "5-Archive/Duplicates/2026-03-11 Voice Note - RSVP Campaign Lead Filtering & Monaco Event.md",
-    "5-Archive/Duplicates/2026-03-11 Voice Note - RSVP Audience Segmentation Strategy.md",
-    "5-Archive/Duplicates/2026-02-09 Marketing Alignment.md",
-    "5-Archive/Duplicates/2026-01-18 Heaven Sake Content Strategy.md",
     "5-Archive/Low-Value Meetings",
     "5-Archive/Duplicates",
     "5-Archive",

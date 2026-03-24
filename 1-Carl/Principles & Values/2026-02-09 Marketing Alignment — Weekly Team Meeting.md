@@ -7,7 +7,7 @@ status: processed
 duration: ~47 minutes (transcript runs to ~47 pages)
 tags: [marketing-alignment, team-management, content-strategy, ai-tools, team-building, social-media, seo, weekly-meeting]
 ---
-
+The Prince 
 # Marketing Alignment — Weekly Team Meeting — 9 February 2026
 
 ## Meeting Context
