@@ -1,0 +1,173 @@
+---
+type: knowledge
+status: validated
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [Meta, Facebook, Instagram, ads, advertising, targeting, CAPI, retargeting, US-market]
+---
+
+# Meta Ads Strategy
+
+Consolidated from 37 Carl-Claire calls (Dec 2025–Mar 2026). This is the definitive operational reference for HEAVENSAKE's Meta advertising approach.
+
+---
+
+## Overall Vision
+
+- **Previous burn rate:** ~$20,000/month in ad spend with no measurable return. This era is over. (Call 4)
+- **New target ratio:** $3,400 ad spend → $30,000–40,000 in sales. This ratio proves the model. (Call 4)
+- **Specialist required:** Paid social is not trial-and-error territory. [[Jakub Kambor]] is the preferred specialist — re-engage him. (Call 34)
+- **Benchmark:** ~50,000–60,000 views per $300 boost spend. Substantially below this = targeting or setup problem. (Call 34)
+
+---
+
+## Two-Campaign Sequence
+
+**Never run engagement and conversion campaigns simultaneously.**
+
+| Phase | Campaign Type | Goal |
+|-------|--------------|------|
+| **Phase 1** | Engagement / Awareness | Build signal, reach quality audience, warm up the pixel |
+| **Phase 2** | Conversion | Drive purchases once audience is primed |
+
+(Calls 1, 2, 6)
+
+Switch to conversion only after Phase 1 has established meaningful signal.
+
+---
+
+## Targeting Parameters
+
+### Demographic
+- **Exclude 65+ demographic.** HEAVENSAKE's audience is 30–55, culturally active, digitally present. (Call 1)
+- Target: **Household income, net worth, aspirational high income**
+
+### Interest Targeting
+- Food interests
+- Wine interests: **Wine Spectator, Robert Parker, Napa Valley, Bordeaux, champagne**
+- **Champagne is an essential targeting interest** because of the [[Regis Camus]] storytelling bridge — people who know champagne are the most receptive to the assemblage narrative. (Call 1)
+- Also consider: fine dining, luxury travel, Japanese culture
+
+### Platform Controls
+- **Avoid Facebook Advantage+ placement.** Prefer manual placement for full control. (Calls 1, 2)
+- Carousel format is an approved ad unit — monitor performance closely. (Call 31)
+- **Never run ads passively without tracking.** Ads need active monitoring.
+
+---
+
+## US Geographic Focus
+
+| Priority | Markets |
+|----------|---------|
+| **Primary** | New York, Los Angeles, San Francisco, Miami, Austin |
+| **Secondary** | Cities with health-conscious, refined, trend-aware demographics |
+| **Target communities** | Japanese, Asian, foodie, tech (Austin), affluent (Miami) |
+
+**California insight:** People prefer ordering online due to geographic distances. California is a strong DTC market. (Call 1)
+
+**Miami specifics:** Luxury hospitality culture, influencer-driven market, high-spend Latin and international clientele, strong Asian dining scene.
+
+---
+
+## Technical Requirements
+
+### Conversion API (CAPI) — Priority Fix
+- Current setup: Browser-only pixel (incomplete tracking)
+- Required: Browser-based pixel AND server-side Conversion API (CAPI)
+- **Estimated impact of fixing: 16% cost reduction.** (Call 5)
+- Fix this before scaling any budget.
+
+### Retargeting
+- Shopify purchase and email data must be properly connected for retargeting.
+- 121,000 engaged users available for retargeting. (Call 5)
+- Fix technical integration before running retargeting campaigns.
+
+### Optimization Metric
+- **Use "maximize through plays"** (full video watch) over "maximize engagement" (includes cheap 3-second replays). (Call 6)
+- Quality engagement, not volume engagement.
+
+### Ad Account History
+- **Heavensake 2.0:** Restricted by Meta.
+- **Heavensake 3.0:** Currently active; opportunity score of 103. (Call 6)
+- Build on the 3.0 account — do not create new accounts unnecessarily.
+
+---
+
+## Content Performance Insights
+
+- **Video/animation outperforms static consistently.** (Call 5)
+- **Carousel format is an approved ad unit.** (Call 31)
+- Sound: 80% of viewers don't listen. Design for visual-first viewing.
+- Thumbnail: Must stop the scroll at 1/9th of screen size, 0.25 seconds. (Call 26)
+
+### Meta Reporting Standard
+- Do NOT accept default Ads Manager performance views (which focus on reach)
+- Custom reports must manually check:
+  - Post saves (saves = invitations into the home)
+  - Profile visits
+  - 100% video plays
+- Reject any report that doesn't include these metrics.
+
+---
+
+## Budget Management
+
+**Current state:** ~€1,000/month = ~25 optimization events/week. Meta needs **50+ events/week** for stable learning phase.
+
+**Recommended direction:**
+- Increase Meta budget; cut underperforming programmatic
+- Focus on Add-to-Cart events first (not purchases) to build optimization signal
+- Allocate ~20% of total spend to brand awareness (not just conversion)
+- Fix Conversions API before scaling any budget
+
+**Start date for new campaigns:** April 5, 2026 (post-Giancarlo transition). (Call 34)
+
+**Prestige 3 at $300+:** Target exclusively at high-end buyers. Exclusivity controls, not broad reach.
+
+---
+
+## Vendor Standards for Paid Social
+
+Paid social is a specialized skill. Standards for whoever manages Meta Ads:
+
+1. Must understand the two-campaign sequence (awareness → conversion)
+2. Must set up CAPI, not just pixel
+3. Must report on saves, profile visits, and full video plays — not just reach
+4. Must be able to justify every targeting decision
+5. Must not scale before proving performance on small tests
+
+> "You have to test people bit by bit, challenge by challenge." (Call 28)
+
+**[[Jakub Kambor]]** is Carl's preferred specialist. Past performance: 3,500 likes on Sotheby's reel at ~$200 spend; 50,000–60,000 views per $300 benchmark. (Calls 14, 26, 28, 34)
+
+Compensation model: Percentage of ad revenue generated (not hourly).
+
+---
+
+## Japan Meta Ads Note
+
+Japan Meta Ads run separately from US. Japan targeting is less developed — focus Japan budget on building awareness through boosted organic content before conversion campaigns.
+
+Japan content must be posted at Japan morning time for maximum organic reach before any boost. (Call 10)
+
+---
+
+## ChatGPT / AI-Native Discoverability (Beyond Meta)
+
+HEAVENSAKE is thinking beyond Google SEO to AI-native search:
+1. Create a custom HEAVENSAKE GPT trained as a sake sommelier on product data
+2. Submit sitemap to Bing Webmaster Tools (ChatGPT uses Bing for web search)
+3. Build external article citations to increase AI discoverability
+(Call 32)
+
+This is a parallel track to Meta Ads — not a replacement.
+
+---
+
+## Related Notes
+
+- [[DTC & E-Commerce Strategy]]
+- [[Content Strategy & Channels]]
+- [[Carl's Vision for Heavensake 2026-2030]]
+- [[SOPs & Workflows]]
+- [[Team Structure & Roles]]

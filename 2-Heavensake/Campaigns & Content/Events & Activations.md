@@ -1,37 +1,92 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2025-09-26 Abu Dhabi Luxury Auction Event Planning.md
-  - 2026-02-10 OmaWei x HEAVENSAKE.md
-  - 2026-03-11 Heavensake x Turbo — Partnership Follow-up.md
-  - 2026-02-27 Heavensake Dinner Concept — Event Design.md
-  - 2025-08-18 Events Planning — Paris, Milan & International Sake Day.md
-  - 2026-03-09 US Strategy & Miami Market — Weekly Marketing Meeting.md
-  - 2026-03-16 Prestige 3 Follow-Up & US Market Activation.md
-  - 2025-09-18 Brand Launch Japan & Market Expansion Strategy.md
-tags: [events, activations, Monaco, Abu-Dhabi, OmaWei, Turbo, Okura-Tokyo, partnerships]
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [events, activations, Monaco, Japan, Hanami, Mami, A-Bar, Tokyo, music, glassware]
 ---
 
 # Events & Activations
 
 Events are not ends in themselves — they are brand proof-of-concept moments and content generation machines. Every activation must generate social media reach that multiplies the room size into a global audience.
 
-> "At the party in my house, if there was no social media, the value of that party would be 10 times less. Through social media it becomes an international sensation. So they are all connected. Everything is one big thing that goes under that brand essence."
-> — *2026-01-05 Carl + Claire Catch-Up*
+> "At the party in my house, if there was no social media, the value of that party would be 10 times less. Through social media it becomes an international sensation. So they are all connected. Everything is one big thing that goes under that brand essence." (Call 26)
 
 ---
 
 ## Events Philosophy
 
-HEAVENSAKE events operate at three levels simultaneously:
+Events exist to:
+1. Enrich brand perception
+2. Give access to new high-quality people
+3. Generate content
 
-1. **In-room experience:** The guests present feel something extraordinary — they are part of a cultural moment
-2. **Content generation:** The event produces photography, video, social media content that lives beyond the night
-3. **Brand signaling:** The event communicates, by association, what HEAVENSAKE stands for (Monaco > nightclub; assemblage dinner > product launch)
+> "If it's something really cool with a very special experience and it enriches the perception of heaven sake, gives us access to people, then it's a great idea." (Call 32)
 
-**The test for any event:** Does it belong in the HEAVENSAKE universe? Does it generate content that can be amplified? Does it put the brand in the room with the right people?
+---
+
+## Two-Tier Event Structure
+
+A consistent pattern emerges across HEAVENSAKE events:
+
+1. **Intimate dinner (10 people)** — for top-tier relationships
+2. **Bar party (~50 people)** — for brand discovery and culture
+
+> "I'd rather have a very small group at dinner and then a party. The dinner I think it's whatever we do, we do 10 people... and then we do a party with 50 people at the club." (Call 37)
+
+This structure is the default event architecture — not a one-off approach.
+
+---
+
+## The "No Tackiness" Standard
+
+> "I don't know how much work this is and if it's something that we think is cool or not. If it's not gonna look tacky or... she should now add a bit of her soul and creativity in it and tell us what she thinks is right." (Call 34)
+
+Every installation, decoration, and activation must pass the "does this look tacky?" test. The artist's creative judgment is trusted but requires validation.
+
+---
+
+## Events Are Content Opportunities
+
+Venue selection must consider photographic and video potential — tight or visually unappealing spaces undermine this.
+
+> "You can't shoot content. I mean, not if... not necessarily... you can't really take pictures because everything is so tight." (Call 37)
+
+**Content production vs. documentation:**
+- **Controlled shoot (before guests):** The highest-value content. Film the artist alone, quiet, intimate.
+- **Event documentation:** Can be done with a phone camera or lower-cost videographer. (Calls 27, 30)
+
+---
+
+## Event Time Allocation
+
+Event planning/logistics should take a **maximum of 10% of the brand manager's time**. (Call 27)
+
+Events are content and relationship opportunities — not the primary operational focus.
+
+---
+
+## Event Music Direction
+
+> "I want DJs that play like sort of cool vintage hip hop and modern stuff. Like just a cool, cool vibe. Like a little bit up." (Call 34)
+
+R&B is also appropriate. The vibe: upscale but not pretentious. Carl may also connect his own Spotify if the moment calls for it.
+
+---
+
+## Soft Drinks at Events
+
+Water and green tea only.
+
+> "I think the green tea goes well. Orange juice doesn't go well. Just do water and green tea." (Call 32)
+
+No orange juice, no sugary sodas. Consistent with the cocktail philosophy (Azure + green tea only).
+
+---
+
+## Glassware Standard
+
+For art gallery cocktail receptions: smaller, more elegant glasses. Not large 250ml glasses. "Smaller, more elegant, you know, it's a cocktail. It's an art gallery cocktail." (Call 30)
 
 ---
 
@@ -42,74 +97,58 @@ HEAVENSAKE events operate at three levels simultaneously:
 - **Format:** Dinner on floating platform (just below water level; 60 people / 10,000 kg capacity) + party
 - **Design:** Torii gate centerpiece (LED + washi paper + plexiglass); orchid floral; custom mirror table (under review); rented tableware
 - **Budget:** ~€100K cap
-- **Partners:** Turbo Monaco (Odrik Giordano), Ruby Carmen (Lisa Hanze), MOA Projects, Geert Praet
+- **Partners:** Turbo Monaco (Odrik Giordano), Ruby Carmen (Lisa Hanze), MOA Projects
 - **Bottle allocation:** 1,460 bottles
-- **Wristbands:** Electronic scanning + database connectivity (Gloria to validate urgently)
-- **Security:** Gloria leading Monaco coordination
-- **Sponsors:** Being sought for premium elements (Torii gate, platform)
 
 The Monaco party is also the emotional anchor of the $5K Club Heaven membership — it is what people are paying to access.
 
-Past Monaco parties have featured Will.i.am, and this track record is being used in the Monaco RSVP campaign video as social proof.
+---
+
+## Key Past / Active Events (Japan)
+
+### Mami San Gallery Opening (Feb 9, Tokyo)
+- ~100–150 guests; 30 bottles Azure + Noir; Bose S1 Pro+ speaker
+- HEAVENSAKE presence: 15–20 brand representatives/invited guests (Call 29)
+
+### Mami San Gallery Closing (Feb 15, Tokyo)
+- ~50–100 guests; 24 bottles; 60 sake + 60 water glasses
+- [[Mami San]] creates window artwork live during the event (Call 30)
+- **Content strategy:** Film Mami San alone in the gallery before guests arrive (Call 30)
+
+### A-Bar Valentine's After-Party (Tokyo)
+- 10:30pm–1:30am (3 hours); minimum guarantee 300,000 yen (negotiated down from 400,000 yen)
+- Two DJs (50,000 yen each, each covering 2 hours); both expected to do an Instagram post
+- Corkage fee negotiated to 10,000 yen/bottle for 40 bottles (Call 23)
+- Not a total buyout — venue brings their own people for vibe (Call 30)
+
+### Academy Divin Event (Aoyama)
+- Sold out; ~70% female attendance; significant sake education milestone (Calls 11, 20)
+- Key for Women's Day storytelling and sake education positioning
+
+### Hanami Activation (Current Year)
+- Small tasteful booth near Nakameguro Riverside via Heaven nightclub connection
+- Research needed for selling alcohol on the street regulations (Calls 17, 19)
 
 ---
 
-## Abu Dhabi Luxury Auction (September 2025)
+## Hanami 2027 Vision — The Big Dream
 
-A luxury auction event in Abu Dhabi, using the same production company as Zegna for continuity and efficiency.
-
-**Concept:**
-- Sake omakase experience at a custom mirror table (production: the mirror table was first conceived for this event)
-- Drone show (Studio Drift) — exploring feasibility and budget
-- High-end vehicle display behind the sake bar
-- Venue: Saadiyat Island / Buddha Bar space
-- Scheduling note: Conflict with Kanye Music event shifted strategy toward standout auction experience rather than after-party
-
-**Status:** Past event (September 2025). Key learnings: mirror table concept now being adapted for Monaco 2026.
+Silent disco in Yoyogi Park:
+- DJ audio streamed to attendees' AirPods via HEAVENSAKE account login
+- Bottles from existing park kiosk
+- Drone coverage
+- (Call 19)
 
 ---
 
-## OmaWei x HEAVENSAKE (Miami, February 2026)
+## Kyoto Temple Dream Project (October 2026)
 
-A partnership dinner with Wei Chen (OmaWei) at The Bath Club, Miami.
+> "If you manage to pull that off, that is a massive opportunity. It could end up on CNN if it's packaged well." (Call 26)
 
-**Format:** Exclusive sake pairing dinner featuring 4–5 HEAVENSAKE bottles, with live storytelling by Nes Rueda and Zak Gross.
-
-**Content angle:** Multi-part video content series shot by Wei's videographer (February 20–25 visit window). Authentic storytelling about the sake journey and brand.
-
-**Bottle featured:** Pink ceramic Hanami bottle (if production timing allows) + Noguchi as fallback
-
-**Strategic purpose:** Miami market penetration through cultural dining format; builds relationship with Wei Chen's luxury food audience; generates video content for both brands.
-
----
-
-## HEAVENSAKE x Turbo Monaco Partnership
-
-Turbo Monaco (Odrik Giordano, Axelle) is the primary Monaco event production partner for the 10th anniversary.
-
-**Relationship dynamics:**
-- Turbo Monaco is building its portfolio — the HEAVENSAKE 10th anniversary is a flagship project for them
-- The partnership offers cost flexibility in exchange for visibility/credit
-- Carl is driving hard on cost control (€38K mirror table quote under detailed review)
-- IP protection for Torii gate design: a concern Carl flagged for follow-up
-
-**What Turbo Monaco provides:** Venue logistics, Monaco event infrastructure, sponsor outreach, technical execution coordination.
-
----
-
-## Paris House Party (October 2025)
-
-Carl hosted a sake and sushi event at his Paris house featuring a Japanese sushi master (October 2nd, 2025). This is a recurring format — intimate, high-touch, culturally specific.
-
-This event format is HEAVENSAKE's most authentic activation style: not a launch event, but a moment of genuine cultural exchange that happens to be photographed and filmed. The brand value is not in the press release — it's in who was in the room.
-
----
-
-## Audemars Piguet / Milan Rooftop (2025)
-
-A partnership event at Audemars Piguet's Milan rooftop, alongside an International Sake Day event.
-
-**Strategic purpose:** Luxury brand association (AP = extreme precision, craftsmanship, scarcity) + Italian market presence + International Sake Day media hook.
+- Event at a specific Kyoto temple with an orange carpet
+- Planned for October 2026
+- Being facilitated through an event agent
+- CNN-level potential if packaged correctly
 
 ---
 
@@ -120,14 +159,6 @@ Following the Monaco June party, the US gets its own 10th anniversary activation
 - **New York + Miami:** Nas/RZA dinners (cultural credibility in the luxury American market)
 - **Prestige 3 US launch:** Tied to these September events
 - **Potential Okura Tokyo (November):** Japan event at Okura hotel as part of the Japan 10th anniversary celebration
-
----
-
-## Okura Tokyo (November 2026, Planning)
-
-The Okura Hotel Tokyo is being considered as the venue for the Japan 10th anniversary event. The Okura is one of Tokyo's most historically significant luxury hotels — alignment with HEAVENSAKE's positioning.
-
-**Content arc:** The Daruma B eye-opening ceremony (pink Daruma, opening the next chapter) would be filmed here, completing the visual storytelling arc started at Chichiken in May.
 
 ---
 
@@ -146,42 +177,29 @@ Every HEAVENSAKE event should answer:
 
 ---
 
-## Key Event Partners
+## Event Bottle Ratios (Operational Reference)
 
-| Partner | Role | Contact |
-|---------|------|---------|
-| Turbo Monaco | Monaco event production | Odrik Giordano, Axelle |
-| Ruby Carmen | Event design (Torii gate, dinner concept) | Lisa Hanze |
-| MOA Projects | Project management | info@moa-projects.com |
-| Geert Praet | Platform engineering | Event contractor |
-| Wei Chen (OmaWei) | Miami dinner partnership | wei@omawei.com |
-| Studio Drift | Drone shows (Abu Dhabi explored) | External |
-| Noemi (event production) | Events production manager, Italy | Internal |
+- Art gallery cocktail reception (~100 guests, sole alcohol): ~30 bottles
+- Closing event (~60 guests): ~24 bottles; 60 sake + 60 water glasses
+- Restaurant dinner (28 guests): ~1 bottle per 5 guests → 6 Azure, 6 Noir, 6 Orange, 4 Prestige
+- General rule: half a bottle per guest in a party setting; less in reception settings
+- Emergency stash: keep 6 bottles on hand at base (hotel, office) (Call 29)
 
 ---
 
-## Historical Events Archive (NotebookLM Extraction)
+## Event Sales Model (Corkage)
 
-Full events table from the NotebookLM forensic extraction, documenting past activations:
+HEAVENSAKE pays only for consumed product at events (corkage model). Unused bottles are retrieved. Maximum 24 bottles planned per major event. (Calls 32, 34)
 
-| Date | Location | Event Name | Attendees | Outcome |
-|------|----------|-----------|----------|--------|
-| **June 6, 2026** | Monte Carlo | 10-Year Anniversary (planned) | Carl, [[Jakub Cambor]] (invited), Club Heaven members | Anchor event for "Assemblage of Moments"; floating platform dinner + party |
-| **Spring (March/April)** | Global / E-Commerce | Hanami Drop | Online consumers, Whales | High-margin data capture via 50–100 bottle lottery |
-| **October 1** (recurring) | Global | International Sake Day | Influencers, Trade | Press push + digital influencer gifting strategy |
-| Past (recurring) | American Cathedral, Paris | "A Better High" Mini-Festival | Fashion, Art, Music crowds | Proved sake can dominate a high-energy nightlife environment |
-| Past | Monaco | "Taca by the Sea" | [[Taca-san]], Luckygrey, Guests | 6 expressions served; established sake in ultra-luxury Mediterranean setting |
-| Past | Monaco | "Endo in the Sun" Lunch | [[Chef Endo Kazutoshi]], [[Yu Kurosaki]], Akiko | Immersive culinary + knifemaking activation; Michelin-grade dining |
-| Past | New York | Pujol 25th Anniversary | [[Chef Enrique Olvera]], Guests | Paired Label Orange with Mexican gastronomy (pipián) |
-| Past | Bangkok, Thailand | Thailand Launch | Sake Merchants, VIPs | Mezzaluna dinner + Okura Cruise tasting; opened Thai market |
-| Past | Ritz-Carlton, Japan | "1 Year in Japan" | Brewers, Artisans, Friends | Celebrated Franco-Japanese roots in Japan |
-| Past | Milan, Italy | "Heaven House" | Paulin, Design Crowd | Blended space, sound, and sake design aesthetics |
-| Past | Shibuya, Tokyo | MAMIMOZI Activations | [[Mami-san]], Guests | Valentine's Day and Halloween art scroll unveilings |
+- Corkage fee structure: Pay for sake consumed; guests who want other alcohol pay for it themselves
+- Event budget example: 24 bottles × 20,000 yen corkage + 30,000 yen DJ = 510,000 yen (~$3,400) (Call 34)
 
 ---
 
 ## Related Notes
+
+- [[Japan Campaign Calendar]]
 - [[Partnerships & Collaborations]]
-- [[Key Venue Accounts]]
-- [[10th Anniversary — Assemblage of Moments]]
-- [[Master KPIs & Metrics]]
+- [[Content Strategy & Channels]]
+- [[DTC & E-Commerce Strategy]]
+- [[Product Portfolio]]

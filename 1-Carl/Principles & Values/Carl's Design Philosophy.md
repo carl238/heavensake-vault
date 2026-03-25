@@ -1,14 +1,9 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2026-03-16 Prestige 3 Launch Strategy — Carl + Claire.md
-  - 2026-01-05 Carl + Claire Catch-Up — 2026 Planning & Brand Direction.md
-  - 2026-02-09 Marketing Alignment — Weekly Team Meeting.md
-  - 2026-03-20 AI Strategy & Operations — Carl + Abdel.md
-  - 2026-03-20 Catch-up Carl Claire — AI Strategy Brand Bible.md
-tags: [design, luxury, aesthetics, brand-standards, philosophy]
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [design, luxury, aesthetics, brand-standards, philosophy, visual-dna]
 ---
 
 # Carl's Design Philosophy
@@ -17,28 +12,93 @@ Carl's approach to design is not aesthetic preference — it is a governing phil
 
 ---
 
+## The Four Visual DNA Words
+
+The entire HEAVENSAKE visual identity flows from four words:
+
+> "Light, elevation, purity, minimalism. Light. We've always been about light. It's always been about light." (Call 26)
+
+Every design decision — a layout, a reel, a bottle label, a T-shirt — must be tested against these four words. If it contradicts any of them, it needs revision.
+
+---
+
 ## The Core Principle: A Brand Is 100 Little Things
 
 HEAVENSAKE's brand identity is not created by one major campaign or one great idea. It is built from the accumulated weight of micro-decisions — each individually dismissable, but collectively defining.
 
-> "It's a brand is hundred little things that sort of create a harmony and you could say that specific one doesn't matter. And you are right at the same time."
-> — *2026-03-16 Prestige 3 Launch Strategy*
+> "A brand is a hundred little things that sort of create a harmony. And you could say that specific one doesn't matter." (Call 8)
 
 This principle applies across every touchpoint: the spacing on a T-shirt, the color of ink printed on a ceramic bottle, the grain of sandblasted glass, the length of a caption. No decision is too small to warrant care.
 
 ---
 
-## Things Need to Breathe
+## Breathing Space as a Luxury Marker
 
-Luxury is expressed through restraint and space. Overcrowding — in design, copy, strategy — signals cheapness.
+White space is not empty — it is a signal of luxury. Every layout, T-shirt design, carousel, and print piece must give elements room to breathe.
 
-> "It breathes in general, me, I like when things breathe and it's one of the luxury things like you need. Things need to breathe. Like it's so anytime you have the opportunity to make something breathe or more spacey… For me, everything that is too close to the other thing is a mistake."
-> — *2026-03-16 Prestige 3 Launch Strategy*
+> "I like when things breathe and it's one of the luxury things. Anytime you have the opportunity to make something breathe or more spacey." (Call 8)
 
 This applies concretely to:
-- **Typography:** Spacing between dates on anniversary merchandise (2016–2026); kerning on kanji designs; caption length on Instagram
-- **Product design:** The ceramic bottle's print color must match the raw porcelain below it — harmony requires restraint: "The wish is that the color is as close as possible to the tone of the porcelain at the bottom of the bottle. So that there is harmony between the color of the print and the raw ceramic."
+- **Typography:** Spacing between dates on anniversary merchandise (2016–2026); kerning on kanji designs; caption length
+- **Product design:** The ceramic bottle's print color must match the raw porcelain below it — harmony requires restraint
 - **Layout:** Web pages, social media grids, event design — all should have room to breathe
+
+---
+
+## The Rule of Thirds for Product Imagery
+
+Product photography uses the rule of thirds:
+- Bottle centered at the intersection point
+- Logo/wordmark in the upper portion
+- Hexagon centered cleanly
+
+The horizon line on cover photos must bisect the negative space — it must not cut through or touch the hexagon. The hexagon must float cleanly above the horizon. (Call 32, 33)
+
+---
+
+## The Hexagon Restraint Rule
+
+Use the hexagon with restraint — not on every post.
+
+> "In general, I think I want to use the hexagon less." (Call 11)
+
+> "Every post has that hexagon, it becomes too much." (Call 16)
+
+In carousels, the hexagon creates visual rhythm only when used selectively. Sometimes less is more: "I just think it's cleaner." (Call 16)
+
+---
+
+## One Line Is Always Cleaner Than Two
+
+> "Two lines is always too much. Like why two lines? One you see like one line." (Call 11)
+
+When any text element — tagline, label text, caption hook — can be reduced to one line, it must be. Two lines signals compromise.
+
+---
+
+## "PURE ELEVATION" — Always ALL CAPS
+
+The tagline is always rendered in ALL CAPS wherever it appears: **PURE ELEVATION**. No exceptions. (Call 33)
+
+---
+
+## Frame-by-Frame Quality Standard
+
+> "When I do a video editing I go frame by frame. I give the feedback to the guy frame by frame." (Call 14)
+
+> "The difference between a postable video that is a luxury brand asset and a potentially sort of weird looking sort of improvised little stitched together little thing is massive." (Call 14)
+
+"The difference between 80% and 100% is massive for a luxury brand." The last 20% is everything.
+
+---
+
+## Design Approval Through Storytelling
+
+Storytelling determines whether a design is approved or rejected:
+
+> "The difference between the design being approved and the design being random is your storytelling. Because before I was like, yeah, okay, cute. But what — I mean, how does that — and so the explanation really changes the... And if your story adds up, it becomes poetry, it becomes art." (Call 11)
+
+Every design choice must be answerable: *Why is this green? Why is this like this? Why did you choose this?*
 
 ---
 
@@ -46,8 +106,7 @@ This applies concretely to:
 
 Carl has a clear instinct for when a material choice will fail under scrutiny. His decision to drop embroidery from the 10th anniversary T-shirt is the clearest example:
 
-> "Even they haven't succumbed to embroidery. It's going to be like, really tough because the lines of the hexagon are too small. The line of the E is too small. It's going to look cheap. I tell you, I think we need to drop the thing. We need to drop the embroidery. Let's keep it simple."
-> — *2026-03-16 Prestige 3 Launch Strategy*
+> "Even they haven't succumbed to embroidery. It's going to be like, really tough because the lines of the hexagon are too small. The line of the E is too small. It's going to look cheap. I tell you, I think we need to drop the thing. We need to drop the embroidery. Let's keep it simple." (Call 33)
 
 The decision was immediate and irreversible once he saw the technical constraint. Simplicity executed perfectly beats complexity executed poorly.
 
@@ -55,18 +114,21 @@ The decision was immediate and irreversible once he saw the technical constraint
 
 ## Generic = Death
 
-Content or design that could belong to any brand belongs to no brand. Carl's reaction to AI-generated LinkedIn strategies is the clearest expression of this:
+Content or design that could belong to any brand belongs to no brand.
 
-> "This is never going to work. This is never going to resonate with people. To be like, oh let me order a bottle at home. You need genius. This is boring stuff."
-> — *2026-01-05 Carl + Claire Catch-Up*
-
-> "It's depressing, that's what it is."
-> — *2026-01-05 Carl + Claire Catch-Up*
+> "People need to be like holy, look at this. Like you need, you need genius." (Call 11)
 
 The standard: content should produce an involuntary reaction. People should stop, notice, and feel something without being prompted.
 
-> "People need to be like holy, look at this. Like you need, you need genius."
-> — *2026-01-05 Carl + Claire Catch-Up*
+---
+
+## Thumbnail Thinking
+
+Every video must be designed to stand out at 1/9th of a screen size, with zero sound, in a fraction of a second:
+
+> "You don't even have two seconds. You have a quarter of a second in a ninth of the screen... you need something that if it's just light..." (Call 26)
+
+Design for the thumbnail first. If it doesn't stop the scroll at that size, it fails before it begins.
 
 ---
 
@@ -74,10 +136,7 @@ The standard: content should produce an involuntary reaction. People should stop
 
 When HEAVENSAKE deploys Japanese cultural elements — the Daruma ritual, cherry blossom imagery, sake ceremony — they must be done in the right context with the right people, or they lose their power entirely.
 
-> "The Daruma needs to be done in Japan. I mean it needs to stay. We need to present it in Japan because otherwise to people in France, like if we show up with a Daruma, we're like, yeah, cool story, bro. Whereas in Japan there's a certain power behind it."
-> — *2026-03-16 Prestige 3 Launch Strategy*
-
-This is why the Daruma ritual for the 10th anniversary is being shot at the Chichiken water source with Mommy-san (the calligrapher), not in a Paris studio.
+> "The Daruma needs to be done in Japan. I mean it needs to stay. We need to present it in Japan because otherwise to people in France, like if we show up with a Daruma, we're like, yeah, cool story, bro. Whereas in Japan there's a certain power behind it." (Call 33)
 
 ---
 
@@ -85,36 +144,15 @@ This is why the Daruma ritual for the 10th anniversary is being shot at the Chic
 
 All physical experiences — parties, rituals, dinners — are primarily content generation machines. Their value lives in what they produce online.
 
-> "We're a digital marketing brand. Even when we do events, the goal is for that to translate into digital media content. People generating likes for us and sharing it online. This is where the real value comes from."
-> — *2026-03-16 Prestige 3 Launch Strategy*
-
-> "At the party in my house, if there was no social media, the value of that party would be 10 times less. It would just be people coming, having a good time and leaving, nobody would ever care or know about it. But through social media it becomes an international sensation."
-> — *2026-01-05 Carl + Claire Catch-Up*
+> "We're a digital marketing brand. Even when we do events, the goal is for that to translate into digital media content. People generating likes for us and sharing it online. This is where the real value comes from." (Call 26)
 
 ---
 
 ## AI Handles Execution; Humans Decide the Soul
 
-Carl's design philosophy in the AI era: use AI to remove the "annoying stuff" — task execution, drafting, technical production. Reserve human judgment for questions of brand identity.
+Use AI to remove the "annoying stuff" — task execution, drafting, technical production. Reserve human judgment for questions of brand identity.
 
-> "AI is going to remove the annoying stuff. The cool stuff — coming up with the right mind, choosing the right creative, the right designs, the right concepts — at the end of the day you have to take the decisions. You say if you have to choose whether the T shirt is going to be blue or pink, whether you're going to have the Tory gates… What is your brand? What is your soul? What do you stand for? Where do you want to go? Like, that's the beautiful part."
-> — *2026-03-16 Prestige 3 Launch Strategy*
-
-The combination of AI fluency and genuine taste is Carl's definition of a "killer machine":
-
-> "Somebody that knows to use the tools and has no taste, and somebody that knows how to use the tools and has taste — you can become a killer machine."
-> — *2026-03-16 Prestige 3 Launch Strategy*
-
----
-
-## The Content System: Words Before Images
-
-Carl's operational vision for content production is systematic, not inspirational. Every piece of content should flow from a defined vocabulary foundation:
-
-> "Every set of Instagram or LinkedIn or a blog post. The essence of the post is going to be dictated by two categories of words. One category that we define as sort of our creative things that we want — elevation, impurity, whatever is specific to tag a specific post — three, four, five, eight words. And the SEO words. So already those two sets of words create the foundation and the actual defined optimal length."
-> — *2026-02-09 Marketing Alignment — Weekly Team Meeting*
-
-This means Instagram, LinkedIn, blog, and newsletter content all flow from the same keyword foundation — they are structurally connected, not ad hoc.
+> "Somebody that knows to use the tools and has no taste, and somebody that knows how to use the tools and has taste — you can become a killer machine." (Call 33)
 
 ---
 
@@ -122,11 +160,24 @@ This means Instagram, LinkedIn, blog, and newsletter content all flow from the s
 
 | Element | Carl's Standard |
 |---------|----------------|
+| Visual DNA | Light, elevation, purity, minimalism — the 4 non-negotiables |
+| Tagline | "PURE ELEVATION" always in ALL CAPS |
+| Hexagon use | Restraint — not on every post |
+| Text lines | One line always > two lines |
 | Embroidery on logo | Rejected — lines too thin, looks cheap. Silkscreen only. |
 | Ceramic bottle print | Match raw porcelain tone exactly — harmony between print and material |
 | Typography spacing | Always err toward more space. Breathing room = luxury. |
+| Product photography | Rule of thirds; horizon line never touching hexagon |
+| Video quality | Frame-by-frame review standard; 80% is not 100% |
 | T-shirt finish | Stone-wash preferred over clean (more character) |
 | Event design | Cultural authenticity non-negotiable (Daruma in Japan, not France) |
 | AI-generated content | Must pass the involuntary reaction test before publishing |
-| Women's Day tie-in | Rejected — brands shouldn't opportunistically attach to charged cultural moments without full genuine commitment |
 
+---
+
+## Related Notes
+
+- [[Visual Identity & Symbols]]
+- [[Brand Voice Bible]]
+- [[The Carl Filter]]
+- [[What HEAVENSAKE Is NOT]]

@@ -1,17 +1,9 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2026-XX-XX E-Commerce Strategy — Monaco F1 Party, Membership & Customer Audit.md
-  - 2026-03-11 Voice Note - Ad Budget & Ecommerce Strategy.md
-  - 2025-11-19 eCommerce Strategy — US & Japan Markets.md
-  - 2025-10-08 eCommerce Strategy — Japan & US DTC Markets.md
-  - 2025-12-03 Heaven Sake Digital Marketing & eCommerce Strategy.md
-  - 2026-03-19 Carl-Claire - Meta Ads Optimization & Shopify Integration.md
-  - 2026-03-18 AI Marketing Strategy — Carl + Jakub.md
-  - 2026-03-20 AI Strategy & Operations — Carl + Abdel.md
-tags: [DTC, e-commerce, Shopify, Monaco, membership, CRM, inner-circle, Meta-ads]
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [DTC, e-commerce, Shopify, Monaco, membership, CRM, inner-circle, Meta-ads, Klaviyo, Taru]
 ---
 
 # DTC & E-Commerce Strategy
@@ -33,30 +25,70 @@ The goal: **position HEAVENSAKE as the #1 online sake brand** by September 2026.
 
 ---
 
+## Platform: Shopify
+
+**Confirmed strategic choice.** "The greatest e-commerce brands in the world use Shopify." (Call 33)
+
+- **Japan site (jp.heavensake.com):** Speed over perfection. "Just do whatever is the most easy and flowing and gets the website out once and for all." (Call 30)
+- **US store:** May be administered by CIPSE/Tipsy — requires **written confirmation from CIPSE (contact: Alla)** before any major changes. (Call 33)
+- **Shopify cleanup required:** Orphan collections removed, old products (Sake Baby) deleted/hidden. (Calls 4, 5)
+- **One vs. two stores debate:** Consolidation (US + Japan) proposed for SEO benefits; requires written CIPSE confirmation before any decision. (Calls 31, 33)
+
+---
+
+## Gold Members — 200 Pre-Release Customers
+
+200 people who get pre-release access to Prestige 3 before public launch. (Call 1)
+
+Pre-release to Gold Members → Online launch (targeted for June) → Full launch September.
+
+This is the model for future limited-edition launches: scarcity creates urgency, exclusivity rewards loyalty.
+
+---
+
+## Klaviyo Integration
+
+Being integrated for email marketing automation. (Calls 3, 5)
+
+Email strategy by tier:
+- **Top 5 VIPs:** Personal, individual emails — not automated
+- **Top 50:** Tailored sequences with personalized AI-written intros
+- **Top 200:** Automated but personalized via AI enrichment
+- **General list:** Klaviyo sequences (welcome, nurture, post-purchase)
+
+Active sequences required:
+- Welcome sequence (rewrite urgently — lead with brand mission, not Assemblage technique)
+- Post-purchase (thank you + brand story)
+- VIP inner circle care sequence
+- Prestige 3 launch sequence
+
+---
+
 ## The Database Opportunity
 
 HEAVENSAKE is sitting on hidden commercial value in its existing contacts:
 
-> "Let's say of those 5,000 email addresses, there is 1,000 that are potentially good customers that would spend between $1,200 and $4,000 a month — let's say an average of $2,500 a year. That's $250,000 just already in our database. No ads, no whatever."
-> — *2026-03-20 AI Strategy & Operations — Carl + Abdel*
+> "Let's say of those 5,000 email addresses, there is 1,000 that are potentially good customers that would spend between $1,200 and $4,000 a month — let's say an average of $2,500 a year. That's $250,000 just already in our database. No ads, no whatever." (Call 37)
 
-The current database:
-- **~600–689 Shopify records** (paid customers; Label Noir/Azur historically ~70% of mix)
-- **~5,000 total email contacts** across ClubHeaven and broader network
-- **~1,500 strong prospects** identified in March 2026 voice note
-- AI audit already run on top ~60 customers: classified by profession (C-suite, media, finance, surgeons, entrepreneurs)
+**Current database — conflicts noted (see [[Conflicts for Carl to Resolve]]):**
+- Knowledge Base (Dec 2025–Mar 2026): ~3,000 email addresses, ~315 purchased customers, top 20 customers (not top 20%)
+- Earlier vault data: ~600–689 Shopify records, ~60–62 identified whales
+
+**Top customer segmentation criteria:** Frequency, variety purchased, recency, total spend, transaction types. Additionally: social following, "coolness," whether they signed up for the jacket lottery, response to Prestige email. (Calls 23, 26)
+
+**Carl reviews top customer data personally.** (Call 34)
 
 ---
 
-## The Customer Segmentation Framework
+## Customer Segmentation Framework
 
 **Step 1 — AI Audit the Full Database**
 - Export all Shopify + ClubHeaven contacts
 - Enrich with external data: LinkedIn roles, Instagram, press mentions, industry
 - Score by: recency + frequency + spend + influence + relationship potential
 
-**Step 2 — Apply the 20/80 Rule**
-- 5,000 contacts → 1,000 real prospects → **top 200 highest-value targets**
+**Step 2 — Apply the Focus Rule**
+- Full list → 1,000 real prospects → **top 200 highest-value targets**
 - These 200 people: $200,000–$400,000 in revenue potential with proper management
 
 **Step 3 — Inner Circle Care Program**
@@ -64,30 +96,30 @@ The current database:
 - Top 50 champions: exclusive previews, personal invites, check-ins
 - Top 200: tailored outreach, early access, personalized emails
 
-**Diamonds in the rough:** Pure RFM misses people with low spend but enormous influence. AI enrichment identifies these by cross-referencing LinkedIn, Instagram, and press data.
+---
+
+## Event Sales Model (Corkage)
+
+HEAVENSAKE pays only for consumed product at events (corkage model). Unused bottles are retrieved. Maximum 24 bottles planned per major event. (Calls 32, 34)
 
 ---
 
-## Monaco F1 Party: The Emotional Anchor
+## Taru (Sake Barrel) Restaurant Strategy
 
-Everything in the DTC strategy flows from the Monaco party. The party is not an event — it is the proof of concept that HEAVENSAKE belongs at the highest level of luxury life.
+The branded sake taru is a proven on-premise brand visibility and credibility tool:
 
-> "Nobody will pay 5k for 'membership benefits' alone, but they will move for access to a legendary party plus a halo of global events and allocations."
-> — *2026-XX-XX E-Commerce Strategy*
+> "It gives you credibility as you stray, you walk in, you see it. Just need to make it beautiful." (Call 1)
 
-The RSVP funnel design:
-- **VIPs (already known):** Personal invite, no application required — concierge approach
-- **Cold high-value prospects:** Video hook (past Monaco party footage: Will.i.am, glamorous scenes) → form capturing profession, spend signals, influencer potential
-- **Segmentation in funnel:** "Cool but low-spend" vs. "real potential customers" (finance, F1 world, HNWI) handled differently
-
-> "Making people 'apply for a party' and then rejecting them creates enemies of the brand."
-> — *2026-XX-XX E-Commerce Strategy*
-
-The solution: rejection must feel like a waitlist, not a gatekeeper decision.
+- **Standard size:** 60×60 cm minimum. Smaller ones "are lame and you cannot really read Heaven Sake." (Call 1)
+- **Design:** Black and white. 5 units first for market evaluation. Torii gate simplified and clean. (Calls 1, 13, 16)
+- **Strategy:** "Flood the Tokyo cool restaurants." ~50+ units target. Cost ~€200 per piece when shipped in existing containers. (Call 1)
+- **Custom taru for Michelin-star accounts:** Restaurant logo printed on a smaller taru + content creation about the relationship. (Call 1)
+- **Every taru needs a piece of Instagram content made around it.** (Call 1)
+- **Target restaurant accounts:** Those currently displaying Dassai taru — HEAVENSAKE competes directly for that shelf/floor space. (Call 1)
 
 ---
 
-## The $5K Membership (Club Heaven)
+## $5K Membership (Club Heaven)
 
 | Element | Detail |
 |---------|--------|
@@ -96,61 +128,45 @@ The solution: rejection must feel like a waitlist, not a gatekeeper decision.
 | Benefits | Global events access (Monaco, Tokyo, NYC, Miami), annual allocation, limited editions, express shipping |
 | Welcome kit | Luxury 10-year anniversary box + Monaco invitation |
 | Launch sequence | ClubHeaven loyal customers first → invitation-only → scale to cold audience only after flows validated |
-| Digital card | Apple/Google Wallet passes (under exploration) |
 | Community channel | WhatsApp Business for intimate, non-broadcast engagement |
 
 ---
 
-## Shopify Architecture
+## US Legal Note
 
-**Current State (March 2026):**
-- Shopify is live for US market
-- Japan Shopify (jp.heavensake.com) in setup — Hikari platform being used for Japan logistics
-- Alcohol e-commerce in both markets handled via licensed third-party partnerships for regulatory compliance
-- Conversions API on Shopify: needs technical fix (pixel installation issues identified March 2026)
-- Label Noir and Azur = historically ~70% of DTC mix (because they launched first and Carl's network bought them)
-
-**Q2 2026 Priorities:**
-1. Fix Meta Ads pixel + Conversions API
-2. Launch Japan e-commerce (Hanami bottle)
-3. Rewrite welcome/onboarding email sequence (lead with sake mission, not Assemblage technique)
-4. Rebuild product mix strategy (Prestige 3 deserves its own DTC strategy at $300)
-5. Increase Meta budget to hit 50+ optimization events/week (current 1,000€/month = only ~25/week)
-
----
-
-## Meta Ads Strategy
-
-**Current problem:** €1,000/month = ~25 optimization events/week. Meta needs 50+ events/week for stable learning phase.
-
-**Recommended direction:**
-- Increase Meta budget; cut programmatic
-- Focus on Add-to-Cart events first (not purchases) to build optimization signal
-- Allocate ~20% of total spend to brand awareness (not just conversion)
-- Fix Conversions API technical integration before scaling
-- Start April 5 (post-Giancarlo transition)
-
-**Prestige 3 at $300:** Targeted exclusively at high-end buyers. Exclusivity controls, not broad reach.
-
----
-
-## Onboarding Correction Required
-
-Current onboarding emails start with Assemblage (the sake-making technique). This is wrong.
-
-The opening must lead with the **brand mission**: restoring sake's rightful place in the world. The Assemblage concept comes later as the "how" — not the "why."
-
-This must be corrected before any growth campaign is run.
+HEAVENSAKE cannot sell directly in the US market. It operates through a licensed partner (CIPSE/Tipsy). The US Shopify store may be owned/administered by the license holder. Any major website or distribution changes require **written confirmation from CIPSE (contact: Alla)**. (Call 33)
 
 ---
 
 ## Revenue Projection (DTC by Sept 2026)
 
-| Source | Projection |
-|--------|-----------|
-| Top 200 customer management | $200,000–$400,000 |
-| $5K memberships (30) | $150,000 |
-| Japan e-commerce (Hanami + portfolio) | $150,000–$300,000 |
-| US Shopify (existing customer reactivation) | $100,000–$200,000 |
-| **Total DTC target** | **$600,000–$1,050,000** |
+| Market | Target |
+|--------|--------|
+| Japan (jp.heavensake.com) | $400,000–$600,000 |
+| US Shopify (DTC via CIPSE structure) | $600,000–$1,000,000 |
+| Club Heaven memberships | $150,000 |
+| Inner circle relational revenue (Top 200) | $400,000 |
 
+**Total DTC potential from existing network (no new ads):** $200,000–$400,000
+
+---
+
+## Meta Ads (Summary)
+
+- Fix browser-only pixel → add server-side Conversion API tracking. Estimated 16% cost reduction. (Call 5)
+- Shopify purchase and email data must be properly connected for retargeting. 121,000 engaged users available. (Call 5)
+- Video/animation outperforms static consistently.
+- **[[Jakub Kambor]]** is the preferred specialist — re-engage him. (Call 34)
+
+Full Meta Ads details: [[Meta Ads Strategy]]
+
+---
+
+## Related Notes
+
+- [[Japan Market Strategy]]
+- [[Meta Ads Strategy]]
+- [[Carl's Vision for Heavensake 2026-2030]]
+- [[Team Structure & Roles]]
+- [[SOPs & Workflows]]
+- [[Conflicts for Carl to Resolve]]

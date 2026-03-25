@@ -1,16 +1,9 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2026-02-09 Marketing Alignment — Weekly Team Meeting.md
-  - 2026-01-05 Carl + Claire Catch-Up — 2026 Planning & Brand Direction.md
-  - 2026-03-02 Marketing Alignment — Major Session (171min).md
-  - 2026-03-16 Prestige 3 Launch Strategy — Carl + Claire.md
-  - 2026-03-18 AI Marketing Strategy — Carl + Jakub.md
-  - 2026-01-13 on board catchup Giancarlo.md
-  - 2025-12-23 VIP Membership AI.md
-tags: [content, Instagram, LinkedIn, email, Klaviyo, SEO, GEO, strategy, channels]
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [content, Instagram, LinkedIn, email, Klaviyo, SEO, GEO, strategy, channels, AI, team]
 ---
 
 # Content Strategy & Channels
@@ -19,12 +12,47 @@ HEAVENSAKE's content strategy is built on a systematic framework — not inspira
 
 ---
 
+## Instagram Is the #1 Priority
+
+> "Instagram is the most important window. If you have the choice between cracking how to create the perfect Instagram or how to design a little object or a box or a thing, it makes no difference. The object makes no difference because the object will be seen by a few hundred people. Instagram is seen by tens of thousands of people." (Call 7)
+
+Five weeks without posting is unacceptable. Consistency is a baseline requirement. (Call 7)
+
+"The Instagram needs to be the perfect, perfect window." (Call 7)
+
+---
+
+## Posting Schedule
+
+- **Best days: Tuesday, Wednesday, Thursday.** "Mondays are a bit depressing" and weekends have no attention. (Call 16)
+- **Post order matters** — feed visual harmony and content type sequencing must be planned.
+- **Do not post two carousels back to back.** (Call 16)
+- For Japan audience: post at Japan morning time.
+
+---
+
+## Content Types and Their Purpose
+
+- **Carousels:** A must, not optional. Instagram promotes them. Editorial feel — like a magazine. (Call 13)
+- **Reels:** "The reels page is the real stage and your feed is supposed to be a mix between reels and product hero shots and images and carousels." (Call 13)
+- **Hero shots:** Product images for the feed — not all reels. (Call 13)
+- **Stories:** Part of the content machine. (Call 26)
+
+---
+
+## Sound in Videos
+
+80% of viewers don't listen to sound. "Butterfly sounds are lame." Preference is either no sound or faint music — not specific sound effects. (Call 7)
+
+**Design for the visual first.** Every video must communicate its message with sound completely off.
+
+---
+
 ## The Content System: Words Before Images
 
 Carl's vision for how content should be produced:
 
-> "Every set of Instagram or LinkedIn or a blog post. The essence of the post is going to be dictated by two categories of words. One category that we define as sort of our creative things that we want — elevation, impurity, whatever is specific to tag a specific post — three, four, five, eight words. And the SEO words. So already those two sets of words create the foundation and the actual defined optimal length. And it's all at the end of the day intertwined pieces of content."
-> — *2026-02-09 Marketing Alignment — Weekly Team Meeting*
+> "Every set of Instagram or LinkedIn or a blog post. The essence of the post is going to be dictated by two categories of words. One category that we define as sort of our creative things that we want — elevation, impurity, whatever is specific to tag a specific post — three, four, five, eight words. And the SEO words. So already those two sets of words create the foundation and the actual defined optimal length." (Call 26)
 
 The pipeline:
 1. **Define brand creative words** (campaign-specific: 3–8 words that capture the mood/moment)
@@ -33,30 +61,58 @@ The pipeline:
 4. **Human filter** (Claire/Carl) → approve, fine-tune, or give feedback
 5. **Publish** across all channels (the content is structurally connected — not treated as separate tasks)
 
-> "Ideally what you want is an AI assistant that sends you 10 options of which sometimes one is going to be immediately fine or needs a little bit of fine-tuning, or you give it feedback of what needs to be changed, and in a relatively reasonable amount of time you end up with your perfect set of content."
-> — *2026-02-09 Marketing Alignment — Weekly Team Meeting*
+---
+
+## AI Content Creation Standards
+
+- **Need dedicated AI content creators ("Visual Studio Artists / Hybrid Creators")** who have trained their models on the HEAVENSAKE bottle. (Call 19)
+- **Master JSON/prompt template for consistency:** Same grain, same aesthetic across AI-generated content. Define the prompt once, adjust details per piece. (Call 16)
+- **Generative upscaling:** Take iPhone photos → AI specialist upscales to studio quality. This is a valid workflow. (Call 18)
+- **AI is great for:** Product videos, lifestyle imagery, kiln interiors (impossible with real cameras), water journey animations, bottle production sequences.
+- **AI cannot replace:** Real professional photography as base assets. "An AI photo is just never going to be the same as a real photo." (Call 13)
+- **AI image generation workflow:** ChatGPT creates a Midjourney prompt → Midjourney generates → Nano Banana refines and replaces specific elements. (Call 23)
+- **Acceptable AI use:** Use your own thinking first, then refine with AI. Understand the output. (Call 28)
+- **Unacceptable AI use:** Upload a document, copy-paste output without understanding it. (Call 28)
 
 ---
 
-## Instagram
+## Content Production Machine — The Hybrid Model
 
-**Role:** Primary brand presence; visual identity; cultural positioning
+HEAVENSAKE needs a proper content production machine:
 
-**Strategy:**
-- Alternate format types — don't post back-to-back carousels
-- Post Tuesdays–Thursdays (Carl's audience engagement insight)
-- Feed harmony: grid aesthetics matter; prestige content placement is deliberate
-- Mix product-focused content with story-driven / founder content
-- For Japan audience: post at Japan morning time
+> "We need to have a pool of people that we like working with, that we know is reliable, understand the brand, and for different missions, different challenges, know who to allocate what job to." (Call 26)
 
-**Active content types:**
-- Product carousels (Label Noir, Sakura Prestige, Prestige 3)
-- Founder/cultural story carousels (Rolling Stones, Chef Oliveira, Noguchi)
-- AI-generated video (butterfly, brand aesthetic videos)
-- Event content (Monaco party, Abu Dhabi, OmaWei dinners)
-- Japan-specific content (Hanami, Daruma, Mommy-san)
+Three models: in-house designer, global freelancer pool, or hybrid. Carl prefers the hybrid.
 
-**Community management gap:** HEAVENSAKE needs a "community manager" role — separate from content creator. Profile: junior, tech-savvy, AI-fluent, anywhere in the world. Handles reposting, caption management, basic engagement.
+For Japanese content: find young cool Japanese freelancers who want to work for cool brands. "There's definitely more young talented people than there is cool brands... for every cool brand you will have a thousand freelancers that are of quality." (Call 28)
+
+---
+
+## Creative Team by Function
+
+| Person | Function | Notes |
+|--------|----------|-------|
+| **Lifestyle/music agency** | Lifestyle/creative carousels, fashion-adjacent work | Preferred for Rolling Stones-style content |
+| **[[Moto-san]]** | Product and label design only | Not lifestyle creative; rate ~€110 execution |
+| **[[Zach]]** | Simple graphic tweaks | Reliable for minor edits |
+| **[[Delphine]]** | Fast turnaround, minor edits | Not a luxury/creative specialist |
+| **[[Julia]]** | AI artist — elegant, poetic output | Needs lead time (2–3 weeks); doesn't handle stress well |
+| **[[Shanti]]** | AI animation creator | Butterfly video, Prestige production video |
+| **[[Margay/Marguerite]]** | Basic graphic tasks (fonts on images, Forbes-style layouts) | NOT high-end design; moved to hourly/per-project |
+
+---
+
+## Claire's Delegation Authority
+
+Claire can approve reposts and operational social media decisions with Margie without Carl's sign-off for every minor item. Significant design decisions always go through Carl. (Call 16)
+
+---
+
+## Content Posting / Scheduling
+
+- Managed via Google Spreadsheet by Claire
+- Captions added by Margie
+- Carl personally reviews brand copy before it goes live
 
 ---
 
@@ -64,18 +120,13 @@ The pipeline:
 
 **Role:** Founder thought leadership; B2B brand building; sake culture narrative
 
-**The challenge:** Generic LinkedIn content doesn't work for HEAVENSAKE. Carl tested AI-generated LinkedIn plans and found them deeply inadequate:
-
-> "This is never going to work. This is never going to resonate with people. You need genius."
-> — *2026-01-05 Carl + Claire Catch-Up*
-
 **What LinkedIn requires:**
 - Authentic founder voices (Carl, Régis — or the Régis guardian successor)
 - AI avatar of Régis speaking English (explored as a LinkedIn play)
-- AI-generated 90-day content calendar (demonstrated live in March 2 session — Perplexity + LinkedIn integration now approved)
+- AI-generated 90-day content calendar
 - Thought leadership from the AI transformation angle (Carl's AI thesis is genuinely newsworthy)
 
-**March 2026 status:** Perplexity Computer + LinkedIn integration approved for automated content scheduling. 90-day calendar can now be generated and pre-scheduled.
+**Warning:** Generic AI-generated LinkedIn content is "depressing" and "boring." (Call 26) HEAVENSAKE needs genius, not templates.
 
 ---
 
@@ -83,85 +134,83 @@ The pipeline:
 
 **Role:** CRM, customer activation, membership, DTC sales
 
-**Key issue:** Migrated from HubSpot to Klaviyo for newsletter management (approved January 2026). Klaviyo is now the primary email platform.
-
-**Mobile display issues:** Newsletter mobile display has UX problems — flagged as urgent in March 2026. Must be fixed before any growth campaign.
-
-**The onboarding problem:**
-Current welcome emails start with Assemblage (the sake-making technique). This is wrong. The opening must lead with the brand's mission — restoring sake's rightful place in the world. Assemblage comes later as the "how."
+**Platform:** Klaviyo — now the primary email platform (migrated from HubSpot).
 
 **Email strategy by tier:**
 - **Top 5 VIPs:** Personal, individual emails — not automated
 - **Top 50:** Tailored sequences with personalized AI-written intros
 - **Top 200:** Automated but personalized via AI enrichment (LinkedIn, press references)
 - **General list:** Klaviyo sequences (welcome, nurture, post-purchase)
-- **VIP membership:** WhatsApp Business being evaluated for most intimate communications
 
 **Active sequences to build:**
-- Welcome sequence (rewrite urgently — lead with mission)
+- Welcome sequence (rewrite urgently — lead with mission, not Assemblage technique)
 - Post-purchase (thank you + brand story)
 - VIP inner circle care sequence
 - Membership welcome + onboarding
-- Prestige 3 launch sequence (to existing Prestige customers)
+- Prestige 3 launch sequence
 
 ---
 
-## Website
+## Newsletter Template (80/20 Rule)
 
-**Role:** Brand home, DTC sales, e-commerce entry point, SEO/GEO anchor
-
-**Platform:** Shopify (US market); Hikari (Japan logistics)
-
-**Current issues (as of March 2026):**
-- Domain verification for heavensake.com needs resolution
-- Meta pixel + Conversions API not properly installed (Carl to fix via developer team)
-- Orphan collections and obsolete products need to be cleaned from Shopify
-- SEO: missing page titles and meta descriptions flagged by Giancarlo (January 2026)
-- Mobile experience: UX improvements needed
-- Legal/cookie compliance for Japan and US markets requires review
-
-**GEO optimization:** HEAVENSAKE's brand is tracked across 6 major LLMs. Went from low single-digit to low double-digit mention percentage in 2 months of GEO program. Wikipedia article creation is a priority for LLM authority.
+The newsletter follows the 80/20 principle: 80% brand value (stories, content, craft) and 20% sales/commercial. It must never feel like a promotional catalog. (See [[SOPs & Workflows]])
 
 ---
 
-## PR & Press
+## Website & Blog Rules
 
-**Role:** Earned media to reinforce brand narrative; amplify product launches
-
-**Current approach:** Mommy (wine PR lady, Paris-based) handles Japan media placement. PR budget is limited.
-
-**Principle:** PR should be tied to product moments (Hanami bottle, Prestige 3) and cultural moments (10th anniversary, Monaco party), not generic brand campaigns.
-
-**Press coverage track record:** Forbes (2017, 2024, 2025), Wallpaper (2016, 2017), Fortune (2019), Whitewall (2025), Surface Magazine (2025), L'Officiel Ibiza (2023). Press index maintained in 4-Resources.
-
-**Gap:** No dedicated PR resource beyond Mommy. US PR remains ad hoc.
+- **All landing pages must live on heavensake.com** — never third-party tools (Linktree, etc.). Data ownership is non-negotiable. (Call 32)
+- **Blog:** Always ordered newest-to-oldest. Publication dates must appear on all articles. (Calls 30, 31)
+- **No design decisions on the website without Carl's approval.** (Call 16)
+- **Email capture on every event/partner page**
 
 ---
 
-## SEO / GEO
+## GEO (Generative Engine Optimization)
 
-**SEO current state:** Technical SEO audit done by Giancarlo on entry — found missing page titles and meta descriptions. Jakub engaged for SEO support.
-
-**GEO program:**
-- Lead: Abdel's GEO team
-- Budget: €2,900/month (3-month trial, approved December 2025)
-- Track: Mention percentage across 6 major LLMs (GPT-4, Claude, Gemini, Perplexity, Mistral, Grok)
-- Results after 2 months: Low single-digit → low double-digit mention percentage
-- Next priorities: Wikipedia article creation, external outreach for brand mentions in authoritative sources
+HEAVENSAKE is thinking beyond Google SEO to AI-native search:
+1. Create a custom HEAVENSAKE GPT trained as a sake sommelier on product data
+2. Submit sitemap to Bing Webmaster Tools (ChatGPT uses Bing for web search)
+3. Build external article citations to increase AI discoverability
+(Call 32)
 
 ---
 
-## Team and Responsibilities
+## AI Tools in Use
 
-| Function | Owner |
-|----------|-------|
-| Brand/content strategy | Carl + Claire |
-| Instagram management | Claire + junior community manager (to hire) |
-| LinkedIn automation | Claire + Perplexity integration |
-| Email/Klaviyo | Claire (post-Giancarlo) |
-| Website/tech | Digital team + Abdel |
-| SEO/GEO | Abdel + GEO team |
-| Meta Ads | Claire + Jakub (paid ads) |
-| PR Japan | Mommy (wine PR) |
-| PR US | TBD |
+| Tool | Use Case |
+|------|---------|
+| **Gemini** | Research queries, strategy thinking partner, technical questions before vendor calls |
+| **ChatGPT** | Midjourney prompt creation, customer list analysis, research |
+| **Claude** | Copywriting/refinement |
+| **Midjourney / Nano Banana Pro** | Image generation and AI editing/refinement |
+| **Perplexity** | Influencer research, specific factual research |
+| **Super Scale** | AI video generation (testing; not yet at brand quality) |
+| **Shanti** | AI animation for specific video projects |
 
+---
+
+## Instagram Close Friends
+
+~400 people have requested access. Those who show real love for the brand and have buying power should be mined for the VIP tier. Use as a VIP content list. (Call 23)
+
+---
+
+## Active Content Pipeline (As of March 2026)
+
+- Rolling Stones carousel — direction: fewer slides, cover has HEAVENSAKE logo, "Best Sake" not "Nominated," no red accents, artist order: Anima/Riza, Black Coffee, Virgil last. (Calls 7, 11, 16)
+- Label Noir butterfly video — approved, made by Julia, needs to connect narratively. (Calls 15, 16)
+- Noguchi carousel — V2 feedback given; Moto version too flat, needs music agency style. Caption: precision, science, data. "He leaves the room. His spirit stays in the tank." (Calls 8, 9, 11)
+- 10-year anniversary content — major campaign starting April/May 2026 (Calls 8, 9, 26)
+
+---
+
+## Related Notes
+
+- [[Japan Campaign Calendar]]
+- [[Events & Activations]]
+- [[Meta Ads Strategy]]
+- [[Brand Voice Bible]]
+- [[Visual Identity & Symbols]]
+- [[Team Structure & Roles]]
+- [[SOPs & Workflows]]

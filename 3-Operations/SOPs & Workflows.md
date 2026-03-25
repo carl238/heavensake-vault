@@ -1,9 +1,9 @@
 ---
 type: knowledge
-source: notebooklm-extraction
+source: carl-claire-37-calls
 status: validated
 last-updated: 2026-03-25
-tags: [SOPs, workflows, operations, content-machine, whale-hunt, restaurant-collab, newsletter, landing-page]
+tags: [SOPs, workflows, operations, content-machine, whale-hunt, restaurant-collab, newsletter, landing-page, communication]
 ---
 
 # SOPs & Workflows
@@ -33,7 +33,7 @@ The master workflow for producing all brand-aligned content using AI assistance.
 
 ## 2. "Whale Hunt" — Customer Audit Workflow
 
-The E-Commerce Customer Audit Workflow for identifying and converting the Top 20% VIP customers.
+The E-Commerce Customer Audit Workflow for identifying and converting the Top 20 VIP customers.
 
 **Step-by-step:**
 
@@ -51,7 +51,7 @@ The E-Commerce Customer Audit Workflow for identifying and converting the Top 20
 
 5. Escalate top prospects to [[Club Heaven]] concierge care pathway ($5,000 annual membership).
 
-**Current baseline:** ~600–689 Shopify records. ~313–315 paying customers. ~60–62 identified Top 20% Whales.
+**Current baseline (see [[Conflicts for Carl to Resolve]] for reconciliation):** ~315 purchasing customers; top 20 customers (not top 20%) identified as priority.
 
 **Owner:** [[Gloria]] (CRM/Data Specialist) with AI tooling support.
 
@@ -74,113 +74,160 @@ Rules for deciding which posts to pay to boost, and how to evaluate performance.
   - 100% video plays
 - If Jakub (or any agency) sends a report without these metrics, it is incomplete and should be rejected
 
-**Meta Ads Whale Targeting:**
-- Exclude zip codes too far unless targeting tourists
-- Use "Define Further" intersection feature
-- Base audience must match competitors like "sushi fine dining" ([[Masa]]) AND match "first business class travel" OR "luxury resorts"
+---
 
-**Background:** This SOP was crystallized after [[Jakub Cambor]]'s agency reported the "EA1" paid post as best-performing (88 ad saves in Ads Manager), while Carl's direct Instagram observation showed the organic "Sabbes" post had 3,500 likes vs. EA1's 422 — with far more meaningful engagement (saves vs. passive likes).
+## 4. Restaurant Collaboration SOP (Three-Tier System)
+
+Three-tier system for allocating digital support to restaurant partners. Final tier assignment is always Carl's call — the framework is a proposal, not automatic. (Call 32)
+
+**Tier 1 (Premium — Zuma/ICA level):**
+- Custom co-branded graphics
+- Professional photos + videos (pre- and post-event)
+- Dedicated landing page on heavensake.com
+- Featured/collab post
+- Paid social ($350 for 7 days / $50/day suggested start)
+- Analytics reports on Meta ads
+
+**Tier 2 (Standard):**
+- Standard co-branded graphics (no video)
+- Landing page on heavensake.com (no paid ads)
+- Basic guidance for social posts
+- Shareable content for partner channels
+
+**Tier 3 (Basic):**
+- No landing page
+- Basic co-branding only
+- Reposts on HEAVENSAKE stories ONLY
+
+**The principle:** The brand's digital resources are finite. The most culturally impactful partners get the most support. **Tier assignment is determined by Carl.**
 
 ---
 
-## 4. Restaurant Collaboration SOP (Tier System)
-
-Three-tier system for allocating digital support to restaurant partners.
-
-| Tier | Type | What HEAVENSAKE Provides |
-|------|------|--------------------------|
-| **Tier 1** | Flagship Fine Dining | Custom co-branded graphics, digital menus (to post on brand stories), paid social targeting local audiences, copywriting advice, motion stories |
-| **Tier 2** | Established Accounts | Standard co-branded graphics, story reposts, basic guidance, copywriting advice |
-| **Tier 3** | Emerging / New Accounts | Reposts on HEAVENSAKE stories ONLY. No dedicated content creation. No digital menus. |
-
-**The principle:** The brand's digital resources are finite. The most culturally impactful partners get the most support. Tier assignment is determined by Carl.
-
----
-
-## 5. Newsletter Template Rules
+## 5. Newsletter Template Rules (80/20)
 
 **Format mandate:**
+- **80% brand value (stories, content, craft) / 20% commercial/sales**
 - **80% Text / 20% Visual** (one high-quality photo maximum)
 - HTML-heavy, image-embedded buttons are **BANNED** — they require constant developer intervention and look too commercial
 - Text must be editable HTML (not baked into a JPEG)
 
 **Content philosophy:**
-- Must deliver actual value to the customer, not "masturbation" (Carl's word for newsletters that celebrate the brand's own events with no customer value)
+- Must deliver actual value to the customer — not brand self-celebration
 - Newsletter subject lines: "Reviving an Icon" approved framing
 - No discounts — deliver exclusive access, knowledge, or scarcity instead
 
 ---
 
-## 6. Landing Page Architecture
+## 6. Landing Page Templates
 
-Two types of landing pages, each with distinct UX logic:
+Two core templates needed on heavensake.com:
 
-**Type A — Events & Experiences (High-Friction)**
+**Events LP (High-Friction — Lead Generation):**
+- Email capture gate — tease exclusive info (menu, DJ, event details) in exchange for email
 - Designed to **gatekeep** information
-- Example: Hide the menu or DJ lineup until email is captured
 - Goal: Lead generation
-- Used for: Monaco F1 party, "A Better High" events, members-only drops
+- Used for: Monaco F1 party, members-only drops, event RSVPs
 
-**Type B — Product / Scarcity Drops (Low-Friction)**
+**Product LP (Low-Friction — Conversion):**
+- Checkout page for limited-edition releases, special drops, merch
 - Designed purely for **conversion**
 - Must allow customers to discover the full collection without dead-ends
-- Text must be editable HTML (not baked into a JPEG)
 - Goal: Direct purchase / waitlist completion
 - Used for: Sakura Prestige lottery, Hanami drop, Club Heaven membership
 
----
-
-## 7. Prompt Templates — Brand Voice Guide
-
-Official AI prompt templates for generating compliant HEAVENSAKE content:
-
-| Content Type | Rules |
-|-------------|-------|
-| **IG Captions** | Maximum **40 words**. Must use 1 sensory hook + 1 heritage phrase. |
-| **Editorial** | **300–500 words** bridging Japanese origins with French Assemblage. |
-| **Tasting Notes** | Structured strictly as **Nose → Palate → Finish**. Nothing else. |
-| **Event Invites** | Must use one phrase from "Collaboration" and one from "Luxury," creating scarcity. |
-
-**Approved Seed Phrases (mandatory hooks):**
-- "Silk on the tongue"
-- "A garden in bloom on the nose"
-- "Moonlight in liquid form"
-- "Eternity in a drop" (15-year mountain water filtration)
-- "The Third Color"
-- "Pure by nature, elevated by art"
+**Website infrastructure target:** CMS templated so pages can be duplicated and edited without full rebuild. Target: ~$300 and 3 days per new landing page. (Call 32)
 
 ---
 
-## 8. Communication Protocol — Brewery Partners
+## 7. Blog Rules
+
+- Always ordered newest-to-oldest. Publication dates must appear on all articles. (Calls 30, 31)
+- Content structure: dramatic hero image → narrative text + image blocks → luxury context moments + product shots
+- Carl personally reviews and refines blog copy before it goes live (Call 31)
+
+---
+
+## 8. Communication Rhythm
+
+**Daily:**
+- **6pm WhatsApp report:** From [[Claire Senda]] to Carl — digestible, prioritized by importance, with links to outputs. (Call 12)
+- Morning updates: What's been done, current blockers, ideas. "What works best for me is to wake up and have an understanding of what is happening out there with my team." (Call 30)
+
+**Weekly:**
+- **Weekly goals:** Define 3–4 clear goals at the start of each week. (Call 26)
+- **Monday team call:** Align EU team (Gloria, Giancarlo, Claire, Carl) before US marketing call. (Call 26)
+- Weekly progress updates are a baseline expectation — not just when asked.
+
+**Meeting structure:**
+| Meeting | Frequency | Participants | Purpose |
+|---------|-----------|-------------|---------|
+| Weekly Marketing Alignment | Weekly (Monday) | Carl, Claire, Gloria, Digital | Campaign updates, content decisions, priorities |
+| US Sales / Marketing | Weekly | Carl, Zak, Cesar, Nes | US market execution |
+| Carl + Claire catch-up | 2–3x/week | Carl, Claire | Brand direction, content approval |
+| Financial review | Monthly | Carl, Sebastien, Maurizio | Budget vs. actuals, adjustments |
+
+---
+
+## 9. Communication Protocol — Brewery Partners
 
 | Scenario | Contact |
-|----------|---------|
+|----------|---------| 
 | Routine operational matters | [[Nana]] (front-facing) |
 | Pricing / commercial / strategic | [[Sebastien L'Hermitte]] (escalation) |
 | Relationship-critical or crisis | [[Carl Hirschmann]] (personally) |
 | Sample logistics / US market | [[Zak Gross]] |
 
-**Cultural note:** Japanese business relationships require consistency, face-saving, and clear communication. When something goes wrong, the fix must be private, fast, and never cause public embarrassment. Standard communications for [[Shichiken]] ([[Nana]]) take ~3 back-and-forth emails; for HEAVENSAKE it currently takes 10 — a known inefficiency being addressed.
+**Cultural note:** Japanese business relationships require consistency, face-saving, and clear communication. When something goes wrong, the fix must be private, fast, and never cause public embarrassment.
 
 ---
 
-## 9. Shopify / Tech Stack Access Protocol
+## 10. Vendor Management Protocol
+
+Before commissioning any vendor:
+
+1. **Agree on exact deliverable, budget range, and specification/profile** before any research or sourcing task. (Call 33)
+2. **Get written confirmation** for all operational and legal decisions. "I need these things in writing and I should have them already today." (Call 33)
+3. **Test bit by bit** — never scale a vendor before they've proven themselves on small tasks.
+4. **Grill with specific questions** — use AI to generate trick questions for vendor evaluations. (Call 28)
+5. **Watch for "pro hustlers"** who use AI to sound smarter in meetings. (Call 28)
+6. **Document all communications** with problematic vendors (especially A2J) for potential legal review.
+
+---
+
+## 11. AI Tool Usage Protocol
+
+| Tool | Use Case |
+|------|---------|
+| **Gemini** | Research queries, strategy thinking partner, technical questions before vendor calls |
+| **ChatGPT** | Midjourney prompt creation, customer list analysis, research |
+| **Claude** | Copywriting/refinement |
+| **Midjourney / Nano Banana Pro** | Image generation and AI editing/refinement |
+| **Perplexity** | Influencer research, specific factual research |
+
+**AI use principle:** "I want people to use [AI]. What I do not want is people to just put the PDF into the thing, say give me your feedback, and then copy paste the answer without really having in depth understood the answer." (Call 28)
+
+Use AI as a first step, not as a final answer. Always understand the output.
+
+---
+
+## 12. Shopify / Tech Stack Access Protocol
 
 | System | Owner | Access Notes |
 |--------|-------|-------------|
-| [[Shopify]] (US) | [[SIPC]] / [[CIPC]] (distributor) | Admin via "Kevin's account"; requires live 2-step verification code sent to Kevin's email |
-| [[HubSpot]] | Internal | PR contacts + basic VIP network; not yet fully linked to Shopify |
-| [[Google Analytics 4]] + [[GTM]] | Lauran (former agency) | Active on site; pixel migration in progress |
-| [[Meta Business Suite]] | External agency (Lauran's) | Ad account + pixel being migrated back to HEAVENSAKE ownership |
-| [[Notion]] | [[Abdel Giant Nerd]] + [[Giancarlo Cappelletti]] | Central operating system; stores processes, supply chain, feeds future AI agent |
+| [[Shopify]] (US) | CIPSE / Tipsy | Admin via "Kevin's account"; requires live 2-step verification code sent to Kevin's email |
+| [[Klaviyo]] | Internal | Primary email platform (migrated from HubSpot) |
+| [[HubSpot]] | Internal | CRM — multi-user access and authenticator app needed. (Calls 1, 2, 5) |
+| [[Google Analytics 4]] + [[GTM]] | Active on site | Pixel migration in progress |
+| [[Meta Business Suite]] | External | Ad account + pixel being migrated back to HEAVENSAKE ownership |
+| [[Notion]] | [[Abdel Giant Nerd]] | Central operating system; stores processes, supply chain |
 
 ---
 
 ## Related Notes
 
 - [[Carl's AI Thesis]]
-- [[Contradictions & Open Questions]]
-- [[Vendors & Agency Failures]]
+- [[Meta Ads Strategy]]
 - [[Team Structure & Roles]]
-- [[Master KPIs & Metrics]]
+- [[Carl's Leadership Philosophy]]
 - [[Legal & Compliance]]
+- [[Conflicts for Carl to Resolve]]

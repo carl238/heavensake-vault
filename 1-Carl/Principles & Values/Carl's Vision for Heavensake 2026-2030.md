@@ -1,17 +1,9 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2026-03-20 Catch-up Carl Claire — AI Marketing Revenue Targets.md
-  - 2025-12-23 Financial Planning.md
-  - 2026-02-11 2026 Budget Review Part 1.md
-  - 2026-02-11 2026 Budget Review Part 2.md
-  - 2026-01-22 Weekly - Carl-Zak-Sebastien + 2026 Budget.md
-  - 2026-01-05 Carl + Claire Catch-Up — 2026 Planning & Brand Direction.md
-  - 2025-11-20 Sake Market Growth & Heaven Sake Brand Positioning.md
-  - 2025-12-03 Heaven Sake Digital Marketing & eCommerce Strategy.md
-tags: [vision, strategy, revenue, DTC, cultural-moments, 2026, Japan, US, distribution]
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [vision, strategy, revenue, DTC, cultural-moments, 2026, Japan, US, distribution, AI]
 ---
 
 # Carl's Vision for Heavensake 2026–2030
@@ -24,29 +16,40 @@ This note captures Carl's overarching strategic vision for HEAVENSAKE's directio
 
 Carl began 2026 with a candid reckoning:
 
-> "It has now been 10 years of us positioning this brand as this elegant, more wild, cool party brand, something in between that has great advantages… And yet the growth and the success of this so far has been a bit limited. At least not up to the wishes that I have."
-> — *2026-01-05 Carl + Claire Catch-Up*
+> "It has now been 10 years of us positioning this brand as this elegant, more wild, cool party brand, something in between that has great advantages… And yet the growth and the success of this so far has been a bit limited. At least not up to the wishes that I have." (Call 11)
 
-The 2024 financial results reinforced this: revenues ended **down 27% versus budget**, with a **net loss of $1.5 million** — three times worse than projected. The 2025 quarterly review showed the US market underperforming by 40%, Japan down 70% vs. budget.
+The 2024 financial results reinforced this: revenues ended down 27% versus budget, with a net loss of $1.5 million — three times worse than projected. The 2025 quarterly review showed the US market underperforming by 40%, Japan down 70% vs. budget.
 
-This is the baseline from which 2026–2030 strategy is built.
+**Previous burn rate: ~$20,000/month in ad spend with no return.** This era is over. (Call 4)
 
 ---
 
 ## The 2026 Financial Targets
 
-| Scenario | Revenue Target |
-|----------|---------------|
-| Conservative (15% growth) | ~$3.0M |
-| Intermediate | ~$3.5M |
-| **Upside (aggressive market strategies)** | **$4.6M** |
+| Market | Revenue Target |
+|--------|---------------|
+| **Japan** | $1M |
+| **US** | $1.5–2M |
+| **Total** | $3M |
 
-Carl's stated targets for market-level revenue:
-- **Japan:** $1M
-- **US:** $1.5–2M
-- **Balance:** Europe, Middle East, Asia
+**The Shichiken benchmark:** Shichiken already does $1M in Japan online sales — this is the direct reference point for HEAVENSAKE's Japan e-commerce target. (Call 4)
 
-Current ad spend: $20,000/month — Carl believes AI optimization can yield $30,000–$40,000 in returns from the same budget.
+**Ad efficiency target:** $3,400 ad spend → $30,000–40,000 in sales. This is the ratio that proves the model works. (Call 4)
+
+---
+
+## AI-Optimized Operation by September 2026
+
+The most significant structural goal for 2026 is a fully AI-optimized marketing operation by September. (Call 4)
+
+This means:
+- Content production machine that generates at-scale output with a lean team
+- Meta Ads managed by [[Jakub Kambor]] with AI-assisted targeting
+- CRM enrichment and customer segmentation via AI audit
+- Japan e-commerce launched and operational
+- GEO (Generative Engine Optimization) program running
+
+The operational aspiration: 1–3 people with AI tools doing the work of a 15-person agency.
 
 ---
 
@@ -68,16 +71,12 @@ Carl's projected DTC revenue from careful management of the existing database: *
 
 Carl's long-term conviction is that HEAVENSAKE will prove sake belongs at the top of the world — not through supermarket placements or distributor networks, but through cultural moments that cannot be ignored.
 
-> "We're a digital marketing brand. Even when we do events, the goal is for that to translate into digital media content. People generating likes for us and sharing it online. This is where the real value comes from."
-> — *2026-03-16 Prestige 3 Launch Strategy*
+> "We're a digital marketing brand. Even when we do events, the goal is for that to translate into digital media content. People generating likes for us and sharing it online. This is where the real value comes from." (Call 26)
 
 The event + content flywheel:
 - Monaco F1 party → global social media → brand awareness in markets where there's no distributor
-- Abu Dhabi auction → luxury audience exposure → organic reach into HNWI communities
 - Tokyo Daruma ritual + Japan e-commerce launch → credibility in the sake homeland
 - Nas/RZA dinners in NYC/Miami → cultural credibility in the US luxury market
-
-This is HEAVENSAKE's alternative to spending millions on distribution infrastructure: build cultural gravity that creates demand ahead of supply.
 
 ---
 
@@ -85,19 +84,9 @@ This is HEAVENSAKE's alternative to spending millions on distribution infrastruc
 
 The deeper mission — the "why" that drives everything:
 
-> Carl's vision, articulated across multiple meetings: sake is the world's oldest premium craft beverage, produced with extraordinary care by Japanese masters, and yet it is misunderstood and undervalued in every Western market. HEAVENSAKE was built to correct this — to show that a great sake belongs at the finest table in Monaco, in the best omakase in New York, in the hands of the world's most discerning customers.
+Sake is the world's oldest premium craft beverage, produced with extraordinary care by Japanese masters, and yet it is misunderstood and undervalued in every Western market. HEAVENSAKE was built to correct this — to show that a great sake belongs at the finest table in Monaco, in the best omakase in New York, in the hands of the world's most discerning customers.
 
 The market opportunity: sake is positioned to become the new tequila or rosé — a mainstream premium drink for health-conscious, culturally curious consumers aged 30–50. The category is estimated at $100–$150M accessible market in the US alone. Carl aims to own the premium end of this category.
-
----
-
-## The 2026 Proof Points
-
-Carl has articulated what 2026 must prove:
-1. **DTC works:** Japan e-commerce launch (Hanami bottle) + US Shopify optimization → $300K minimum from DTC by September
-2. **Cultural events create commercial momentum:** Monaco party → US September activation → Japan November event → measurable revenue increase in all three markets
-3. **AI gives HEAVENSAKE a cost-structure advantage:** Marketing outputs that used to require agencies and headcount now produced internally at a fraction of the cost
-4. **The inner circle can be monetized:** 30 $5K memberships + top 200 customer care program → $150K membership revenue + $400K relational revenue
 
 ---
 
@@ -105,28 +94,33 @@ Carl has articulated what 2026 must prove:
 
 Japan occupies a unique strategic position: it is the home of sake, and HEAVENSAKE entering Japan as a French-Japanese assemblage brand reverses the normal narrative.
 
-> "The whole Hanami thing is part of our DNA and we need to celebrate that in a cool way every year."
-> — *2026-02-04 Hanami Launch & 10th Anniversary Strategy*
+Japan is not primarily a revenue market — it is a credibility market. Success in Japan (jp.heavensake.com, Hanami limited edition, [[Shichiken]] and [[Niizawa]] partnerships visible on Japanese e-commerce) gives HEAVENSAKE the right to claim authenticity in every other market.
 
-Japan is not primarily a revenue market — it is a credibility market. Success in Japan (jp.heavensake.com, Hanami limited edition, Shichiken and Niizawa partnerships visible on Japanese e-commerce) gives HEAVENSAKE the right to claim authenticity in every other market.
-
-Target: **$1M Japan revenue by 2026 year-end** (aggressive scenario).
+Target: **$1M Japan revenue by 2026 year-end** (aggressive scenario). The Shichiken benchmark proves this is achievable.
 
 ---
 
-## US Vision: Miami as the Laboratory
+## US Vision: The Largest Revenue Opportunity
 
-The US market is HEAVENSAKE's largest opportunity ($1.5–2M target) and its most complex challenge (Southern distributor issues, high cost-to-serve, competitive premium sake landscape).
+The US market is HEAVENSAKE's largest opportunity ($1.5–2M target).
 
-The 2026 approach: **Miami first**, then systematize and export.
+2026 approach: **Monaco party in June → tease globally → US September activation** (Nas/RZA dinners in NYC and Miami) → Prestige 3 US launch.
 
-Miami is HEAVENSAKE's ideal laboratory: luxury hospitality culture, influencer-driven market, high-spend Latin and international clientele, strong Asian dining scene. What the brand learns about premium sake selling in Miami applies to NYC, LA, and eventually the national market.
-
-The 10th anniversary is the narrative catalyst: **Monaco party in June → tease globally → US September activation** (Nas/RZA dinners in NYC and Miami) → Prestige 3 US launch.
+**US legal note:** HEAVENSAKE cannot sell directly in the US market. It operates through a licensed partner (CIPSE/Tipsy). Any major website or distribution changes require **written confirmation from CIPSE (contact: Alla)**. (Call 33)
 
 ---
 
-## The $3–4 Billion Aspiration
+## The 2026 Proof Points
+
+Carl has articulated what 2026 must prove:
+1. **DTC works:** Japan e-commerce launch + US Shopify optimization → $300K minimum from DTC by September
+2. **Cultural events create commercial momentum:** Monaco party → US September activation → Japan November event → measurable revenue increase in all three markets
+3. **AI gives HEAVENSAKE a cost-structure advantage:** Marketing outputs that used to require agencies and headcount now produced internally at a fraction of the cost
+4. **The inner circle can be monetized:** 30 $5K memberships + top 200 customer care program → $150K membership revenue + $400K relational revenue
+
+---
+
+## The $3–4 Billion Long-Horizon Aspiration
 
 In longer-horizon discussions, Carl has referenced the possibility of building HEAVENSAKE into a $3–4 billion brand — the valuation that premium luxury spirits brands in the tequila and champagne categories have achieved.
 
@@ -137,7 +131,16 @@ This is not a 2026 target but a horizon: the brand's structural characteristics 
 ## What Carl Will Not Compromise
 
 - **Italy**: Carl has vetoed expansion into Italy as a market priority (cost-to-serve too high, cultural fit limited)
-- **Women's Day**: Rejected as a brand vehicle — too random without full genuine commitment
-- **Dassai**: Removed from the portfolio (details in Key Decisions Log)
+- **Women's Day**: Rejected as a brand vehicle — too generic without full genuine commitment
+- **Dassai**: Removed from the portfolio (details in [[Key Decisions Log]])
 - **Generic marketing**: AI-generated strategy that doesn't reflect HEAVENSAKE's specific story is discarded, not published
 
+---
+
+## Related Notes
+
+- [[DTC & E-Commerce Strategy]]
+- [[Japan Market Strategy]]
+- [[Meta Ads Strategy]]
+- [[Carl's Leadership Philosophy]]
+- [[Budget Reference]]
