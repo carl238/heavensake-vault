@@ -12,17 +12,53 @@ All confirmed quantitative data points extracted from HEAVENSAKE source document
 
 ---
 
-## E-Commerce & CRM Database
+## E-Commerce & CRM Database — DEFINITIVE (Actual Shopify Export)
+
+> Updated with actual data from Shopify export. Previous estimates are superseded by these verified figures.
+
+### US Shopify (40-Month Total)
 
 | Metric | Value | Notes |
 |--------|-------|-------|
-| US Shopify Records (Total) | ~600–689 | Total historical records in US Shopify database |
-| Actual Paying Customers | 313–315 | Confirmed buyers in Shopify (not just leads) |
-| Top 20% VIP Whales | ~60–62 people | Identified via AI audit as the top tier driving ~80% of revenue |
-| Airtable VIP List (Zak) | 30–40 people | Separate VIP list managed by [[Zak Gross]] in Airtable |
-| Prestige Buyers (~$800) | 5 people | Customers who purchased the ultra-premium Prestige tier |
+| **Total Revenue** | **$95.5K** | Across 40 months (US Shopify) |
+| **Total Paid Orders** | **428** | Verified from Shopify export |
+| **AOV (with tax)** | **$223** | Average order value including tax |
+| **AOV (subtotal only)** | **$184** | Average order value excluding tax |
+| **Total CRM contacts** | **722** | Total records in US Shopify CRM |
+| **Customers who ordered** | **346** | Actual buyers (placed at least one order) |
+| **Unconverted signups** | **376** | Signed up but never purchased |
+| **Repeat purchase rate** | **13.9%** | 48 repeat buyers out of 346 |
+| **Email opt-in rate** | **15.7%** | vs. 25–35% industry average — significantly below benchmark |
+| **Multi-item AOV** | **$308** | Orders with multiple items |
+| **Single-item AOV** | **$191** | Orders with one item |
 
-🚩 **These numbers reflect different segments of the same database.** They are frequently confused. See [[Contradictions & Open Questions]] #4 for full breakdown.
+### Revenue & Volume Leaders
+
+| Product | Role | Detail |
+|---------|------|--------|
+| **Label Noir ($92)** | Revenue anchor | 28.9% of total line revenue |
+| **Label Azur ($39)** | Volume leader | 365 bottles sold |
+| **Prestige I** | Ultra-premium | 6 units sold, generating $4,950 |
+| **Prestige I inventory** | Stock situation | 999 units currently in stock |
+
+### CRM & Email
+
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **Mailing list size** | ~3,000 | Total email addresses |
+| **HubSpot contacts** | 22,383 | Total HubSpot database |
+| **HubSpot bulk imports** | 85.8% | From offline events/imports (not organic digital) |
+| **HubSpot actual customers** | 46 | Verified buyers in HubSpot |
+| **Top 20 customers** | See segmentation | Absolute top 20 (not %) — the priority VIP focus |
+
+### Airtable VIP List
+| Metric | Value | Notes |
+|--------|-------|-------|
+| Airtable VIP List (Zak) | 30–40 people | Separate VIP list managed by [[Zak Gross]] in Airtable |
+
+> **Segment clarification:** 346 customers who ordered ≠ 722 total CRM contacts (376 are unconverted signups). The focus priority is the **top 20 absolute customers** (not top 20%).
+
+> **HubSpot vs. Shopify:** HubSpot’s 22,383 contacts are dominated by bulk offline imports (85.8%). Only 46 are verified actual buyers. Shopify is the authoritative source for purchasing customer data.
 
 ---
 
@@ -49,10 +85,10 @@ All confirmed quantitative data points extracted from HEAVENSAKE source document
 | Budget per Reel | ~$300 | Baseline paid spend per boosted video |
 | Ideal Posting Cadence | 3x per week | Breakdown: 2x deep-dive narrative, 1x lifestyle |
 
-**🚩 Paid vs. Organic Contradiction:**
-- Jakub's report: "EA1" paid post performed best (88 ad saves in Ads Manager)
+**Organic vs. Paid — Resolved (not a contradiction):**
+- Jakub's report: "EA1" paid post performed best (88 ad saves in Ads Manager) by paid-channel metrics
 - Carl's raw data: Organic "Sabbes" post → 3,500 likes / 21 comments. Paid "EA1" → 422 likes / 1 comment.
-- See [[Contradictions & Open Questions]] #6
+- **Carl's position:** A brand needs organic attraction to prove it’s real. Paid ads are a strategic necessity for alcohol brands building e-commerce given platform restrictions — not a replacement for organic. Both tracks are required. See [[Content Strategy & Channels]] and [[Meta Ads Strategy]].
 
 ---
 

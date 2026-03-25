@@ -6,9 +6,11 @@ tags: [people, brand-partner, cellar-master, assemblage]
 
 # Régis Camus
 
-**Role:** Cellar Master / Master Blender
-**Company:** Heavensake (formerly Piper-Heidsieck)
-**Relationship:** 8x IWC Sparkling Wine Winemaker of the Year; applies champagne assemblage techniques to Heavensake sake blending; central to brand credibility and ambassador recruitment ("guardians of his legacy")
+**Role:** World's most-awarded champagne maker; HEAVENSAKE Master of Assemblage
+**Company:** HEAVENSAKE (previously: Piper-Heidsieck & Charles Heidsieck 1994–2018; Rare Champagne 2018–2022 — now fully retired from champagne)
+**Relationship:** 8x IWC Sparkling Wine Winemaker of the Year; applies champagne assemblage techniques to Heavensake sake blending; central to brand credibility and ambassador recruitment
+
+> **TITLE NOTE:** Do NOT describe Régis as "Cellar Master of Charles Heidsieck" or "Cellar Master of Piper-Heidsieck." He retired from champagne in 2022. The correct descriptions are: "world's most-awarded champagne maker" and "HEAVENSAKE Master of Assemblage."
 **Contact:** Unknown (internal relationship via Carl)
 
 ## Context from Marketing Meetings
@@ -25,7 +27,7 @@ tags: [people, brand-partner, cellar-master, assemblage]
 
 ## Notes
 
-Régis Camus is the creative heart of Heavensake's product story. He is a former Piper-Heidsieck cellar master who won the IWC Sparkling Wine Winemaker of the Year award 8 times — one of the most decorated figures in the champagne world. His application of champagne assemblage techniques to sake blending is Heavensake's core product differentiator.
+Régis Camus is the creative heart of Heavensake's product story. He is the world's most-awarded champagne maker — having won the IWC Sparkling Wine Winemaker of the Year award 8 times, a record that has never been matched. He retired from champagne in 2022 (after Piper-Heidsieck 1994–2018 and Rare Champagne 2018–2022). His current role is exclusively HEAVENSAKE. His application of champagne assemblage techniques to sake blending is Heavensake's core product differentiator.
 
 The 10-year anniversary plan includes a landmark assemblage session in Champagne with Nas and [[Kurosaki]], creating a limited edition bottle that embodies the brand's cross-cultural philosophy.
 

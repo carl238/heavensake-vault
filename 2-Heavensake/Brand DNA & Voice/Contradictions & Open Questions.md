@@ -1,99 +1,74 @@
 ---
 type: knowledge
 source: notebooklm-extraction
-status: validated
+status: mostly-resolved
 last-updated: 2026-03-25
 tags: [contradictions, open-questions, data-integrity, brand-dna]
 ---
 
 # Contradictions & Open Questions
 
-These contradictions were flagged by NotebookLM forensic analysis of all HEAVENSAKE source documents. Every item here requires Carl to review and resolve with a definitive ruling. Until resolved, treat all conflicting versions as "unconfirmed."
+These contradictions were flagged by NotebookLM forensic analysis of all HEAVENSAKE source documents. Items marked ✅ have been resolved by Carl (March 2026). Changes have been propagated across the vault.
 
 ---
 
-## 🚩 CONTRADICTION 1 — Label Noir & Label Azur Brewery Origins
+## ✅ RESOLVED — CONTRADICTION 1 — Label Noir & Label Azur Brewery Origins
 
-This is the most consequential unresolved contradiction in the brand database. Four distinct versions appear across different documents:
+**Carl’s definitive resolution (March 2026):** Brewery assignments are market-specific. See [[Product Portfolio]] and [[Brewery Partnerships]] for the complete table.
 
-| Version | Label Noir | Label Azur | Source |
-|---------|-----------|-----------|--------|
-| **A** | [[Niizawa Brewery]] (Miyagi) | [[Dewazakura]] (Yamagata) | 2025 Product Specs Document |
-| **B** | [[Niizawa Brewery]] AND/OR [[Dewazakura]] | [[Shichiken]] OR [[Dewazakura]] | LinkedIn / PR Documents |
-| **C** | [[Dewazakura]] | [[Dewazakura]] (produces both) | Product Specs cross-reference |
-| **D** | [[Niizawa Brewery]] | [[Shichiken]] | Master Glossary |
+| Product | Brewery | Market |
+|---------|---------|--------|
+| Label Noir | Niizawa Brewery | US market |
+| Label Noir | Dewazakura | Dubai & other markets |
+| Label Azur | Shichiken | Japan market |
+| Label Azur | Dewazakura | US market |
 
-**Carl needs to resolve this.** The collateral inconsistency risks credibility with press, buyers, and distributors. The resolution must be communicated back to [[Claire Senda]], [[Giancarlo Cappelletti]], and all external-facing materials updated simultaneously.
-
----
-
-## 🚩 CONTRADICTION 2 — Carl's Role / Title
-
-| Version | Title | Source |
-|---------|-------|--------|
-| **A** | Co-Founder / CEO | Conversation transcripts (operational) |
-| **B** | Co-Founder / Creative Director | Brand documents, introductions |
-
-Note: [[Benjamin Eymere]] (CEO of [[L'Officiel]]) is listed as Co-Founder/CEO of L'Officiel, not of HEAVENSAKE — this is likely the source of confusion. Carl appears to hold both CEO authority and Creative Director function. However, the external-facing title is not consistently applied.
-
-**Carl needs to resolve this.** Pick one primary title for all external communications and lock it.
+All 🚩 flags on this topic across the vault have been removed. [[Product Portfolio]] is the authoritative reference.
 
 ---
 
-## 🚩 CONTRADICTION 3 — Niizawa Brewery World Ranking
+## ✅ RESOLVED — CONTRADICTION 2 — Carl's Role / Title
 
-| Version | Claim | Source |
-|---------|-------|--------|
-| **A** | Ranked #1 sake brewery in the world for **"six consecutive years"** | Some brand materials |
-| **B** | Ranked #1 sake brewery in the world for **"three consecutive years"** | Other brand materials |
+**Carl’s definitive title:** **Founder, CEO, Creative Director & CMO**
 
-**Carl needs to resolve this.** Verify the actual record with [[Iwao Niizawa]] / [[Nanami Watanabe]] and use only the confirmed number across all copy.
+He is the sole decision-maker on brand, strategy, marketing, and creative direction. Updated in [[Team Structure & Roles]], [[Carl Hirschmann]] (team note), and [[Brand Origin Story]].
 
 ---
 
-## 🚩 CONTRADICTION 4 — E-Commerce & CRM Database Numbers
+## ✅ RESOLVED — CONTRADICTION 3 — Niizawa Brewery World Ranking
 
-Five different figures appear across documents for what should be the same database:
-
-| Version | Figure | What It Represents |
-|---------|--------|-------------------|
-| **A** | 313–315 | Actual paying customers in the Shopify store |
-| **B** | ~600–689 | Total historical Shopify records (includes non-buyers) |
-| **C** | 60–62 people | Top 20% "Whales" as identified by AI audit |
-| **D** | 30–40 people | Airtable VIP list managed by [[Zak Gross]] |
-| **E** | 5 people | Prestige buyers who bought the ~$800 bottle |
-
-These numbers may all be correct if they measure different segments — but they are frequently referenced interchangeably, which creates confusion. The [[Giancarlo Cappelletti]] → [[Gloria]] CRM transition must produce a single clean data dictionary.
-
-**Carl needs to resolve this.** Confirm: which number is used for what purpose? Who owns each segment?
+**Confirmed by Carl:** Niizawa Brewery has been ranked **#1 in the World Sakagura Ranking for 4 consecutive years: 2022, 2023, 2024, and 2025.** They have also won the **IWC “Sake Brewer of the Year” for 4 consecutive years (2022–2025).** This is unprecedented. Updated in [[Brewery Partnerships]].
 
 ---
 
-## 🚩 CONTRADICTION 5 — AI Utopianism vs. Hallucination Risk (Carl vs. Abdel)
+## ✅ RESOLVED — CONTRADICTION 4 — E-Commerce & CRM Database Numbers
 
-| Version | Position | Source |
-|---------|----------|--------|
-| **A (Carl)** | AI ([[Gemini]], [[Perplexity]]) is currently "10 times more intelligent" than human consultants. Even at "80% perfect," that's "worth millions of dollars." Mandates team base all strategy on AI analysis. | Operational transcripts |
-| **B (Abdel)** | AI agents are "prediction machines" prone to hallucinations. Without a perfectly structured underlying database ([[Notion]]), relying on AI will result in accumulated, catastrophic errors. | [[Abdel Giant Nerd]] technical advisory |
+**Actual Shopify export data (verified):**
 
-Carl's resolution: He acknowledges this as a "bet" but insists on moving forward due to the perceived 6–12 month competitive window before AI democratizes.
+| Metric | Value |
+|--------|-------|
+| Total Revenue (US Shopify, 40 months) | $95.5K |
+| Total paid orders | 428 |
+| Total CRM contacts | 722 |
+| Customers who ordered | 346 |
+| Unconverted signups | 376 |
+| Repeat purchase rate | 13.9% (48 buyers) |
+| Mailing list | ~3,000 emails |
+| HubSpot contacts | 22,383 (85.8% bulk offline imports) |
 
-**This tension is unresolved** but explicitly acknowledged. The practical risk: the team receives conflicting signals — Carl says "trust AI fully," Abdel says "structure your data first." The brand database in Notion is not yet complete.
-
-See also: [[Carl's AI Thesis]], [[Abdel — Giant Nerd Automations]]
+Updated in [[Master KPIs & Metrics]].
 
 ---
 
-## 🚩 CONTRADICTION 6 — Paid vs. Organic Ad Performance
+## ✅ RESOLVED — CONTRADICTION 5 — AI Philosophy
 
-| Version | Claim | Source |
-|---------|-------|--------|
-| **A (Jakub's Report)** | Campaign "EA1" (paid boost) performed best — reported 88 ad saves | [[Jakub Cambor]] agency report |
-| **B (Carl's Raw Data)** | The organic "Sabbes" post received 3,500 likes / 21 comments. The paid "EA1" post received only 422 likes / 1 comment. The organic post drove more meaningful engagement (shares/saves over likes). | Carl's direct Instagram app observation |
+**Carl’s definitive position:** HEAVENSAKE is AI-first. The transformation is months away, not years. The company is committed to being at the forefront. See [[Carl’s AI Thesis]] for Carl’s full statement. Abdel’s structural caution is useful but does not override or delay AI-first direction.
 
-The discrepancy originates in how Meta reports data — the agency report used Ads Manager default views, not the custom pivot table Carl demands (saves, profile visits, 100% video plays). This incident prompted the [[Social Media Boost Triage SOP]] requiring custom Meta reporting.
+---
 
-**Carl needs to resolve this.** Jakub's methodology is considered flawed. The correct baseline for "best performing" must be defined and standardized.
+## ✅ RESOLVED — CONTRADICTION 6 — Paid vs. Organic
+
+**Carl’s clarification:** This is NOT a contradiction — it is a strategic balance. A brand needs organic attraction to be real. Paid ads are a necessary strategic tool for an alcohol brand building e-commerce given platform restrictions. Both tracks are required and complementary. See [[Meta Ads Strategy]] and [[Content Strategy & Channels]].
 
 ---
 

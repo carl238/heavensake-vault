@@ -6,9 +6,9 @@ tags: [people, core-team, founder, leadership]
 
 # Carl Hirschmann
 
-**Role:** Founder / CEO / Creative Director
+**Role:** Founder, CEO, Creative Director & CMO
 **Company:** Heavensake (Lucky Sake AG)
-**Relationship:** Co-founder and ultimate decision-maker; drives brand philosophy, digital strategy, and all strategic pivots
+**Relationship:** Founder and sole decision-maker on brand, strategy, marketing, and creative direction; drives brand philosophy, digital strategy, and all strategic pivots
 **Location:** Switzerland / Milan area
 **Contact:** carl@heavensake.com
 

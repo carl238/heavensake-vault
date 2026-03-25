@@ -24,7 +24,7 @@ This document serves as the table of contents for the entire Monday marketing me
 
 | Person | Role | Email |
 |--------|------|-------|
-| Carl Hirschmann | Founder / CEO / Creative Director | carl@heavensake.com |
+| Carl Hirschmann | Founder, CEO, Creative Director & CMO | carl@heavensake.com |
 | Zak Gross | US Marketing & Sales Lead | zak@heavensake.com |
 | Nes Rueda | US Sales (Miami/East Coast) | nes.rueda@heavensake.com |
 | Mio Okura | Japan/Asia + California | mio.okura@heavensake.com |

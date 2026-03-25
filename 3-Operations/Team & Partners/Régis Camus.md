@@ -1,9 +1,9 @@
 ---
 type: person
 name: Régis Camus
-role: Cellar Master & Co-Founder
+role: HEAVENSAKE Master of Assemblage — world's most-awarded champagne maker
 company: HEAVENSAKE
-relationship: co-founder
+relationship: creative co-founder / Master of Assemblage
 status: validated
 tags: [brand-dna, assemblage, founder]
 ---
@@ -14,7 +14,8 @@ tags: [brand-dna, assemblage, founder]
 
 Régis Camus is the most decorated sparkling winemaker in history and the creative soul behind every HEAVENSAKE expression. He is the first champagne master to apply the art of French assemblage to Japanese sake.
 
-- **Title:** Cellar Master & Co-Founder, HEAVENSAKE
+- **Title (correct):** World's most-awarded champagne maker; HEAVENSAKE Master of Assemblage
+- **Do NOT use:** "Cellar Master of Charles Heidsieck" or "Cellar Master of Piper-Heidsieck" — he retired from champagne in 2022 and those titles are no longer accurate
 - **Previous:** Cellar Master, Piper-Heidsieck & Charles Heidsieck (1994–2018); Cellar Master, Rare Champagne (2018–2022)
 - **Awards:** 8-time IWC "Sparkling Winemaker of the Year" (2004, 2006, 2007, 2008, 2009, 2010, 2011, 2013) — a record that has never been matched
 - **Education:** Oenology, University of Reims
@@ -102,6 +103,8 @@ The key distinction: **Assemblage is not blending.** Blending is industrial — 
 ### In Communications
 
 - Always name him specifically: **"Régis Camus"** — never "our cellar master" or "a French winemaker"
+- **Correct description:** "world's most-awarded champagne maker" + "HEAVENSAKE Master of Assemblage"
+- **Do NOT say:** "Cellar Master of Charles Heidsieck" or "Cellar Master of Piper-Heidsieck" — he retired in 2022; using old titles is factually incorrect
 - Lead with the IWC record when speaking to wine audiences
 - Lead with the Toji dialogue when speaking to sake audiences
 - His Champagne pedigree is particularly powerful for the **Champagne Switcher** persona (see [[Buyer Personas]])

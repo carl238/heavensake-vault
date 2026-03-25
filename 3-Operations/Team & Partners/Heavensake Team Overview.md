@@ -16,7 +16,7 @@ tags: [#team, #operations, #contacts]
 
 | Name | Email | Role / Function |
 |------|-------|-----------------|
-| **Carl Hirschmann** | carl@heavensake.com | Founder / CEO — drives strategy, AI adoption, brand, key supplier relationships |
+| **Carl Hirschmann** | carl@heavensake.com | **Founder, CEO, Creative Director & CMO** — sole decision-maker on brand, strategy, marketing, and creative direction; drives AI adoption, key supplier relationships |
 | **Claire Senda** | claire.senda@heavensake.com | Marketing & Brand Manager — campaigns, content, brand bible, supplier comms |
 | **Sebastien L'Hermitte** | sebastien.lhermitte@heavensake.com | Head of Operations — supply chain, brewery relationships, logistics, team hierarchy |
 | **Gloria Basile** | gloria.basile@heavensake.com | Events & POS Coordinator — Monaco logistics, security coordination, merchandise |

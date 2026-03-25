@@ -20,7 +20,7 @@ The HEAVENSAKE brand story is rooted in a unique cultural exchange, born from th
 
 The concept was conceived about twelve years ago by three French friends and visionaries:
 
-- **Carl Hirschmann** — an entrepreneur
+- **Carl Hirschmann** — Founder, CEO, Creative Director & CMO of HEAVENSAKE; the driving force and sole decision-maker behind brand, strategy, marketing, and creative direction
 - **Etienne Russo** — a world-renowned fashion producer
 - **Benjamin Eymere** — CEO of L'Officiel
 

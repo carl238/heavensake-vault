@@ -16,7 +16,7 @@ HEAVENSAKE operates with a lean core team augmented by specialized contractors a
 
 | Name | Email | Role | Notes |
 |------|-------|------|-------|
-| **Carl Hirschmann** | carl@heavensake.com | Founder / CEO / Creative Director | Strategy, brand vision, AI adoption, key relationships, commercial oversight. All brand decisions go through Carl. |
+| **Carl Hirschmann** | carl@heavensake.com | **Founder, CEO, Creative Director & CMO** | Strategy, brand vision, AI adoption, key relationships, commercial oversight. Sole decision-maker on brand, strategy, marketing, and creative direction. All brand decisions go through Carl. |
 | **Sebastien L'Hermitte** | sebastien.lhermitte@heavensake.com | Head of Operations | Supply chain, brewery relationships, logistics, team hierarchy, financials |
 | **Claire Senda** | claire.senda@heavensake.com | Marketing & Brand Manager | Japan-based. Campaigns, content, brand comms, Japan content, supplier comms. **6-month evaluation period (Q1 2026).** Growing toward "3 stars to 5 stars." Daily 6pm WhatsApp report required to Carl. Has delegation authority for operational social media decisions with Margie. |
 | **Gloria Basile** | gloria.basile@heavensake.com | Events & POS Coordinator | Monaco logistics, security coordination, merchandise, POS. Good execution; lacks aesthetic sensitivity — cannot be a brand manager. Carl told her this directly. (Call 33) |
@@ -40,6 +40,8 @@ HEAVENSAKE operates with a lean core team augmented by specialized contractors a
 ## Key People — Extended Profiles
 
 ### [[Etienne]] — Co-Founder / Fashion Show Producer
+
+> **Note:** Etienne is listed as a co-founder. Carl Hirschmann's definitive title is **Founder, CEO, Creative Director & CMO** — he is the sole decision-maker on brand, strategy, marketing, and creative direction.
 > "The greatest fashion show producer in the world as a founder." (Call 26)
 
 He is "the king of light" — his lighting team creates extraordinary visual effects. Carl almost prefers Etienne on camera for founders content. His agency produces events and lighting design. His Instagram (@created by Carl) exists but he doesn't have access to his own account. Central to the founders video interview series with Sarah in kimonos, tea ceremony setup. (Call 26)

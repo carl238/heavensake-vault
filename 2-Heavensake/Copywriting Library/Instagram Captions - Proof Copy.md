@@ -138,7 +138,7 @@ Designed by HEAVENSAKE and produced by ARITA PORCELAIN LAB, "PRESTIGE I" pays ho
 
 HEAVENSAKE finally comes to Japan with the clear intention of making sake resonate with the next generation. Although the brand is 100% made in Japan by acclaimed breweries like Niizawa and Urakasumi, the team behind HEAVENSAKE felt they had to prove themselves abroad and wait for the right time to enter the Japanese market.
 
-"It feels like there is a new energy around sake in Japan and we wish to contribute to that in our own way. Sake is probably the coolest drink in the world at the moment from Burning Man to Paris, so there is no reason why young Japanese people wouldn't embrace authentic sake brands that resonate with them." — Carl Hirschmann, HEAVENSAKE co-founder.
+"It feels like there is a new energy around sake in Japan and we wish to contribute to that in our own way. Sake is probably the coolest drink in the world at the moment from Burning Man to Paris, so there is no reason why young Japanese people wouldn't embrace authentic sake brands that resonate with them." — Carl Hirschmann, HEAVENSAKE Founder, CEO, Creative Director & CMO.
 
 The brand is distributed by Imadeya and is available online or at their GINZA 6 sake shop.
 

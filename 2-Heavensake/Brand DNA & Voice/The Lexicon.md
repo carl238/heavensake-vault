@@ -128,7 +128,7 @@ The 2026 strategic shift toward high-volume, AI-assisted, yet brand-aligned digi
 A critical marketing window in Spring (March/April) centered on the Pink Prestige launch and the theme of renewal.
 
 **Master of Assemblage**
-The title held by Régis Camus, the acclaimed French Cellar Master who applies his champagne-making expertise to the creation of HEAVENSAKE.
+The title held by Régis Camus — the world's most-awarded champagne maker (8x IWC Sparkling Winemaker of the Year, a record that has never been matched). He applies his lifetime of champagne expertise to the creation of HEAVENSAKE. Note: Do not refer to him as "Cellar Master" — his correct current title is "world's most-awarded champagne maker" and "HEAVENSAKE Master of Assemblage."
 
 ---
 

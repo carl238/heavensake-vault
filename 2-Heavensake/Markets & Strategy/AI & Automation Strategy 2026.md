@@ -8,7 +8,7 @@ tags: [AI, automation, strategy, hubspot, klaviyo, make, notion, abdel, perplexi
 
 # HEAVENSAKE AI & Automation Strategy
 
-*Source: heavensake-ai-strategy-2.docx — Prepared for Carl Hirschmann, Co-Founder | March 20, 2026*
+*Source: heavensake-ai-strategy-2.docx — Prepared for Carl Hirschmann, Founder, CEO, Creative Director & CMO | March 20, 2026*
 *CONFIDENTIAL*
 
 ---

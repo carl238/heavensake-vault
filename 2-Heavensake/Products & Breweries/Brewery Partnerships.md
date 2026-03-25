@@ -23,11 +23,12 @@ HEAVENSAKE's products are built on partnerships with Japan's most respected brew
 
 | Brewery | Product Role | Relationship Status | Key Issue |
 |---------|-------------|---------------------|-----------|
-| **Shichiken** | Core portfolio + Magnum | Active; e-commerce setup in progress | 20% price increase; e-commerce delayed 2–3 months |
-| **Niizawa** | Prestige 2 (Hanami); Prestige 3 | Critical relationship; near-crisis repaired | Inventory crisis (4,000 bottles); 24% price increase demand; was threatening to cancel |
-| **Noguchi** | Prestige 1; Ginjo | Active; some inventory challenges | Pre-COVID stock; doesn't allow Prestige 1 in Japan |
-| **Dewazakura** | Portfolio | Background relationship | Less active in current planning |
-| **Konishi** | Portfolio | Background relationship | Less active in current planning |
+| **Noguchi Naohiko Sake Institute** | Prestige I (US & Europe) | Active; some inventory challenges | Pre-COVID stock; doesn’t allow Prestige I in Japan |
+| **Niizawa** | Prestige II (Japan), Prestige III (liquid), Label Noir (US) | Critical relationship; near-crisis repaired | **#1 World Sakagura Ranking 4 consecutive years (2022–2025).** Inventory crisis (4,000 bottles); 24% price increase demand; was threatening to cancel |
+| **Shichiken** | Label Azur (Japan market) + Magnum | Active; e-commerce setup in progress | 20% price increase; e-commerce delayed 2–3 months |
+| **Dewazakura** | Label Azur (US), Label Noir (Dubai & other markets) | Active | — |
+| **Urakasumi** | Label Orange (all markets) | Active | [[Koichi Saura]] (13th-gen) |
+| **Konishi** | Junmai 12 (all markets) | Active | Oldest single-family brewery (est. 1550, Hyogo) |
 | **Daimon** | Ginjo for China market | Under exploration | Via Zak; China-specific supply |
 
 ---
@@ -66,7 +67,11 @@ HEAVENSAKE's products are built on partnerships with Japan's most respected brew
 
 ## Niizawa — Critical Relationship (Repaired)
 
-**Products:** Prestige 2 (Hanami/pink bottle), Prestige 3 (10th anniversary)
+**Products:** Prestige II (Japan), Prestige III / Sakura liquid, Label Noir (US market)
+
+> **DEFINITIVE ACHIEVEMENT:** Niizawa Brewery has been ranked **#1 in the World Sakagura Ranking for 4 consecutive years: 2022, 2023, 2024, and 2025.** This is unprecedented — no other brewery in the world has achieved this. They have also won the **IWC (International Wine Challenge) "Sake Brewer of the Year" award for 4 consecutive years (2022–2025)**. Niizawa is also known for producing "Absolute 0" (the world's most polished sake) and the brands Hakurakusei, Atago no Matsu, Zankyo, and Reikyo.
+
+**Founded:** 1873 | **Location:** Miyagi Prefecture
 
 **Key contact:** Via Tsushima / internal contact
 **Internal lead:** Carl Hirschmann (personally leading relationship repair)
@@ -196,15 +201,17 @@ Both Shichiken (20%) and Niizawa (24%) are requesting price increases driven by 
 
 ---
 
-## Dewazakura — Active Partner (Contradicted)
+## Dewazakura — Active Partner (RESOLVED)
 
-**Status:** Listed as active base liquid partner in multiple documents
+**Status:** Active base liquid partner
 **Location:** Yamagata Prefecture
 **Founded:** 1892
 **Heritage:** Kick-started the Ginjo boom in Japan with their 1980 release of Oka Ginjo
-**Products:** Involved in Label Azur and/or Label Noir production — exact assignment is contradicted across documents
+**Products (DEFINITIVE):**
+- **Label Azur** — US market
+- **Label Noir** — Dubai & other markets (outside US and Japan)
 
-🚩 **See [[Contradictions & Open Questions]] #1 for the full brewery attribution contradiction for Label Noir and Label Azur.**
+> All previous contradictions on Dewazakura’s product assignments are resolved. See [[Product Portfolio]] for the complete market-specific brewery assignment table.
 
 ---
 
@@ -213,11 +220,11 @@ Both Shichiken (20%) and Niizawa (24%) are requesting price increases driven by 
 | Brewery | Prefecture | Founded | Products | Status | Key People |
 |---------|-----------|---------|----------|--------|------------|
 | [[Noguchi Naohiko Sake Institute]] | Ishikawa | — | Prestige I | Active | [[Naohiko Noguchi]] (92, "God of Sake"); Yamahai method |
-| [[Niizawa Brewery]] | Miyagi | 1873 | Prestige II, Sakura Prestige | Active (repaired) | [[Iwao Niizawa]] (5th-gen CEO); [[Nanami Watanabe]] (youngest female Toji) |
+| [[Niizawa Brewery]] | Miyagi | 1873 | Prestige II (Japan), Prestige III (liquid), Label Noir (US) | Active (repaired) | [[Iwao Niizawa]] (5th-gen CEO); [[Nanami Watanabe]] (youngest female Toji). **#1 World Sakagura Ranking 4 consecutive years (2022–2025). IWC Sake Brewer of the Year 4 consecutive years (2022–2025). Unprecedented.** |
 | [[Urakasumi]] | Miyagi | 1724 | Label Orange | Active | [[Koichi Saura]] (13th-gen); [[Takashi-san]]; provides sacred sake for Shiogama Shrine |
-| [[Shichiken]] | Yamanashi | 1750 | Label Azur 🚩 | Active | Tsushima Kitahara (contact); Kitahara family; Emperor Meiji heritage |
+| [[Shichiken]] | Yamanashi | 1750 | **Label Azur (Japan market)** | Active | Tsushima Kitahara (contact); Kitahara family; Emperor Meiji heritage. **Shichiken is a brewery, not a product.** |
 | [[Konishi]] | Hyogo | 1550 | Junmai 12 | Active | [[Shintaro Konishi]] (15th-gen); oldest single-family brewery |
-| [[Dewazakura]] | Yamagata | 1892 | Label Azur/Noir 🚩 | Active | —; Ginjo boom pioneers |
+| [[Dewazakura]] | Yamagata | 1892 | **Label Azur (US market), Label Noir (Dubai & other markets)** | Active | Ginjo boom pioneers; kicked off the Ginjo boom in Japan with their 1980 release of Oka Ginjo |
 | [[Tatenokawa]] | Japan | — | — | **Inactive / Former** | [[Junpei-san]] (CEO) |
 | [[Katsuyama]] | Japan | — | — | **Inactive / Former** | — |
 | [[Dassai]] | Japan | — | — | **COMPETITOR** | — |

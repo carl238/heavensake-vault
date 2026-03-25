@@ -21,6 +21,22 @@ Consolidated from 37 Carl-Claire calls (Dec 2025–Mar 2026). This is the defini
 
 ---
 
+## Carl's Balanced Organic + Paid Philosophy
+
+> “A brand needs to have organic attraction; otherwise it is not a real brand. At the same time as an alcohol brand, we have a lot of restrictions on Facebook and Instagram, which do not allow for the same kind of organic engagement and growth as for other products. We are obviously building an e-commerce, which means we’re going to have to use ads very strategically.”
+> — Carl Hirschmann
+
+**This is NOT a contradiction — it is a strategic balance:**
+
+| Layer | Role | Why |
+|-------|------|-----|
+| **Organic** | Proves the brand is real | A brand without organic attraction is not a brand — it’s a paid placement |
+| **Paid / Ads** | Strategic amplification | Alcohol restrictions on Facebook/Instagram limit organic reach; e-commerce requires paid traffic |
+
+The two tracks work together. Organic builds credibility and community. Paid amplifies what works organically and drives DTC conversion. Neither replaces the other.
+
+---
+
 ## Two-Campaign Sequence
 
 **Never run engagement and conversion campaigns simultaneously.**
