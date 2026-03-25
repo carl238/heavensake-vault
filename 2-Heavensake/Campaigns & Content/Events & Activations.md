@@ -158,3 +158,30 @@ Every HEAVENSAKE event should answer:
 | Studio Drift | Drone shows (Abu Dhabi explored) | External |
 | Noemi (event production) | Events production manager, Italy | Internal |
 
+---
+
+## Historical Events Archive (NotebookLM Extraction)
+
+Full events table from the NotebookLM forensic extraction, documenting past activations:
+
+| Date | Location | Event Name | Attendees | Outcome |
+|------|----------|-----------|----------|--------|
+| **June 6, 2026** | Monte Carlo | 10-Year Anniversary (planned) | Carl, [[Jakub Cambor]] (invited), Club Heaven members | Anchor event for "Assemblage of Moments"; floating platform dinner + party |
+| **Spring (March/April)** | Global / E-Commerce | Hanami Drop | Online consumers, Whales | High-margin data capture via 50–100 bottle lottery |
+| **October 1** (recurring) | Global | International Sake Day | Influencers, Trade | Press push + digital influencer gifting strategy |
+| Past (recurring) | American Cathedral, Paris | "A Better High" Mini-Festival | Fashion, Art, Music crowds | Proved sake can dominate a high-energy nightlife environment |
+| Past | Monaco | "Taca by the Sea" | [[Taca-san]], Luckygrey, Guests | 6 expressions served; established sake in ultra-luxury Mediterranean setting |
+| Past | Monaco | "Endo in the Sun" Lunch | [[Chef Endo Kazutoshi]], [[Yu Kurosaki]], Akiko | Immersive culinary + knifemaking activation; Michelin-grade dining |
+| Past | New York | Pujol 25th Anniversary | [[Chef Enrique Olvera]], Guests | Paired Label Orange with Mexican gastronomy (pipián) |
+| Past | Bangkok, Thailand | Thailand Launch | Sake Merchants, VIPs | Mezzaluna dinner + Okura Cruise tasting; opened Thai market |
+| Past | Ritz-Carlton, Japan | "1 Year in Japan" | Brewers, Artisans, Friends | Celebrated Franco-Japanese roots in Japan |
+| Past | Milan, Italy | "Heaven House" | Paulin, Design Crowd | Blended space, sound, and sake design aesthetics |
+| Past | Shibuya, Tokyo | MAMIMOZI Activations | [[Mami-san]], Guests | Valentine's Day and Halloween art scroll unveilings |
+
+---
+
+## Related Notes
+- [[Partnerships & Collaborations]]
+- [[Key Venue Accounts]]
+- [[10th Anniversary — Assemblage of Moments]]
+- [[Master KPIs & Metrics]]
