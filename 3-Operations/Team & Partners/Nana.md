@@ -1,22 +1,51 @@
 ---
-status: needs-review
-source: Monday Marketing Meeting Transcripts
+status: validated
+source: Google Drive (Brand KB, Shichiken Meeting Notes, Roles Spreadsheet, Marketing Meetings)
 tags: [people, team, operations, japan]
+last-updated: 2026-03-25
 ---
 
-# Nana
+# Nana Zomen
 
-**Role:** New Team Member (Operations, Japan)
+**Full Name:** Nana Zomen
+**Role:** Japan Operations Coordinator
+**Email:** nana.zomen@heavensake.com
+**Location:** Japan
+**Reports to:** [[Sebastian|Sébastien Lhermitte]] (COO)
 **Company:** Heavensake
-**Relationship:** New hire joining the Japan operations team alongside [[Michael (COO)]]
-**Contact:** Unknown (internal)
 
-## Context from Marketing Meetings
+---
 
-- **2025-10-13:** Carl: "Nana, the new lady is here" — part of operations build-out in Japan alongside [[Michael (COO)]].
+## Responsibilities
 
-## Notes
+Nana is the front face of HEAVENSAKE with Japanese partners:
 
-Nana joined the Heavensake Japan operations team in October 2025. She is part of the broader organizational transformation following [[Noemi Di Nunzio]]'s departure and the hiring of a new COO.
+- **Brewery liaison:** Front-facing contact for all brewery operational matters (Shichiken, Dewazakura, Niizawa, Urakasumi, Konishi, Noguchi)
+- **Order management:** Places orders with breweries, coordinates delivery timelines
+- **Escalation path:** Escalates operational decisions to [[Sebastian|Sébastien Lhermitte]]
+- **Notion management:** Maintains operational documentation in Notion
+- **POS data:** Coordinates POS data and reporting
+- **Email correspondence:** Handles email communication with Mizawa/Shichiken (flagged for audit, Mar 2026)
 
-See also: [[Michael COO]], [[Carl Hirschmann]]
+---
+
+## Context
+
+- Joined the Japan operations team in **October 2025** as part of the broader organizational transformation following [[Noemi Di Nunzio]]'s departure
+- Works alongside [[Michael COO]] (Singapore-based, hired Sep 2025) in the Asia-Pacific operational build-out
+- **Performance concern (Mar 2026):** Performance issues noted by leadership; emails with Mizawa/Shichiken flagged for audit
+- The "10 emails per order" inefficiency with Shichiken operations was explicitly raised by [[Carl Hirschmann]] in March 2026 — this touches Nana's day-to-day workflow
+
+---
+
+## Key Relationships
+
+- **[[Sebastian|Sébastien Lhermitte]]** — Direct manager; escalation point for decisions
+- **[[Carl Hirschmann]]** — CEO; monitors performance
+- **Tsuruta-san** — Japan logistics partner; "Very kind, very reliable, very dedicated"
+- **Tsushima Kitahara** (Shichiken) — Primary brewery contact
+- **[[Michael COO]]** — Co-member of the Asia-Pacific operations team
+
+---
+
+See also: [[Sebastian|Sébastien Lhermitte]], [[Michael COO]], [[Carl Hirschmann]], [[Heavensake Team Overview]]

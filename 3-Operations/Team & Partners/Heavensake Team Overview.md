@@ -18,12 +18,53 @@ tags: [#team, #operations, #contacts]
 |------|-------|-----------------|
 | **Carl Hirschmann** | carl@heavensake.com | **Founder, CEO, Creative Director & CMO** — sole decision-maker on brand, strategy, marketing, and creative direction; drives AI adoption, key supplier relationships |
 | **Claire Senda** | claire.senda@heavensake.com | Marketing & Brand Manager — campaigns, content, brand bible, supplier comms |
-| **Sebastien L'Hermitte** | sebastien.lhermitte@heavensake.com | Head of Operations — supply chain, brewery relationships, logistics, team hierarchy |
+| **Sébastien Lhermitte** | sebastien.lhermitte@heavensake.com | **COO** — supply chain, brewery relationships, logistics, Japan e-commerce, team hierarchy. See [[Sebastian|full profile]]. |
 | **Gloria Basile** | gloria.basile@heavensake.com | Events & POS Coordinator — Monaco logistics, security coordination, merchandise |
-| **Nana Zomen** | nana.zomen@heavensake.com | Operations Coordinator — front-facing contact for brewery operational matters, Notion, POS data |
+| **Nana Zomen** | nana.zomen@heavensake.com | Japan Operations Coordinator — front-facing contact for brewery operational matters, Notion, POS data. Reports to Sébastien. See [[Nana|full profile]]. |
 | **Zak Gross** | zak@heavensake.com | Commercial / Sales — brewery sample logistics, distributor coordination, China market |
+| **Michele Fincato** | michele.fincato@heavensake.com | **Financial Controller / Head of Operations & Logistics** — based in Lombardy, Italy. Manages all shipping with 15+ freight partners, Xero accounting, ApprovalMax (2nd to last before Carl), DTC fulfillment, inventory. See [[Michele Fincato|full profile]]. |
 | **Giancarlo Cappelletti** | giancarlo.cappelletti@heavensake.com | Digital Marketing Manager — *exiting end of March 2026*; overseeing transition plan |
 | **Digital Team** | digital@heavensake.com | Digital / Tech support — ad account management, pixel setup, platform operations |
+
+---
+
+## Digital Marketing Team (Hired / Interviewing)
+
+| Name | Email | Role | Status |
+|------|-------|------|--------|
+| Emily Saint-Ablett | — | Digital Marketing Strategist + Project Manager | Hired |
+| Matt Stewart-Tribe | — | Graphic Designer | Hired |
+| Bartek | — | CRM Specialist — Klaviyo Migration | Hired |
+| Jakub | — | SEO Specialist + Data Analyst | Hired |
+| giselehuman@gmail.com | — | Copywriter | Hired |
+| Pinterest Specialist | — | Pinterest | Interviewing |
+| Web Developer | — | Web Development | Decision needed |
+
+---
+
+## Sales Team
+
+| Name | Role | Notes |
+|------|------|-------|
+| Juan Miguel Mora Yanes | Sales | Executive meetings participant |
+| Andrew | Executive | Executive meetings |
+| Benoit | Canada Market | Distribution management |
+| Craig Kibukamusoke | UK Brand Ambassador (proposed) | Instagram: Connoisake. Commission-based initially. Michelin-starred connections. |
+| Steven | Systems / SCM | Airtable vs. ERP feedback |
+
+---
+
+## Creative & Design Contractors
+
+| Name | Role | Rate | Notes |
+|------|------|------|-------|
+| Moto-san | Product/Label Designer | ~€110/execution | Good for label tweaks, not lifestyle/creative |
+| Zach | Graphic Designer | — | Reliable for simple tweaks |
+| Delphine | Graphic Designer | — | 3-day turnaround, simple/reliable |
+| Julia | AI Artist | — | Elegant, poetic. 2–3 weeks lead time. Created Label Noir butterfly video |
+| Shanti/Shantae | AI Animation Creator | — | Prestige AI production video, butterfly video |
+| Jakub Kambor | Meta Ads Specialist | ~$200-300/campaign | Benchmark: 50K–60K views per $300 |
+| Urai | Videographer (Japan) | $1,000/day + $200 travel | Trusted. Daruma anniversary shoot April 2026 |
 
 ---
 
@@ -63,4 +104,4 @@ tags: [#team, #operations, #contacts]
 
 ---
 
-*Sources: Fireflies meeting transcripts, Feb 23 – Mar 20, 2026*
+*Sources: Fireflies meeting transcripts (Feb 23 – Mar 20, 2026), Google Drive documents (Brand KB, Roles Spreadsheet, Executive Meeting Notes, Michele Fincato Email Audit, Operations Effectiveness Phase 2)*

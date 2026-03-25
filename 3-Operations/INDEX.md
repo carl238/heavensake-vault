@@ -4,18 +4,22 @@ Everything related to running the business — logistics, distribution, finance,
 
 ---
 
-## Distribution
+## Supply Chain, Logistics & Distribution
 
-Logistics, distributor relationships, and market delivery.
+Logistics, distributor relationships, shipping, and market delivery.
+
+**Synthesized Knowledge Note**
+- [[Supply Chain & Logistics]] — COMPREHENSIVE. Global supply chain map: 14+ markets, all brewery partners, shipping routes & costs, 15+ freight partners, DTC fulfillment workflow, warehousing, naming conventions, and operational improvement roadmap.
 
 > **Note:** All distribution meeting transcripts have been moved to `5-Archive/Meeting Transcripts/` for reference. The synthesized knowledge from these meetings is captured in the notes below.
 
 **Key reference:** See [[Markets & Strategy]] and [[US Market Strategy]] for distributor strategy context.
 
 Key distribution facts:
+- **Park Street (US):** US distribution platform + importer. CIPSE/Tipsy as license holder.
 - **Southern Glazers (US):** Main US distributor; technical ordering issues; sample/chargeback problems being resolved
 - **LMDW (France):** La Maison du Whisky — France distribution; Carl requires storytelling brand alignment as non-negotiable
-- **Japan:** Distributor relationship under review; e-commerce (Hikari) being added as direct channel
+- **Japan:** Imadeya (retail), UPAC/Japan Post (last-mile). E-commerce launch May/June 2026.
 - **China/HK:** Via Zak + Telford contacts; NFC tags being implemented for brand protection
 
 ---
@@ -39,7 +43,10 @@ Key people running the business.
 - [[Team Structure & Roles]] — DEFINITIVE NOTE: Who does what, who reports to whom, contractor relationships, performance evaluations, gaps identified, hiring priorities.
 
 **Standing Reference**
-- [[Heavensake Team Overview]] — Compiled team roster (reference version).
+- [[Heavensake Team Overview]] — Compiled team roster (reference version). Now includes Digital Marketing Team, Sales Team, and Creative & Design Contractors.
+- [[Sebastian|Sébastien Lhermitte]] — COO. Japan e-commerce, operations decisions, expense authority. Full profile with confirmed appearances.
+- [[Michele Fincato]] — Financial Controller / Head of Operations & Logistics. Based in Italy. Manages 15+ freight partners, Xero, ApprovalMax, DTC fulfillment, inventory. Full profile.
+- [[Nana|Nana Zomen]] — Japan Operations Coordinator. Front-facing brewery contact. Reports to Sébastien.
 - [[Abdel — Giant Nerd Automations]] — Abdel's role: AI and automation infrastructure; Notion, make.com, and data pipelines.
 - [[Régis Camus]] — Cellar master; Assemblage technique architect; succession planning in progress.
 
