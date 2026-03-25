@@ -49,8 +49,9 @@ Key people running the business.
 
 Operational systems, automation, ecommerce, and digital infrastructure.
 
-**Synthesized Knowledge Note**
+**Synthesized Knowledge Notes**
 - [[Tech & Automation Stack]] — DEFINITIVE NOTE: Shopify, Notion, Airtable (legacy), Make.com, HubSpot, Klaviyo, Meta Ads Manager, Perplexity Computer, GEO stack. What's connected, what's broken, what Abdel is building.
+- [[Ops & Automations — Make.com]] — **COMPREHENSIVE.** Full Make.com infrastructure map: every active scenario, nightly batch orchestration, dashboard system, JP Brewery forms, all 19 connections, 26 webhooks, credit budget (40K/mo, 87% utilization), incident history, and 7 optimization opportunities. The operational nervous system documented.
 
 > **Archive:** All tech and infrastructure meeting transcripts are in `5-Archive/Meeting Transcripts/`.
 

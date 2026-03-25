@@ -4,6 +4,12 @@ The brand as its own entity. Everything that defines what HEAVENSAKE IS, what it
 
 ---
 
+## Brand Knowledge Base
+
+- [[Brand Knowledge Base — Carl-Claire Calls]] — **COMPREHENSIVE.** All brand guidance extracted from 37 Carl-Claire calls (Dec 2025 – Mar 2026). Covers identity, positioning, product strategy, visual system, tone of voice, marketing, partnerships, events, merchandising, competitive landscape, key people, and Japan strategy. 56 direct Carl quotes. Start here for the complete brand picture.
+
+---
+
 ## Brand DNA & Voice
 
 The foundational documents — what the brand believes, how it speaks, who it speaks to.
