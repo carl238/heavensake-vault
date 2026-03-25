@@ -99,19 +99,37 @@ Brand elements placed high in compositions reinforce this. "PURE ELEVATION" (the
 
 ---
 
+## The Execution Thesis
+
+Carl's assessment as of March 2026: HEAVENSAKE has all the ingredients for success. What remains is systems and execution.
+
+> The brand is really, really strong and desired. It's just a question of execution. We have: the product, the portfolio with a nice price range from $35 to $700, the brand credibility, the distribution, the history, the storytelling, the great design. We have everything it takes. Now it's just about systems and execution.
+
+This is not a brand problem or a product problem — it is an infrastructure and cadence problem. The solution is AI-driven systems that enable the required consistency and output without proportional headcount growth.
+
+See also: [[Carl's Execution Thesis]], [[AI & Automation Strategy 2026]]
+
+---
+
 ## Product Portfolio & Strategy
 
 ### Current Product Lines
 
-| Product | Description | Price Point |
-|---|---|---|
-| **Prestige 1** | White porcelain bottle, flagship premium | ~€800 / $800 |
-| **Prestige 2** | White porcelain bottle, second variant | ~€800 / $800 |
-| **Prestige 3 (Sakura)** | Pink matte sanded porcelain, 10th anniversary limited edition | ~€800 / $800 |
-| **Label Noir** | Original 2016 launch product, black bottle | Mid-range |
-| **Azure (Azul)** | Blue bottle; primary sake for events and cocktails | Mid-range |
-| **Label Orange** | Separate packaging line; 3,000 units in stock | Mid-range |
-| **Shichi Ken / Shichiken** | Lower price-point entry product | Entry-level |
+| Product | Brewery | Market | Price Point |
+|---|---|---|---|
+| **Prestige I** | Noguchi Naohiko Sake Institute | US & Europe | ~$800 |
+| **Prestige II** | Niizawa Brewery | Japan only (currently); Europe rollout planned | ~$800 |
+| **Prestige III (Sakura)** | Niizawa (liquid) + Arita Porcelain Lab (vessel) | Limited edition — all markets | ~$800 |
+| **Label Noir** | Niizawa Brewery | US | ~$92 |
+| **Label Noir** | Dewazakura | Dubai & other markets | ~$92 |
+| **Label Azur** | Shichiken | Japan | ~$39–50 |
+| **Label Azur** | Dewazakura | US | ~$39–50 |
+| **Label Orange** | Urakasumi | All markets | ~$75 |
+| **Junmai 12** | Konishi | All markets | ~$35 |
+
+**Price range:** $35 (Junmai 12) to ~$800 (Prestige range) — a portfolio with excellent breadth.
+
+**Niizawa Brewery** holds the #1 World Sakagura Ranking for 4 consecutive years (2022–2025) and IWC Sake Brewer of the Year for 4 consecutive years (2022–2025) — the most decorated sake brewery in the world.
 
 **Discontinued:** Sake Baby — to be removed/hidden from Shopify. (Call 5)
 
@@ -391,6 +409,18 @@ HEAVENSAKE should own its achievements without boasting. The music relationships
 Content is the primary marketing vehicle. Ads amplify content; they do not replace it.
 
 > "We just need to find them and we need to show them how cool we are. We need to do cool and I'm confident that we're going to do cool shit." (Call 4)
+
+### Organic vs. Paid Balance
+
+A brand needs organic attraction — otherwise it is not a real brand. The organic pull is the proof that the brand resonates.
+
+At the same time, as an alcohol brand, HEAVENSAKE faces significant restrictions on Facebook and Instagram that do not allow the same kind of organic engagement and growth as non-regulated products. The strategy must account for this:
+
+- **Organic:** Proves brand pull, builds community, creates content library, earns credibility
+- **Paid:** Required for e-commerce growth, strategic ad spend with precision targeting (see [[Meta Ads Knowledge Base]])
+- **Balance:** Both must coexist. Over-reliance on paid means the brand is buying attention, not earning it. Zero paid means leaving e-commerce growth on the table.
+
+The goal is AI-powered systems that maintain the required posting cadence and consistency — the bottleneck is not creative quality but operational throughput.
 
 ### Campaign Calendar (Japan Focus)
 
@@ -1037,6 +1067,22 @@ Use AI as a first step, not as a final answer. Always understand the output.
 - AI-generated version of Regis Camus speaking English for LinkedIn
 - Principle: shoot one day in a studio, generate months of content via AI from that session (Call 26)
 
+### AI-First Operating Philosophy
+
+HEAVENSAKE aims to be at the forefront of AI-driven business operations. Carl's conviction:
+
+> It is clear what is about to happen — it is already happening and it is only a matter of time, counted in months not years, until most of the procedures, especially the annoying and repetitive ones but also many, many other ones, will be optimized, managed, and driven by AI in a way that is going to change the way companies operate. We want to be at the forefront of that.
+
+This is not a "nice to have" — it is a strategic bet. The company treats AI adoption as a competitive advantage, not a cost-saving exercise. Areas of active AI integration:
+- Content creation and posting cadence (solving the consistency bottleneck)
+- Outreach automation (LinkedIn, email)
+- Knowledge management (this Obsidian vault, managed via Perplexity Computer)
+- Ad campaign management and optimization
+- Research and competitive intelligence
+- Operations automation (Make.com scenarios — see [[Ops & Automations — Make.com]])
+
+See [[AI & Automation Strategy 2026]], [[Carl's AI Thesis]]
+
 ### SEO Priority
 
 - SEO is an active consideration especially for Japan market
@@ -1060,7 +1106,9 @@ Use AI as a first step, not as a final answer. Always understand the output.
 
 ## Key People & Relationships
 
-### Carl Hirschmann — Founder / CEO / Creative Director
+### Carl Hirschmann — Founder, CEO, Creative Director & CMO
+**Founder, CEO, Creative Director & CMO** — the ultimate decision-maker on brand, strategy, marketing, and creative direction.
+
 All brand decisions, art direction, and strategy go through Carl. He reviews brand copy personally before it goes live. He approves all design decisions, vendor tier assignments, and major campaign directions. Has a personal relationship with the phoenix. Loves precision and detail. Thinks about brand as 100 small things in harmony.
 
 ### [[Etienne]] — Co-Founder / Fashion Show Producer

@@ -1,5 +1,5 @@
 ---
-status: needs-review
+status: validated
 source: Monday Marketing Meeting Transcripts
 tags: [people, core-team, founder, leadership]
 ---

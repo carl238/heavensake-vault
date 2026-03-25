@@ -26,6 +26,8 @@ The rosé wine revolution is the strategic template. Rosé evolved from an after
 
 HEAVENSAKE is executing the same playbook for sake. Sake at parties. Sake on stage. Sake at weddings. Sake when the moment calls for something grand.
 
+The strategic use of **big formats** — magnums and jeroboams — is not decorative. It is a deliberate positioning tool that associates sake with grandness and celebration moments, just as it did for rosé.
+
 ---
 
 ## Elegance
@@ -42,6 +44,7 @@ HEAVENSAKE celebrates Japanese culture and French culture, uniting them. But it 
 - Sake culture — proving sake belongs beyond the sushi counter
 - Celebration culture — proving sake belongs on stage, at parties, in moments of joy
 - The intersection of Eastern and Western luxury traditions
+- The brand **influences** sake culture by introducing it to music, nightlife, and celebration contexts that were previously inaccessible.
 
 ---
 
