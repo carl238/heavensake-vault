@@ -1,87 +1,136 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2026-02-04 Hanami Launch & 10th Anniversary Strategy.md
-  - 2026-02-05 Pink Bottle.md
-  - 2026-03-03 Shichiken x Heavensake — Brewery Partner Meeting.md
-  - 2025-09-18 Brand Launch Japan & Market Expansion Strategy.md
-  - 2025-03-31 Tushar CFO — Japan Strategy & Financial Reporting.md
-  - 2025-04-23 Quarterly Business Review — US, Europe & Japan Markets.md
-  - 2026-03-20 Catch-up Carl Claire — AI Marketing Revenue Targets.md
-tags: [Japan, e-commerce, Hanami, Shichiken, credibility, DTC, jp.heavensake.com]
+last-updated: 2026-03-25
+source: carl-claire-37-calls
+tags: [Japan, e-commerce, Hanami, Shichiken, credibility, DTC, jp.heavensake.com, copywriting, culture, gifting]
 ---
 
 # Japan Market Strategy
 
-Japan is HEAVENSAKE's **credibility market** — the home of sake, where success gives the brand the right to claim authenticity everywhere else. It is also a growing revenue opportunity with a $6.6 billion total sake market and sophisticated e-commerce infrastructure.
+Japan is HEAVENSAKE's **#1 priority for 2026** — the home of sake, where success gives the brand the right to claim authenticity everywhere else. It is also a growing revenue opportunity with a $6.6 billion total sake market and sophisticated e-commerce infrastructure.
 
 ---
 
-## Japan's Strategic Role
+## Japan as #1 Priority for 2026
+
+Japan e-commerce was at zero as of late 2025. The Japanese website launch is the #1 digital priority for 2026. [[Giancarlo]] leads the build-out. (Call 26)
 
 Japan is not primarily about revenue (though $1M is the 2026 target). It is about credibility:
 
 - A French-Japanese brand succeeding **in Japan** on Japanese terms validates the assemblage concept globally
 - Japanese consumers are the world's most discerning sake judges — their acceptance carries weight in every other market
-- Japanese brewery partnerships (Shichiken, Niizawa, Noguchi) create supply authenticity that cannot be replicated
+- Japanese brewery partnerships ([[Shichiken]], [[Niizawa]], [[Noguchi]]) create supply authenticity that cannot be replicated
 - Presence in Japan allows HEAVENSAKE to say "we are not just inspired by Japan — we operate in Japan"
 
 ---
 
-## E-Commerce: jp.heavensake.com
+## Website — Speed Over Perfection
 
-**The launch vehicle:** The Hanami limited edition bottle (Prestige 2, pink ceramic, 50–100 units) is HEAVENSAKE's Japan e-commerce launch. This is the strategic logic:
+> "Just do whatever is the most easy and flowing and gets the website out once and for all." (Call 30)
 
-> "You attract people into your ecosystem and then you downsell or whatever it's called to say — when you then sell them a $100 bottle it seems like a good deal."
-> — *2026-02-04 Hanami Launch & 10th Anniversary Strategy*
-
-The model:
-- **Premium limited edition at ¥70,000** creates exclusivity, urgency, and media attention → captures customer emails and establishes brand positioning
-- **Regular portfolio at ¥10,000–¥15,000** is the real volume play → once someone enters the ecosystem, they're served the broader range
-- The limited edition is **not available anywhere else** → forces traffic to jp.heavensake.com
-
-**Logistics platform:** Hikari is being used for Japanese e-commerce logistics and warehouse management.
-
-**Regulatory compliance:** Alcohol promotion in Japan has specific rules — all marketing and promotional activities require regulatory sign-off. Heavensake is managing through licensed third-party partnerships.
+- A Japanese developer team was originally preferred for language/UX/culture; current vendor A2J is being replaced. (Call 22)
+- Until Japan site is live, brewery video content is being held.
+- Single vs. two-store debate: SEO benefits from consolidation must be weighed against rebuild time and CIPSE approval. (Calls 31, 33)
+- Blog: newest-to-oldest, dates visible on all articles. (Call 30)
 
 ---
 
-## The Hanami Bottle Launch (Spring 2026)
+## Japanese Copywriting Standard
 
-| Element | Detail |
-|---------|--------|
-| Product | Prestige 2 (Niizawa) — pink ceramic/sanded bottle |
-| Quantity | 50–100 bottles (split Japan/US) |
-| Japan window | March 28 – April 20, 2026 (cherry blossom season; Tokyo: March 31 – April 3) |
-| Price (Japan) | ~¥70,000 |
-| Bottle design | Sanded/matte finish; print color matches raw porcelain tone for harmony |
-| Production | ARITA (Matsumoto-san); 15th March cutoff for 720ml bottling |
-| Campaign | Limited edition + Japan e-commerce launch = same story |
-| PR | Mommy (wine PR) to place in Japanese media |
-| Influencers | 3–5 high-profile Japan influencers for gifting |
+Japanese-language copy must be specifically crafted for HEAVENSAKE's voice — not translated literally. A dedicated copywriter ensures cultural and brand-voice authenticity. (Call 34)
 
-Why Hanami and not Women's Day:
-> "Hanami — highly culturally relevant moment in Japanese. The Japanese year. It's the start of the spring. It's when the cherry blossoms flourish. It's a very positive moment. It's a much more interesting subject matter."
-> — *2026-02-04 Hanami Launch & 10th Anniversary Strategy*
+This is not a translation task. It requires a writer who understands:
+- HEAVENSAKE's luxury positioning
+- Japanese honor language and indirect communication
+- The specific cultural narrative being built
 
 ---
 
-## Shichiken Partnership: E-Commerce Rollout
+## Japanese Cultural Messaging Principles
 
-HEAVENSAKE's most active Japan brewery partner for e-commerce integration is Shichiken.
+- **Honor language is appropriate and important:** "Especially in Japan, it's a lot about honor." (Call 10)
+- **Japanese buyers want to understand WHY something is expensive/valuable before purchase.** (Call 13)
+- **Sake's gifting dimension is outsized in Japan:** Very strong percentage of sales are gift-driven. Sake = #1 gift category for multiple seasons. (Call 19)
+- **Prestige 2 lottery section on Japanese website:** On hold until ready. Archive, don't delete. (Call 34)
+- **What NOT to do:** Generic cultural moment participation without depth. Women's Day participation was rejected — it requires genuine conceptual commitment. (Call 10)
 
-**Current status (March 2026):**
-- E-commerce setup delayed 2–3 months due to IT system readiness
-- Sebastien L'Hermitte finalizing system requirements with Nakayachi (Shichiken's IT partner)
-- Giancarlo to provide Shopify CSV format for system development
-- 20% price increase from Shichiken (driven by doubled rice costs) under review
-- 720ml bottling: 15th March cutoff this season
-- Magnum bottles: Next season (timing under discussion)
+---
 
-**Key contact:** Tsushima Kitahara (tsushima@sake-shichiken.co.jp)
-**Internal lead:** Nana Zomen as front-facing contact; escalation to Sebastien
+## The Shichiken Benchmark
+
+Shichiken already does $1M in Japan online sales. This is the direct benchmark for HEAVENSAKE's Japan e-commerce target. (Call 4)
+
+If Shichiken can do $1M, HEAVENSAKE — with superior brand story, cultural positioning, and content — can match or exceed it.
+
+---
+
+## Japan Event Infrastructure Requirements
+
+Before any major viral campaign: website and ordering system must be fully functional and ready. (Call 19)
+
+Japan events generate digital traffic — that traffic must have somewhere to convert. Launch the site first, run the campaign second.
+
+---
+
+## Japan Content Creators
+
+- Find young cool Japanese freelancers who want to work for cool brands. Use both Japanese and English prompts on Perplexity for influencer research.
+- Target: Japan-based female Instagram creators.
+- Consider a Japanese AI avatar of Carl speaking Japanese. (Call 26)
+- Run both Japanese AND English prompts on Perplexity — Japanese-language sources return different (often better) results. (Call 13)
+
+---
+
+## Japan Pricing Intelligence
+
+- Prestige bottle: ~€800 / $800 — price point defines all quality and content decisions
+- Corkage fee: 10,000–20,000 yen/bottle at events
+- Ginza shop as emergency purchase source for small urgent quantities (Call 30)
+- Limited edition Hanami bottle target price: ~¥70,000
+
+---
+
+## Japan Retail Partners
+
+- Noguchi and Nizawa breweries are primary Japan distribution partners
+- Osaka distributor connection: Carl personally managing
+- Sushi Hijiri (Osaka): key restaurant relationship and event venue
+
+---
+
+## Japan Brewery Distribution
+
+- **Emergency supply:** Shop in Ginza for small urgent quantities (Call 30)
+- **Larger orders:** Directly from brewery (slower, cheaper) or from distributor (faster, pricier). Team must understand both. (Call 30)
+
+---
+
+## The Japan Prestige Story — 5 Storytelling Pillars
+
+Japan-specific storytelling must lean into:
+
+1. **The 15-year water journey** (Shichigen) — patience and geological depth: "The water in Shichigen has traveled 15 years before arriving in your bottle." (Call 37)
+2. **Arita Yaki craft** — regional porcelain heritage, hand-applied glaze; bottle fired at 2,000–3,000°C
+3. **The Toji master** ([[Noguchi Taichi]]) — artisanal oversight at 5am; Carl visited personally
+4. **Female Toji** ([[Nanami Watanabe]]) — women driving sake's evolution; key for Women's Day and female-led narrative content
+5. **The assemblage concept** with [[Regis Camus]] — sake meeting champagne craft; no other sake brand can tell this story
+
+---
+
+## Campaign Calendar Integration
+
+Japan content maps to cultural moments. See [[Japan Campaign Calendar]] for the full calendar.
+
+Key moments:
+- **Hanami / Cherry Blossom** (March–April) — Booth activation + big vision 2027: silent disco in Yoyogi Park
+- **International Women's Day** (March 8) — Prestige 3 pink bottle launch; celebrate real women doing real work
+- **Father's Day** (June 3) — Target "cool dads" 30–45, fashion/tech/foodie; alcohol = #1 Father's Day gift (29%)
+- **Ochugen / Summer Gifting** (Mid-July) — Premium sake as summer gift; possible Tea Bucks gift set collab
+- **Moon Viewing** (September) — Moon-design collab with Taka (Noguchi owner)
+- **Oseibo / Year-End Gifting** (December) — Label Noir or Prestige 2 as thank-you gifts
+
+**Gifting insight:** Sake has a very strong percentage of sales linked to gifting. Japanese buyers want to understand WHY something is expensive. (Calls 13, 19)
 
 ---
 
@@ -91,27 +140,9 @@ HEAVENSAKE's most active Japan brewery partner for e-commerce integration is Shi
 |------|------|
 | Nana Zomen | Operations Coordinator — front-facing contact for all Japan brewery operational matters |
 | Sebastien L'Hermitte | Oversight of Japan operations and brewery relationships |
-| Claire Senda | Brand content for Japanese market; coordinates with Mommy-san (calligrapher) and Japanese designers |
-| Mommy-san (calligrapher) | Cultural authenticity — Daruma rituals, kanji design, brand storytelling in Japan |
-| Akiko Hamada | Dubai-based but manages Japan market presence; ran Dubai→Japan transition |
-
----
-
-## Content Strategy for Japan
-
-Japan requires culturally authentic content — not translated Western content:
-- **Mommy-san (calligrapher):** Creates the Daruma ritual content at Chichiken water source (May 2026 shoot)
-- **Japanese graphic designer (Moto-san):** Carousel and social content for Japanese market
-- **Japanese neon signs:** Kanji HEAVENSAKE neon signs being produced for events and retail presence
-- **Posting timing:** Academy/brand content posted at Japan morning time to catch the market
-
-The Daruma ritual — the brand's most powerful Japan-specific content:
-- **Daruma A (black/white):** Archival images from 10 years on washi paper; eye-closing ceremony at Chichiken with Mommy-san (closing the chapter)
-- **Daruma B (pink):** The future — eye-opening ceremony at October Japan event (opening the next chapter)
-- **Location:** Chichiken forest, at the water source. Cultural context essential.
-
-> "The Daruma needs to be done in Japan because otherwise to people in France, we're like, yeah, cool story, bro. Whereas in Japan there's a certain power behind it."
-> — *2026-03-16 Prestige 3 Launch Strategy*
+| [[Claire Senda]] | Brand content for Japanese market; coordinates with Mami-san and Japanese designers |
+| [[Mami San]] | Cultural authenticity — Daruma rituals, kanji design, brand storytelling in Japan |
+| [[Tsuruta-san]] | Japan logistics and bottle delivery |
 
 ---
 
@@ -135,3 +166,13 @@ The Daruma ritual — the brand's most powerful Japan-specific content:
 3. **Premium pulls the portfolio.** Limited editions at ¥70,000 create the brand halo that makes ¥10,000 bottles feel accessible and desirable.
 4. **Brewery partnerships are strategic assets.** Shichiken and Niizawa on e-commerce demonstrate that the brand is trusted by Japanese masters — this is marketing, not just supply chain.
 
+---
+
+## Related Notes
+
+- [[Japan Campaign Calendar]]
+- [[DTC & E-Commerce Strategy]]
+- [[Carl's Vision for Heavensake 2026-2030]]
+- [[Content Strategy & Channels]]
+- [[Brewery Partnerships]]
+- [[Team Structure & Roles]]

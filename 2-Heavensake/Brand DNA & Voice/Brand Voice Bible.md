@@ -1,14 +1,14 @@
 ---
 type: brand-dna
-source: uploaded-document
+source: carl-claire-37-calls
 status: validated
-last-updated: 2026-03-24
-tags: [brand-bible, brand-voice, tone-of-voice, pillars, lexicon, strategy, assemblage]
+last-updated: 2026-03-25
+tags: [brand-bible, brand-voice, tone-of-voice, pillars, lexicon, strategy, assemblage, captions, messaging]
 ---
 
 # THE HEAVENSAKE BRAND BIBLE
 
-*Source: BRAND-BIBLE-8.pdf — Primary brand reference document*
+*Compiled from the BRAND-BIBLE-8.pdf and enriched from 37 Carl-Claire calls, Dec 2025–Mar 2026. The call content is more recent and overrides where there is conflict.*
 
 ---
 
@@ -19,25 +19,47 @@ tags: [brand-bible, brand-voice, tone-of-voice, pillars, lexicon, strategy, asse
 We do not use the word "Redefine." "Redefining" is generic marketing fluff used by competitors.
 
 - **Our Mandate:** We are "Reviving" an icon. Sake is a UNESCO heritage product, a "dormant monster," and the "drink of the gods" that fell from grace. We are breathing new life into it through a French lens to make it relevant for the modern world.
-- **The DNA:** A "Meeting of Masters." We bridge two worlds: the profound traditions of Japanese brewing (The Toji) and the joie de vivre of French savoir-faire (Régis Camus).
+- **The DNA:** A "Meeting of Masters." We bridge two worlds: the profound traditions of Japanese brewing (The Toji) and the joie de vivre of French savoir-faire ([[Regis Camus]]).
 
 ### The Dual Value Proposition
 
 Our brand operates on a psychological duality, allowing us to pivot between high-end dining and nightlife:
 
-1. **"Pure Elevation" (The Public Face):** Represents the spiritual and physical lift. It is about light, purity, and the social status of drinking something refined. Used for Japan, luxury dining, and day-time branding.
+1. **"Pure Elevation" (The Public Face):** Represents the spiritual and physical lift. It is about light, purity, and the social status of drinking something refined. Used for Japan, luxury dining, and day-time branding. Always **ALL CAPS: PURE ELEVATION**.
 2. **"A Better High" (The Visceral Engine):** Represents the physiological benefit. A cleaner, more euphoric buzz without the sugar crash of cocktails or the heaviness of wine. Used for nightlife, the US market, and "edgier" contexts.
 
 ---
 
-## II. THE THREE NON-NEGOTIABLE PILLARS ("THE TRUTHS")
+## II. THE CORE VOICE PRINCIPLE: EXPLANATION IS THE CONTENT
+
+> "The piece of content is not the picture. The piece of content is your explanation about the picture. That's what makes people understand the context of the picture and certainly makes the picture... more interesting." (Call 26)
+
+The why behind a moment is more powerful than the moment itself. Context transforms documentation into storytelling.
+
+> "If your story adds up, it becomes poetry, it becomes art, and you, it changes everything. So this is what brand world is." (Call 11)
+
+**"4. No 'Just Product' Content"** from the original Brand Bible is not just a rule — it is the entire philosophy. Never post a bottle without context. Context is luxury.
+
+---
+
+## III. TWO-TYPE READER OPTIMIZATION
+
+> "You essentially have two, three different kinds of people that are viewing your content. There's the ones that go through every single image on that carousel and read the full caption. Then there is the category of the people that fly over it. So you need to optimize your content for both technically. Meaning the first two, three lines of the caption need to be quite powerful and efficient... while at the same time you need to add enough substance." (Call 16)
+
+**Skimmers:** The opening 2–3 lines must be punchy, specific, and evocative. No filler.
+
+**Readers:** The full caption must reward attention with substance, story, and depth. Both must be served.
+
+---
+
+## IV. THE THREE NON-NEGOTIABLE PILLARS ("THE TRUTHS")
 
 ### 1. The Art of Assemblage (Never Blending)
 
 We must aggressively distinguish our process from industrial "blending."
 
 - **The Definition:** Blending is industrial; it is mixing blue and yellow to get green (uniformity). Assemblage is Art; it is mixing blue and yellow to create a "Third Color" (like purple) that did not exist before. It creates a harmony superior to the individual parts.
-- **The Master:** Régis Camus is not a brewer; he is a composer. He respects the Toji's liquid but elevates it through composition.
+- **The Master:** [[Regis Camus]] is not a brewer; he is a composer. He respects the Toji's liquid but elevates it through composition.
 
 ### 2. The Purity Manifesto
 
@@ -55,68 +77,108 @@ We reject the ochoko (small ceramic cup) for the tasting experience.
 
 ---
 
-## III. VISUAL IDENTITY & AESTHETICS
+## V. CAPTION DIRECTION EXAMPLES
 
-### The Visual Philosophy
+The following are Carl-approved caption directions for specific content:
 
-- **The Vibe:** "Stanley Kubrick meets Daft Punk." High contrast, light, purity, minimalism, neon, and white space.
-- **Quality Standard:** "Studio Grade" or nothing. No grainy photos. If a shot isn't perfect, use AI upscaling or studio editing to reach "Vogue" quality. A photo without a story is a missed opportunity.
+**Noguchi carousel:** "Five in the morning snow. Ishikawa. The master starts his day something like this." — Use specific time, place, and atmospheric detail. (Call 9)
 
-### Key Symbols
+**Rolling Stones:** Must mention specific names (Anima Riza, ASAP, Nas, Virgil Abloh, Black Coffee, Solomon, RZA) and the specific story of each. Give context — why a rapper going on stage with sake matters. (Call 16)
 
-- **The Torii Gate:** The core graphic element. It symbolizes the passage from the mundane world into the "Heaven" of the brand experience.
-- **The Hexagon:** Represents the structured French heritage (L'Hexagone) meeting the organic nature of Japan.
-- **The Bottle:** Designed to look like a "brush full of ink" flowing upward. It is an object of desire that must look good on a table.
+**Academy Divin:** "An honor to be welcomed at Academy Divin, Japan's wine school. The fully booked event attended by such a high percentage of women." (Call 10)
+
+**10th Anniversary:** Not the picture itself but Carl's narrated explanation of each of the 10 iconic photos is what makes it powerful. (Call 26)
 
 ---
 
-## IV. TONE OF VOICE: "LUXURY UNDERSTATEMENT"
+## VI. SEO-OPTIMIZED CAPTIONS
+
+Captions must be SEO-optimized to align with the post's subject. This is content infrastructure, not just description. (Call 16)
+
+The content system:
+1. Define brand creative words (campaign-specific: 3–8 words that capture the mood/moment)
+2. Define SEO words (keyword research; aligned with GEO targets)
+3. Feed both sets into AI → get 10 options for each format
+4. Human filter (Claire/Carl) → approve, fine-tune, or give feedback
+
+---
+
+## VII. TONE OF VOICE: "LUXURY UNDERSTATEMENT"
 
 ### The "Carl Filter" (Do's and Don'ts)
 
 - **NO:** "Tacky" marketing fluff (e.g., "where precision meets poetry").
-- **NO:** The word "Premium." (Banned. Show, don't tell).
+- **NO:** The word "Premium." (Banned. Show, don't tell.)
 - **NO:** "Old School" vibes. No wax seals, no "dusty" calligraphy, no "papa" (dad/traditional) aesthetics.
 - **YES:** "Cool." Confident, minimal, and culturally plugged-in.
-- **YES:** "Resonance." Especially for the Pink/Hanami line. Use words like "Rebirth," "Fleeting," "Vibration," "Flow".
-
-### Content Strategy
-
-- **Founders Content:** People buy from people. Use the founders (Carl or Etienne) to tell the struggle and vision of the brand. Discuss "winning the Champions League" of business.
-- **Music & Culture:** We are the only sake brand with authentic ties to the music world (A$AP Rocky, RZA, The Rolling Stones). We don't pay them to hold the bottle; they drink us because we are the vibe.
-- **The "15-Year Drop":** Tell the story of the water taking 15 years to travel through the mountains before it reaches the brewery. "Eternity in a drop."
+- **YES:** "Resonance." Especially for the Pink/Hanami line. Use words like "Rebirth," "Fleeting," "Vibration," "Flow."
+- **YES:** Honor language, especially in Japanese contexts. "Especially in Japan, it's a lot about honor." (Call 10)
 
 ---
 
-## V. STRATEGIC TARGETS & APPLICATIONS
+## VIII. WHAT NOT TO DO IN MESSAGING
 
-### The Audience (The Tribe)
-
-- **The "Cool Dad" / Creative Class:** Men aged 30-45, involved in fashion, tech, or culture. They wear Supreme/Neighborhood, drive vintage Porsches, and seek differentiation.
-- **Women (The Gatekeepers):** Specifically targeted via the [[Sakura Prestige]] (Pink) and Label Orange lines. We appeal to them through elegance and "re-birth" narratives, not "pink washing."
-- **The "Whales" (Top 20%):** 80% of value comes from 20% of clients. These require "Concierge Service," not generic newsletters. → See [[Club Heaven]]
-
-### High-Value Channels
-
-- **Michelin Dining:** We belong on the tables of venues like Zuma, Nobu, and Chef Enrique Olvera's restaurants.
-- **Luxury E-Commerce:** We use scarcity (e.g., lottery systems for limited drops like the Hanami bottle) to drive desire and data capture.
+- **No generic cultural moment participation.** Women's Day is about the historical oppression and fight of women — a luxury sake brand cannot participate authentically without genuine conceptual depth. "Please remove this and don't do this again to me please." (Call 10)
+- **No "lovey-lovey" Valentine's messaging.** HEAVENSAKE celebrates love for art, for craft, for something that sometimes transcends human love — not romantic clichés. (Call 20)
+- **No nihilistic messaging** in campaigns meant to celebrate: "Let's not go down there. Everything ends." — context matters. (Call 22)
+- **Personalization must be real.** "The word is personal. If we define what is written, it's not personalized." (Call 24)
+- **No vague phrases** that can't be justified. (Call 33)
+- **No generic content** that could belong to any sake brand or luxury brand.
 
 ---
 
-## VI. EXECUTION GUARDRAILS
+## IX. THE "HEAVEN SAKE WAY" TEST
 
-1. **No "Japanese Clichés":** We honor Japan, but we add a French/International twist. Avoid looking like a souvenir shop.
-2. **No Dilution of Purity:** Do not promote cocktails mixed with sugary sodas or hard spirits like Tequila. Sake must be the hero ingredient, paired only with fresh elements (e.g., green tea/matcha).
-3. **No Random Acts of Marketing:** Every collaboration must have a story. If we use a Japanese artist (like Mami-san), we celebrate their craft and process, not just slap a logo on their work.
-4. **No "Just Product" Content:** Never post a bottle without context. Context is luxury. The piece of content is not the picture; it is the explanation of the picture.
+Before executing any campaign, activation, or event, ask: *Is this the Heaven Sake way to do it?*
+
+> "Having a little Heaven Sake stand somewhere with us standing behind it and cheering people with our little sake glass and be like, hey, you want to taste a little — here's a little plastic cup for you to have a little sip is not a Heaven Sake way to do it." (Call 19)
+
+The standard: Cool, luxury, playful, creates virality, makes people want to buy, generates great content, doesn't cost a fortune.
+
+---
+
+## X. THANK YOU CARD APPROVED LANGUAGE
+
+> "We are honored to share the singular expressions of Mommy's vision with you. A preserved piece of a human life captured in a single, unrepeatable moment. We thank you for joining us in the celebration of beauty and craft." (Call 22)
+
+Refined toward: "the celebrated beauty of Japanese culture or artisanal artists."
+
+---
+
+## XI. HYPING YOURSELF TASTEFULLY
+
+> "Finding ways to hype yourself in a way that is elegant and cool and not like — it's actually not that easy and there's not that many opportunities. So this is a very, very good opportunity to put in perspective what it is that we're doing, why we're doing it and why it matters." (Call 16)
+
+HEAVENSAKE should own its achievements without boasting. The music relationships, the Rolling Stones award, the pioneering of sake in celebration contexts — these deserve to be hyped, tastefully.
+
+---
+
+## XII. BRAND VOICE PRINCIPLES SUMMARY
+
+- **Honor and respect** are central, especially in Japanese contexts
+- **Emotional and narrative, not bland:** Captions must tell stories, not describe what's visible
+- **Depth and meaning over surface engagement**
+- **Tag everyone possible** in posts — this is a courtesy and a discovery mechanic (Call 10)
+- **Precision in language:** Every phrase must carry meaning and can be explained
+
+---
+
+## XIII. THE NAME AS A POSITIONING PRINCIPLE
+
+The word "Heaven" is not just a name — it is a positioning principle:
+
+> "You should always start putting it as high as possible because it is heaven." (Call 31)
+
+Brand elements placed high in compositions reinforce this. "PURE ELEVATION" (the tagline) should always be in ALL CAPS.
 
 ---
 
 ## Related Notes
 
-- [[Never Say List]] — banned words and phrases
-- [[Brand Voice Bible — Extended]] — full voice guide with lexicon
-- [[Brand Story — The Assemblage]] — origin narrative
-- [[Buyer Personas]] — audience profiles
-- [[Sake Glossary]] — brand terminology
-- [[Assemblage — The Art & Science]]
+- [[Never Say List]]
+- [[Visual Identity & Symbols]]
+- [[Brand Story — The Assemblage]]
+- [[Buyer Personas]]
+- [[Sake Glossary]]
+- [[What HEAVENSAKE Is NOT]]
+- [[The Lexicon]]
