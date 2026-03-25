@@ -154,3 +154,79 @@ Both Shichiken (20%) and Niizawa (24%) are requesting price increases driven by 
 
 **Cultural principle:** Japanese business relationships require consistency, respect for hierarchy, clear communication, and never being put in a position of public embarrassment. When something goes wrong, the fix is private, fast, and face-saving.
 
+**Communication efficiency note:** Standard communications with [[Shichiken]] ([[Nana]]) take ~3 back-and-forth emails. For HEAVENSAKE, the same information exchange currently takes ~10. This is a documented inefficiency being addressed through Nana's expanded front-facing role.
+
+---
+
+## Former / Inactive Partners (Historical)
+
+### Tatenokawa — Former Partner
+
+**Status:** Inactive / Historical
+**Key contact:** [[Junpei-san]] (CEO) — described internally as "a god of the sake industry"
+**Notes:** Former producing partner; no longer active in HEAVENSAKE's product range. The relationship ended but the respect for the brewery remains. Do not list as current partner.
+
+### Katsuyama — Former Partner
+
+**Status:** Inactive / Historical
+**Notes:** Former partnership. No details on specific products or exit circumstances documented in sources. Not currently affiliated with any active SKU.
+
+### Dassai — Historical Founding Partner / Now Competitor
+
+**Status:** COMPETITOR — do not list as partner under any circumstances
+**Historical role:** Used to prove the Assemblage concept at the brand's founding. Dassai's liquid was the first "proof of concept" for applying French Assemblage techniques to sake.
+**Current relationship:** Dassai is the #1 ranked competitor by global export scale. Their positioning (mass-premium, spec-driven) is what HEAVENSAKE explicitly positions against.
+
+---
+
+## Arita Porcelain Lab — Ceramic Partner
+
+**Status:** Active supplier / creative collaborator
+**Key contact:** [[Matsumoto-san]] (Owner / Manager)
+**Location:** Arita, Japan
+**Type:** Not a brewery — the historic Japanese artisan studio crafting the sculptural ceramic vessels for the Prestige range
+
+**Production details:**
+- Hand-drilled, mud-cast production
+- Iron-infused glazes (creates organic surface variation; no two bottles identical)
+- "Sanded pink" matte finish for Sakura Prestige / Hanami Prestige
+- Arita sake cups also available at €202/piece (separate from the Prestige bottles)
+
+**Current allocation:** Confirming 50–100 bottles per seasonal Sakura Prestige drop with Matsumoto-san directly.
+
+---
+
+## Dewazakura — Active Partner (Contradicted)
+
+**Status:** Listed as active base liquid partner in multiple documents
+**Location:** Yamagata Prefecture
+**Founded:** 1892
+**Heritage:** Kick-started the Ginjo boom in Japan with their 1980 release of Oka Ginjo
+**Products:** Involved in Label Azur and/or Label Noir production — exact assignment is contradicted across documents
+
+🚩 **See [[Contradictions & Open Questions]] #1 for the full brewery attribution contradiction for Label Noir and Label Azur.**
+
+---
+
+## Full Brewery Partner Overview (Updated)
+
+| Brewery | Prefecture | Founded | Products | Status | Key People |
+|---------|-----------|---------|----------|--------|------------|
+| [[Noguchi Naohiko Sake Institute]] | Ishikawa | — | Prestige I | Active | [[Naohiko Noguchi]] (92, "God of Sake"); Yamahai method |
+| [[Niizawa Brewery]] | Miyagi | 1873 | Prestige II, Sakura Prestige | Active (repaired) | [[Iwao Niizawa]] (5th-gen CEO); [[Nanami Watanabe]] (youngest female Toji) |
+| [[Urakasumi]] | Miyagi | 1724 | Label Orange | Active | [[Koichi Saura]] (13th-gen); [[Takashi-san]]; provides sacred sake for Shiogama Shrine |
+| [[Shichiken]] | Yamanashi | 1750 | Label Azur 🚩 | Active | Tsushima Kitahara (contact); Kitahara family; Emperor Meiji heritage |
+| [[Konishi]] | Hyogo | 1550 | Junmai 12 | Active | [[Shintaro Konishi]] (15th-gen); oldest single-family brewery |
+| [[Dewazakura]] | Yamagata | 1892 | Label Azur/Noir 🚩 | Active | —; Ginjo boom pioneers |
+| [[Tatenokawa]] | Japan | — | — | **Inactive / Former** | [[Junpei-san]] (CEO) |
+| [[Katsuyama]] | Japan | — | — | **Inactive / Former** | — |
+| [[Dassai]] | Japan | — | — | **COMPETITOR** | — |
+| [[Arita Porcelain Lab]] | Arita, Japan | — | Ceramic vessels | Active supplier | [[Matsumoto-san]] |
+
+---
+
+## Related Notes
+- [[Product Portfolio]]
+- [[Contradictions & Open Questions]]
+- [[Team Structure & Roles]]
+- [[Partnerships & Collaborations]]

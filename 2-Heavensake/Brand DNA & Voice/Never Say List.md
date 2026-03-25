@@ -26,6 +26,12 @@ Banned. Too cliché. This is the kind of line a standard agency writes on a Tues
 **"Unique" (used lazily)**
 Only acceptable when paired with specific, substantive context. Never as a standalone descriptor. Every brand calls itself unique. We prove it.
 
+**"Just" / "Simply"**
+These words diminish the craft. HEAVENSAKE does not do anything simply. Every element — the water, the Assemblage, the glass — carries intention. "Just" signals casualness. We signal precision.
+
+**"Clean" / "Natural" / "Good for you"**
+Supplement brand language. These words belong on a detox drink label, not a sake bottle. Our purity is communicated through sensory truth — the way the liquid feels, the morning after, the absence of weight — not through a wellness checklist. Use "Pure Elevation" instead.
+
 ---
 
 ## Concepts & Tonal Directions — Never Go Here

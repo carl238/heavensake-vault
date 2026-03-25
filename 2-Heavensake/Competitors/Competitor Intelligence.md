@@ -168,9 +168,59 @@ IWA is the most credible threat as it shares the assemblage/French-winemaker pos
 
 ---
 
+## NotebookLM Enrichment — Competitor Intelligence (March 2026)
+
+### Dassai — The Cautionary Tale
+
+Dassai is viewed internally as more than a competitor — it is a **cautionary tale** about what happens when a sake brand prioritizes scale over cultural relevance. Carl's analysis:
+
+> "The founder noted watching a competitor's ad: 'an unknown tequila and it gave me anxiety because they used the exact same words. Tradition, craftsmanship, excellence. Every f***ing alcohol brand uses the same words.'"
+
+Dassai's specific failure mode: **spec-driven marketing** over cultural storytelling. They list polishing ratios and rice varieties as the lead story. HEAVENSAKE's brand heat comes from the music world, the art world, the culinary world — not from technical superiority claims.
+
+**Historical note:** Dassai was HEAVENSAKE's founding partner — the original liquid used to prove the Assemblage concept. They have since become competitors. This history is not public-facing but is internally documented.
+
+### Sake Hundred — Scarcity Benchmark
+
+Sake Hundred's scarcity model is worth studying even if their tone is wrong:
+- They run **lotteries of 10,000 bottles** with **70,000 applicants** per drop
+- This is the model HEAVENSAKE adapts for Sakura Prestige (50–100 bottles via lottery)
+- The difference: Sake Hundred's scarcity is spec-driven (esoteric rice polishing data). HEAVENSAKE's scarcity is **cultural and sensory** (the pink Arita ceramic vessel, the Hanami season narrative).
+
+### IWA — Richard Geoffroy Factor
+
+IWA's founder is **Richard Geoffroy** (former Dom Pérignon cellar master). Like [[Régis Camus]] for HEAVENSAKE, he provides the French champagne credential. Key differentiator:
+- IWA has **no cultural footprint** outside fine dining
+- IWA has **no music world, fashion world, or nightlife** associations
+- IWA's cultural heat = near zero. HEAVENSAKE's cultural heat = A$AP Rocky, RZA, Daft Punk, Rolling Stones
+
+### The "Double Niche" Problem — Competitive Context
+
+Carl acknowledges HEAVENSAKE operates in a uniquely difficult position:
+
+> "Right now we are a niche brand in a niche category. So it's like double niche which is you know it's cool because you have that little sort of like uh if you know you know kind of thing..."
+
+This is what makes cultural partnerships (vs. product marketing) critical. The brand cannot out-spec Sake Hundred or out-scale Dassai. It must out-culture everyone.
+
+---
+
+## Competitor Comparison Table (Updated)
+
+| Competitor | Origin | Strengths | Weaknesses | Cultural Heat | HEAVENSAKE Advantage |
+|-----------|--------|-----------|-----------|--------------|---------------------|
+| **Dassai** | Japan | Global scale, accessibility | Mass-premium, spec-driven, no cultural heat | Low | Cultural heat, lifestyle, music/art world |
+| **IWA** (Richard Geoffroy) | Japan/France | Champagne prestige, architectural bottle | Ultra-niche, no cultural footprint, slow scaling | Very Low | Lower price entry, music/nightlife world |
+| **Sake Hundred** | Japan | Ultra-exclusive scarcity, collector vibe | Esoteric specs alienate casuals | Low | Approachable narrative, multi-tier pricing |
+| **SOTO** | Japan | Disruptive packaging, novice appeal | Gimmicky, lacks depth for experts | Low | Craft authenticity, Assemblage methodology |
+| **Hakkaisan** | Niigata | Authentic purity, quality consistency | Low buzz, limited youth appeal | Very Low | Founder faces, cultural currency |
+| **Kubota** | Niigata | Timeless refinement | Understated, low virality | Very Low | Drop model, limited editions, GEO presence |
+
+---
+
 ## Related Notes
 
 - [[Buyer Personas]] — HEAVENSAKE audience profiles
 - [[Brand Voice Bible]] — our positioning vs. competitors
 - [[Markets & Strategy]] — market positioning strategy
 - [[The Lexicon]] — key brand terminology
+- [[Contradictions & Open Questions]] — unresolved brand data issues

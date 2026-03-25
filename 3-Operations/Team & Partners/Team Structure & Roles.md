@@ -70,9 +70,10 @@ HEAVENSAKE operates with a lean core team augmented by specialized contractors a
 | Brewery | Contact | Notes |
 |---------|---------|-------|
 | Shichiken | Tsushima Kitahara (tsushima@sake-shichiken.co.jp) | Primary contact for e-commerce + production coordination |
-| Niizawa | Via Tsushima / internal | Relationship managed directly by Carl after crisis |
-| Noguchi | Via Zak/Sebastien | Sample logistics; US market visit being coordinated |
-| Arita Ceramics | Matsumoto-san | Pink bottle production (Hanami + Prestige 3 ceramic) |
+| Niizawa | Via Tsushima / internal | Relationship managed directly by Carl after crisis; CEO [[Iwao Niizawa]]; Toji [[Nanami Watanabe]] |
+| Noguchi | Via Zak/Sebastien | Sample logistics; US market visit being coordinated; [[Naohiko Noguchi]] (92, "God of Sake") |
+| Urakasumi | [[Koichi Saura]] (13th-gen) + [[Takashi-san]] | Brewery for Label Orange; also [[Saura San]] |
+| Arita Ceramics | [[Matsumoto-san]] | Pink bottle production (Hanami + Prestige 3 ceramic) |
 
 ---
 
@@ -124,3 +125,41 @@ Giancarlo is exiting end of March 2026. Transition requirements:
 | Carl + Claire catch-up | 2–3x/week | Carl, Claire | Brand direction, content approval |
 | Financial review | Monthly | Carl, Sebastien, Maurizio | Budget vs. actuals, adjustments |
 
+---
+
+## Additional Team Members (NotebookLM Extraction)
+
+The following people appear in source documents but were not in the original team roster:
+
+| Name | Role | Type | Notes |
+|------|------|------|-------|
+| **[[Nana]]** / [[Nana-san]] | Japan Operations / Brewery Relations | Employee | Front-facing contact for brewery operational matters |
+| **[[Suda-san]]** / [[Sudas]] | Japan Team Member | Employee | Japan operations team |
+| **[[Mar]]** | Instagram / Caption Manager | Employee | Handles Instagram caption management |
+| **[[Margarita]]** | LinkedIn Manager | Employee | Heavily critiqued by Carl for LinkedIn quality |
+| **[[Murai]]** / [[Murai-san]] | Videographer / AI Creator | Contractor | Video production with AI tools |
+| **[[Yasmin]]** | Potential hire / Consultant | Prospect | Under evaluation |
+| **[[Jakob]]** / [[Jakub Cambor]] | Marketing / Organic / AI Strategy | Employee / Consultant | See [[Vendors & Agency Failures]] for full context |
+| **[[Cesar Bustos]]** | Miami Sales / Trade Team | Employee | 4-year relationship with Riviera Dining Group |
+| **[[Nes Rueda]]** | Miami Sales / Trade Team | Employee | Quote: "It's not on brand" re: certain venue choices |
+| **[[Abdel Giant Nerd]]** | Tech / AI / Ops Consultant | Retainer | Building Make.com + Notion automations; GEO program |
+| **[[Vincent]]** | Video Creator | Contractor | Rejected for lacking the specific HEAVENSAKE aesthetic |
+| **[[Kurage]]** / [[Geico Kurage]] | Instagram Creator / Latex Artist | Contractor | Bottle sleeve concept; "Latex king of Japan" |
+
+## 🚩 Carl's Role Contradiction
+
+Two versions of Carl's title appear across documents:
+- **Version A:** Co-Founder / CEO (operational documents)
+- **Version B:** Co-Founder / Creative Director (brand documents)
+
+[[Benjamin Eymere]] holds the CEO title at [[L'Officiel]] — he is co-founder of HEAVENSAKE but not its operational CEO. Carl appears to function as de facto CEO and Creative Director simultaneously. **Carl needs to pick one external-facing title and lock it across all materials.**
+
+See [[Contradictions & Open Questions]] #2.
+
+---
+
+## Related Notes
+- [[Vendors & Agency Failures]]
+- [[Contradictions & Open Questions]]
+- [[Carl's AI Thesis]]
+- [[SOPs & Workflows]]
