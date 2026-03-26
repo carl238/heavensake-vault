@@ -11,12 +11,6 @@ tags: [people, core-team, coo, operations]
 **Relationship:** New COO hired September 2025 to take over day-to-day operations from [[Carl Hirschmann]], freeing Carl to focus on marketing; based in Singapore / traveling to Japan
 **Contact:** Unknown (internal)
 
-## Context from Marketing Meetings
-
-- **2025-10-13:** Michael is in Japan with Carl and [[Nana]] (new operations team member), building strong operations team.
-- **2025-09-15:** Carl announced new COO hire; described as based in Singapore; said he allows Carl to focus on marketing. Carl spent two months in "operational hell" before this hire. Organizational transformation discussed (partly in French).
-- **2025-08-18:** Carl mentioned a "very skilled operations director candidate based in Singapore."
-
 ## Notes
 
 Michael was hired as COO in September 2025, following [[Carl Hirschmann]]'s extended period managing operations directly (which Carl described as "two months in operational hell"). His appointment was a major organizational milestone, alongside the departure of [[Noemi Di Nunzio]] and the restructuring of POS coordination responsibilities.
