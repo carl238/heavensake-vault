@@ -10,5 +10,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0-Inbox",
-  "attachmentFolderPath": "4-Resources/Attachments"
+  "attachmentFolderPath": "4-Resources/Attachments",
+  "promptDelete": false
 }
