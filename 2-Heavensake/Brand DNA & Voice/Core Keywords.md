@@ -32,15 +32,7 @@ The rosé wine revolution is the strategic template. Rosé evolved from an after
 
 HEAVENSAKE is executing the same playbook for sake. Sake at parties. Sake on stage. Sake at weddings. Sake when the moment calls for something grand.
 
-<<<<<<< HEAD
-The strategic use of **big formats** — magnums and jeroboams — is not decorative. It is a deliberate positioning tool that associates sake with grandness and celebration moments, just as it did for rosé.
-
----
-
-## Elegance
-=======
 ### Elegance
->>>>>>> origin/main
 
 HEAVENSAKE is deeply elegant. It celebrates **Japanese minimalism** and **French fashion** in a way that creates a unique sense of elegance — one that is paired with playfulness, not separated from it.
 
