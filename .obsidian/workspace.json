@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Heavensake/Brand DNA & Voice/Narrative Pillars.md",
+                "file": "2-Heavensake/Brand DNA & Voice/What HEAVENSAKE Is NOT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narrative Pillars"
+              "title": "What HEAVENSAKE Is NOT"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:brand-dna",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Heavensake/Brand DNA & Voice/Narrative Pillars.md",
+                "file": "2-Heavensake/Brand DNA & Voice/What HEAVENSAKE Is NOT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Narrative Pillars"
+              "title": "Backlinks for What HEAVENSAKE Is NOT"
             }
           },
           {
@@ -198,11 +197,21 @@
   },
   "active": "7c2eb189397d65f2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "2-Heavensake/Brand DNA & Voice/Narrative Pillars.md",
-    "2-Heavensake/Brand DNA & Voice/Core Keywords.md",
-    "2-Heavensake/Brand DNA & Voice/Never Say List.md",
+    "2-Heavensake/Brand DNA & Voice/Visual Identity & Symbols.md",
     "2-Heavensake/Brand DNA & Voice/The Lexicon.md",
+    "2-Heavensake/Brand DNA & Voice/Psychological Levers.md",
+    "2-Heavensake/Brand DNA & Voice/Narrative Pillars.md",
+    "2-Heavensake/Brand DNA & Voice/Never Say List.md",
+    "2-Heavensake/Brand DNA & Voice/Core Keywords.md",
+    "2-Heavensake/Brand DNA & Voice/Contradictions & Open Questions.md",
+    "2-Heavensake/Brand DNA & Voice/Conflicts for Carl to Resolve.md",
+    "2-Heavensake/Brand DNA & Voice/Buyer Personas.md",
+    "2-Heavensake/Brand DNA & Voice/Brand Voice Bible.md",
+    "2-Heavensake/Brand DNA & Voice/Brand Story — The Assemblage.md",
+    "2-Heavensake/Brand DNA & Voice/Brand Origin Story.md",
+    "1-Carl/Principles & Values/Carl's Vision for Heavensake 2026-2030.md",
+    "1-Carl/Principles & Values/Carl's Lessons Learned.md",
+    "conflict-files-obsidian-git.md",
     "1-Carl/Decision Log/Key Decisions Log.md",
     "2-Heavensake/Competitors/Competitor Intelligence.md",
     "2-Heavensake/Copywriting Library/Brand Voice Bible.md",
@@ -214,17 +223,7 @@
     "3-Operations/Team & Partners/Régis Camus.md",
     "3-Operations/Supply Chain & Logistics.md",
     "3-Operations/Team & Partners/Heavensake Team Overview.md",
-    "3-Operations/Team & Partners/Michael COO.md",
-    "3-Operations/Tech & Infrastructure/Ops & Automations — Make.com.md",
-    "2-Heavensake/Brand Knowledge Base — Carl-Claire Calls.md",
-    "2-Heavensake/Brand DNA & Voice/Psychological Levers.md",
-    "2-Heavensake/Brand DNA & Voice/Buyer Personas.md",
-    "2-Heavensake/Brand DNA & Voice/Brand Origin Story.md",
-    "1-Carl/Decision Log/Monday Marketing Decisions Log.md",
-    "0-Inbox/INDEX.md",
-    "0-Inbox/2026-03-25.md",
     "Untitled 2.canvas",
-    "2-Heavensake/Brand DNA & Voice/What HEAVENSAKE Is NOT.md",
     "Untitled 1.canvas",
     "5-Archive/Meeting Transcripts",
     "Untitled.canvas",
