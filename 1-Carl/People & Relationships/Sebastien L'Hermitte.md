@@ -20,10 +20,5 @@ Sebastien L'Hermitte is Heavensake's operations lead — responsible for oversee
 - **Sample logistics:** Coordinating transport of Noguchi samples physically during March trip, potentially via Singapore stopover.
 - **Escalation point:** Nana Zomen escalates operational decisions to Sebastien as needed — he is the operational hierarchy above Nana.
 
-## Related Meetings
-- [[2026-02-26 Weekly Carl-Zak-Sebastien — Nizawa Brewery Crisis]]
-- [[2026-03-03 Shichiken x Heavensake — Brewery Partner Meeting]]
-- [[2026-03-19 10 Years Anniversary Action Plan]]
-
 ## Contact
 - **Email:** sebastien.lhermitte@heavensake.com

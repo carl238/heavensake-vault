@@ -1,29 +1,25 @@
 ---
 type: person
 name: Gloria Basile
-role: Events & POS / Operations Coordinator
+role: Brand Manager / Operations & Digital
 company: Heavensake
 relationship: team
-tags: [#team, #events, #pos, #operations, #monaco]
+tags: [#team, #events, #pos, #operations, #monaco, #brand-manager]
 ---
 
 # Gloria Basile
 
 ## Who They Are
-Gloria Basile is a Heavensake team member focused on events coordination, POS (point of sale) merchandise management, and operational logistics. She plays a central role in the 10th Anniversary event planning (June 6–7, Monaco) and is a key executor for physical event logistics and on-the-ground coordination.
+Gloria Basile is HEAVENSAKE's first dedicated brand manager, joining September 29, 2025. Her role is a hybrid of brand manager and project manager — "tailored for execution, organization, and brand sensitivity." She comes from the fashion world (John Richmond, Sopra Steria consulting for Gucci/Fendi/Tod's) and holds a Master's in Fashion, Luxury and Tourism Management from LUISS. Based in the Milan office, she is a key executor for physical event logistics, POS merchandise management, CRM, and the 10th Anniversary event.
 
 ## Key Context
-- **10th Anniversary (Monaco):** Gloria is the lead for security coordination in Monaco and POS item supplier management. She maintains the Notion workspace with POS progress and logistics details.
-- **POS management:** Manages supplier selections, sample orders, and final confirmations for all POS items (nail polish, clothing, etc.). Navigated a UK nail polish supplier stoppage — sourcing Chinese and European backup suppliers.
-- **AI strategy session:** Included in the Strategic AI Roadmap session with Jakub Cambor and Declan (Tuesday 10:30–12:30) — Carl sees her as a key person to train on AI tools.
-- **Marketing:** Participant in Marketing Alignment meetings — absorbing some digital marketing responsibilities alongside Claire during Giancarlo's transition.
-- **Collaboration:** Works closely with Claire Senda on clothing supplier selection (sweatshirts, T-shirts) and order allocations.
-
-## Related Meetings
-- [[2026-03-19 10 Years Anniversary Action Plan]]
-- [[2026-03-18 Catch Up with Jakub — AI Marketing Roadmap]]
-- [[2026-03-16 Marketing Alignment — Q2 Digital Strategy]]
-- [[2026-03-02 Marketing Alignment — Major Session (171min)]]
+- **10th Anniversary (Monaco):** Lead for security coordination, RSVP system (HubSpot), neon sign procurement, and POS item supplier management.
+- **POS management:** Manages supplier selections, sample orders, and final confirmations for all POS items. Navigated a UK nail polish supplier stoppage — sourcing Chinese and European backup suppliers.
+- **CRM / HubSpot:** Primary manager of customer databases and community management.
+- **AI strategy:** Included in the Strategic AI Roadmap session with Jakub Cambor — Carl sees her as a key person to train on AI tools.
+- **Marketing:** Absorbing some digital marketing responsibilities alongside Claire during Giancarlo's transition.
+- **Collaboration:** Works closely with Claire Senda on clothing supplier selection and order allocations.
+- **Background:** Fashion industry (John Richmond, city branding for Naples/We Are Napoli, digital transformation consulting at Sopra Steria). Featured in Vogue Italia's August 2021 Naples issue.
 
 ## Contact
-- **Email:** gloria.basile@heavensake.com
+- **Email:** gloria.basile@heavensake.com / digital@heavensake.com

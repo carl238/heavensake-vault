@@ -21,9 +21,6 @@ Jakub Cambor is an external AI marketing consultant based in the UK, founder/lea
 - **Lead generation case:** Jakub has demonstrated recent successes with AI-driven lead generation where AI output quality approaches human levels.
 - **Team restructuring:** Jakub's insights prompted discussion about moving towards younger, tech-savvy talent at Heavensake.
 
-## Related Meetings
-- [[2026-03-18 Catch Up with Jakub — AI Marketing Roadmap]]
-
 ## Contact
 - **Email:** jakub@aiformarketing.co.uk
 - **Company:** AI for Marketing (aiformarketing.co.uk)
