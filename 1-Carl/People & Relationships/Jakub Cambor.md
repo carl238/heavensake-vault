@@ -1,62 +1,38 @@
 ---
 type: person
 name: Jakub Cambor
-role: SEO Consultant
+role: AI Marketing Consultant
 company: AI for Marketing
 relationship: consultant
-status: validated
-last-updated: 2026-03-28
-tags: [#consultant, #seo, #marketing, #vendor]
+tags: [#consultant, #ai-strategy, #marketing, #automation, #lead-generation, #seo]
 ---
 
 # Jakub Cambor
 
 ## Who They Are
+Jakub Cambor is an external AI marketing consultant based in the UK, founder/lead at AI for Marketing (aiformarketing.co.uk). He was engaged by Carl to provide strategic AI marketing consultation, specifically to audit Heavensake's current processes and design a tailored automation roadmap. Jakub brings expertise in three core areas: content automation, paid ads management, and AI-powered lead generation.
 
-Jakub Cambor is an external SEO consultant based in the UK, founder/lead at AI for Marketing (aiformarketing.co.uk). He was initially engaged for a £750 AI marketing roadmap session and later commissioned for a full SEO audit of heavensake.com.
+## Key Context
+- **Engagement:** £750 for a 2-hour "Strategic AI Roadmap" consultation session (deep dive audit + automation strategy + team training materials).
+- **Session participants:** Carl Hirschmann, Gloria Basile, Declan — Tuesday 10:30–12:30.
+- **Deliverable:** Comprehensive automation strategy and roadmap post-session, including training materials for Carl's team.
+- **Scope:** Audit current processes, identify automation opportunities, potentially implement initial automations within the consultation package.
+- **Approach:** Jakub's philosophy emphasizes hybrid human+AI roles and the importance of skilled oversight for AI output quality.
+- **Lead generation case:** Jakub has demonstrated recent successes with AI-driven lead generation where AI output quality approaches human levels.
+- **Team restructuring:** Jakub's insights prompted discussion about moving towards younger, tech-savvy talent at Heavensake.
 
 ## SEO Audit (March 2026)
+Jakub delivered a website SEO audit report (£650) + keyword research XLSX for heavensake.com.
 
-Jakub delivered a technical SEO audit report and keyword research spreadsheet in late March 2026.
+**Verdict:** Mixed value. The keyword research XLSX (DataForSEO data) is the useful asset. The audit report itself is AI-generated and contains several accuracy issues:
+- Contradicts his own data on Product schema coverage
+- Overstates image size problems (Shopify CDN auto-compresses)
+- Claims HubSpot tracking overlap that doesn't exist
+- Inflates traffic growth projections (claims 10-20x; realistic is 4-6x at 12 months)
+- Tippsy comparison is misleading (marketplace vs single-brand)
 
-**What he charged:** £650 for the audit (invoice pending payment as of March 28, 2026).
-
-**What he proposed:**
-- £1,500 one-off technical fix package
-- £1,500/month ongoing content engine
-
-**Carl's assessment (after Perplexity Computer cross-referencing):**
-- The report is ~70% solid — most technical findings were accurate
-- Heavily AI-generated: his company is called "AI for Marketing," and the report assembly cost roughly $10 in DataForSEO API calls
-- The raw data (keyword volumes, competitor intersections, seasonal patterns) is the genuinely useful part
-- The 10-20x growth projections serve his sales pitch more than realistic planning
-
-**Specific data errors found:**
-
-| Keyword | Jakub's Reported Volume | Actual Volume | Discrepancy |
-|---------|------------------------|---------------|-------------|
-| Sake food pairing | 1,900 | 170 | 11x inflated |
-| Sake gift set | 720 | 210 | 3.4x inflated |
-| Buy sake online | 480 | 210 | 2.3x inflated |
-| Luxury sake gift | 260 | 0 | Keyword doesn't exist |
-
-**Technical claims verified as incorrect:**
-1. "Zero lazy loading" — False. Dawn v15.4.0 has proper lazy loading.
-2. Product schema contradiction — report says "no Product schema" but also recommends "maintaining it." Copy-paste error.
-
-**Recommendation:**
-- Pay the £650 audit invoice — the work was legitimate, if AI-assisted
-- Do NOT pay £1,500 for technical fixes — we handled schema, images, and all technical items ourselves at zero cost
-- Negotiate to ~£800/month for DataForSEO monitoring only, OR use Giancarlo's existing Semrush access and skip Jakub entirely
-- The seasonal data (gift sets spiking 11x in December) and competitor intersection data (97 overlapping keywords with Tippsy) are the genuinely valuable deliverables
+**Recommendation (Carl accepted):** Extract XLSX data value, do not pay £1,500 for technical fixes (handled in-house), do not pay £1,000/month for monitoring. See [[SEO & Structured Data Status]] for full evaluation.
 
 ## Contact
-
 - **Email:** jakub@aiformarketing.co.uk
 - **Company:** AI for Marketing (aiformarketing.co.uk)
-
-## Related Notes
-
-- [[Vendors & Agency Failures]]
-- [[SEO Technical Status]]
-- [[SEO & GEO Keyword Reference]]

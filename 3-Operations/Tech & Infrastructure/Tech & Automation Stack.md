@@ -3,6 +3,7 @@ type: knowledge
 status: validated
 last-synthesized: 2026-03-28
 source-meetings:
+  - 2026-03-28 Perplexity Computer SEO Deep Dive (Carl session)
   - 2026-03-20 AI Strategy & Operations — Carl + Abdel.md
   - 2026-02-23 Operational Dashboard & GEO-SEO Marketing Automation.md
   - 2025-10-13 Operations Database & Automation Infrastructure.md
@@ -11,7 +12,7 @@ source-meetings:
   - 2026-03-02 Marketing Alignment — Major Session (171min).md
   - 2026-03-19 Carl-Claire - Meta Ads Optimization & Shopify Integration.md
   - 2026-01-13 on board catchup Giancarlo.md
-tags: [tech, automation, Shopify, Notion, Airtable, Make, HubSpot, Klaviyo, Meta, GEO, Perplexity]
+tags: [tech, automation, Shopify, Notion, Airtable, Make, HubSpot, Klaviyo, Meta, GEO, Perplexity, GTM, SEO, JSON-LD]
 ---
 
 # Tech & Automation Stack
@@ -158,9 +159,28 @@ The gap that limits AI autonomy today: the operations layer (Notion/database) is
 
 ---
 
+### Google Tag Manager (GTM)
+
+**Role:** Structured data (JSON-LD) injection for SEO; future use for tracking tags and conversion scripts.
+
+**Container:** GTM-NHZKXBTR (Account 6320865814, Container 233459423)
+
+**What's deployed (March 28, 2026):**
+- Organization Schema (tag 6): founder Régis Camus, foundingDate 2016, 5 social profiles — all pages
+- Product Schema (tag 5): all 5 products with prices, descriptions, availability — product pages
+- Article Schema (tag 7): all 12 blog posts with headline, datePublished, author — blog pages
+
+**Architecture decision:** All structured data goes through GTM, not Shopify theme files. This keeps SEO infrastructure independent of developer cycles.
+
+See [[SEO & Structured Data Status]] for full details, version history, and outstanding items.
+
+---
+
 ### Google Analytics / Reporting
 
 **Role:** Web traffic, e-commerce performance, campaign attribution
+
+**GA4 Property:** 468479136 | Measurement ID: G-RFJ3RQPYV7
 
 **Issue:** Analytics not properly integrated with Meta for cross-channel attribution — making ROI assessment imprecise.
 
