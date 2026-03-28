@@ -8,7 +8,7 @@ tags: [competitors, competitive-analysis, dassai, hakkaisan, kubota, IWA, sake-h
 
 # COMPETITOR INTELLIGENCE — Luxury Sake Brands
 
-*Source: competitors_pdf-3.pdf — Expanded analysis of six luxury sake rivals*
+*Expanded analysis of luxury sake rivals and their market positioning**
 
 ---
 
@@ -224,3 +224,9 @@ This is what makes cultural partnerships (vs. product marketing) critical. The b
 - [[Markets & Strategy]] — market positioning strategy
 - [[The Lexicon]] — key brand terminology
 - [[Contradictions & Open Questions]] — unresolved brand data issues
+
+---
+
+## AI Agent Readiness
+
+For how well each competitor's website is readable by AI shopping agents, see [[AI Agent Readiness — Competitor Landscape]].

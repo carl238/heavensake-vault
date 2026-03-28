@@ -8,7 +8,7 @@ tags: [glossary, lexicon, terminology, sake, brand-vocabulary, assemblage, brewe
 
 # HEAVENSAKE SAKE GLOSSARY & BRAND LEXICON
 
-*Source: HEAVENSAKE-GLOSSARY-14.pdf — Complete brand terminology reference*
+*Master reference for HEAVENSAKE brand terminology and vocabulary**
 
 ---
 

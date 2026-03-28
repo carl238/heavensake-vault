@@ -121,3 +121,9 @@ See [[Product Portfolio]] for the full product reference.
 | **Ma** | 間 | mah | Negative space — the pause, the breath. "The silence that completes the music." |
 | **Monozukuri** | ものづくり | moh-noh-zoo-koo-ree | The art and spirit of making things. "Made with intention. Received with gratitude." |
 | **Ikigai** | 生き甲斐 | ee-kee-gai | Purpose. "The reason everything began." |
+
+---
+
+## Wine Crossover
+
+For wine-equivalent terminology and bridge vocabulary for wine-drinking audiences, see [[Sake & Wine Crossover Glossary]].
