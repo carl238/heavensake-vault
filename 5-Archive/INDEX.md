@@ -47,6 +47,16 @@ Short meetings with limited strategic content — operational check-ins, admin s
 
 ---
 
+## Inbox-Processed
+
+Stale or empty notes cleared from `0-Inbox/` during cleanup passes. Preserved here so no content is deleted, but these have no active value.
+
+- `2026-03-25.md` — Empty daily note, archived March 28, 2026
+
+---
+
 ## Archive Principle
 
 > Meeting transcripts are source material, not knowledge. The synthesized knowledge notes in the main vault are what you consult. These transcripts are what you cite.
+
+> **This folder is clearly marked as archive.** Do not use files here as primary references. Do not add new working notes here — place those in `0-Inbox/` first.

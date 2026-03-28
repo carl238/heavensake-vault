@@ -10,8 +10,7 @@ Active automations, process analysis, and the systems driving operational effici
 
 - [[Automation Registry]] — **MASTER REFERENCE.** All 4 recurring tasks, 6 automation tools, connected APIs, Airtable key tables, config files, and Perplexity Computer vs Make.com comparison. Impact: 82% reduction in operational workload.
 - [[SOP Analysis — Complete Index]] — All 8 of Michele's processes analyzed from video SOPs. Duration, systems, frequency, automation level, and current status for each. Before/after impact: ~41 hrs/month → ~7.25 hrs/month.
-- [[Monthly Sales Report — SOP]] — How the automated pipeline works: Park Street API + Xero → transform → Google Sheets. 23-column schema, validation steps, known gaps.
-- [[Sales Report Automation]] — Original automation setup notes.
+- [[Monthly Sales Report — SOP]] — **CANONICAL.** How the automated pipeline works: Park Street API + Xero → transform → Google Sheets. 23-column schema, validation steps, known gaps. *(Sales Report Automation.md is a redirect to this note.)*
 - [[Japan Order Pipeline]] — Japan order detection and quote/PO creation workflow.
 
 ---
@@ -89,6 +88,16 @@ Operational systems, automation, ecommerce, and digital infrastructure.
 - [[Ops & Automations — Make.com]] — **COMPREHENSIVE.** Full Make.com infrastructure map: every active scenario, nightly batch orchestration, dashboard system, JP Brewery forms, all 19 connections, 26 webhooks, credit budget (40K/mo, 87% utilization), incident history, 7 optimization opportunities, and Perplexity Computer parallel automation layer.
 
 > **Archive:** All tech and infrastructure meeting transcripts are in `5-Archive/Meeting Transcripts/`.
+
+---
+
+## Accountability & Open Items
+
+- [[Open Items from Marketing Meetings]] — Master tracker of 100 action items from 40+ Monday marketing meetings (Jun 2025–Mar 2026). Still-open, resolved, and recurring issues. Critical for Monaco June 6 deadline tracking.
+- [[SOPs & Workflows]] — **OPERATIONAL RULEBOOK.** 12 Carl-mandated SOPs: AI Content Machine, Whale Hunt customer audit, Social Boost Triage, Restaurant Collaboration tiers, Newsletter rules, Landing Page templates, Blog rules, Communication Rhythm, Brewery Contact Protocol, Vendor Management, AI Tool Usage, and Tech Access Protocol.
+- [[Budget Reference]] — Reference ranges for all creative, production, event, and tech spend. Use before commissioning any vendor.
+- [[Legal & Compliance]] — US three-tier law, Evin Law (France), age-gating requirements, multi-market advertising rules, IP/shipping compliance.
+- [[Vendors & Agency Failures]] — Documented failures: A2J, Garden, Coronito, Jakub, Studio Magla. Institutional memory — do not repeat these mistakes.
 
 ---
 

@@ -2,11 +2,11 @@
 
 > These notes need to be reviewed and sorted by Carl.
 
-The Inbox is currently **empty** after the March 2026 vault cleanup. All 122 notes that were in the Inbox have been processed:
+The Inbox is currently **empty** after the March 2026 vault cleanup. All notes have been processed:
 
-- **96 notes** moved to their target sections
-- **24 notes** archived to `5-Archive/`
-- **2 notes** deleted (low-value, no actionable content)
+- Actionable content moved to their target sections
+- Empty/stale daily notes archived to `5-Archive/Inbox-Processed/`
+- [[Open Items from Marketing Meetings]] moved to `3-Operations/` (it is a live operational tracker, not an inbox note)
 
 ---
 
@@ -23,4 +23,4 @@ Everything that enters the vault lands here first. During your weekly review, pr
 
 ---
 
-*Last cleaned: March 25, 2026 — vault cleanup pass by Carl/AI.*
+*Last cleaned: March 28, 2026 — vault cleanup pass.*

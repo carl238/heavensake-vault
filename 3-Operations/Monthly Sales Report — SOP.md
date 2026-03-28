@@ -143,7 +143,8 @@ ROW data covered 33 Xero invoices across 8 markets.
 
 - [[Park Street Navigator]]
 - [[Automation Registry]]
-- [[Sales Report Automation]]
 - [[Cohort Analysis 2022-2026]]
 - [[SOP Analysis — Complete Index]]
 - [[Michele Fincato]]
+
+> **Note:** `Sales Report Automation.md` has been merged into this note. That file now redirects here.
