@@ -420,6 +420,23 @@ Storage allowance: 40,000 credits ÷ 1,000 = **40 MB total available**.
 | **ScraperAPI** | Web data | API key (via HTTP) | Shipment ETA tracking |
 | **Make API** | Self-orchestration | OAuth (1 connection) | Scenario triggering |
 
+### Perplexity Computer — Parallel Automation Layer (March 2026)
+
+In addition to Make.com, HEAVENSAKE now has a second automation layer running via Perplexity Computer. These two systems complement each other:
+
+| Task | Platform | Schedule |
+|---|---|---|
+| Monthly Sales Report (Park Street + Xero → Google Sheets) | Perplexity Computer | 1st of month, 9am CET |
+| Japan Order Monitor (email scanning for new orders) | Perplexity Computer | 3x daily, weekdays |
+| EU Stock Report (LIS download + classify + alert) | Perplexity Computer | Daily, weekdays 8am |
+| Auto-Invoice Shipped POs (Airtable → Xero) | Perplexity Computer | 2x daily, weekdays |
+| Nightly inventory/PO/invoice sync | Make.com | Daily 22:00–22:10 UTC |
+| Shipment ETA tracking + Slack alerts | Make.com | Daily 13:00 UTC |
+| Dashboard data (on-demand) | Make.com | Webhook-triggered |
+| JP Brewery forms | Make.com | Scheduled + webhook |
+
+See [[Automation Registry]] for the unified view of all automations across both platforms.
+
 ### External Systems NOT Yet Connected (Potential)
 
 | System | Current Use | Automation Potential |

@@ -159,12 +159,35 @@ The gap that limits AI autonomy today: the operations layer (Notion/database) is
 
 **Status:** APPROVED as the central AI tool for B2B/B2C/B2A (March 2026). Carl personally tested and uses actively.
 
-**Live capabilities being deployed:**
+**Live capabilities deployed:**
 - Restaurant prospect research: existing account list → finds similar venues → 3 contact persons per venue → LinkedIn + email
 - Personalized outreach at scale: reads each contact's LinkedIn, Instagram, recent press → customizes email intro
 - 90-day LinkedIn content calendar generation
 - Website technical fixes (Carl used it to repair Japanese programmer errors)
 - Shopify API integration (in progress)
+
+**Operations automation (March 2026 — live):**
+- Monthly Sales Report: Park Street API + Xero → Google Sheets (1st of each month)
+- Japan Order Monitor: Email scanning for new order requests (3x daily)
+- EU Stock Report: LIS portal download → classify → alert on low stock (daily)
+- Auto-Invoice: Airtable shipped POs → Xero invoice creation (2x daily)
+- Park Street API integration (4 endpoints, token-based auth)
+- LIS Logistics API reverse-engineering (full write access discovered)
+- Xero API: Full CRUD for invoices, quotes, POs, contacts
+
+**Impact:** 82% reduction in Michele's operational workload (~41 hrs/month → ~7.25 hrs/month). See [[Automation Registry]] and [[SOP Analysis — Complete Index]].
+
+**Connected APIs (via Perplexity Computer):**
+
+| System | Connection | Key Detail |
+|---|---|---|
+| Park Street | REST API, token auth | 4 tested endpoints, $11.4M historical data |
+| Xero | OAuth connector | Tenant: Lucky Sake AG (8f11ebc0-...) |
+| Google Sheets | OAuth connector | Sales Report spreadsheet (134V8ne...) |
+| Airtable | OAuth connector | Operations base (app5cYjK919CA4hUR, 30 tables) |
+| LIS Logistics | Reverse-engineered API | Same-origin only; write access available |
+| Gmail | OAuth connector | Email scanning for Japan orders |
+| Slack | Direct connector | Notifications |
 
 **Team training:** Carl to organize periodic Perplexity training sessions for Claire and the team.
 

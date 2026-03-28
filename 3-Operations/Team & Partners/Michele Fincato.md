@@ -122,13 +122,35 @@ Michele sends packing request
 
 ---
 
+## SOP Analysis — Process Ownership (March 2026)
+
+All 8 of Michele's core operational processes were analyzed from video recordings. See [[SOP Analysis — Complete Index]] for full details.
+
+| Process | Time/Month (Before) | Automation | Status |
+|---|---|---|---|
+| Monthly Sales Report | ~8 hrs | 90%+ | AUTOMATED |
+| EU Stock Report Download | ~4 hrs | 95% | AUTOMATED (daily cron) |
+| US Stock Report (Park Street) | ~4 hrs | 100% | AUTOMATED (API) |
+| Japan SO/PO Creation | ~6 hrs | 80% | MONITORING (3x daily) |
+| Sales Invoice Issuance | ~5 hrs | 95% | AUTOMATED (2x daily cron) |
+| EU Sales Orders (LIS) | ~6 hrs | 80% | READY TO BUILD |
+| Shipping Quotation Requests | ~5 hrs | 50% | PARTIALLY AUTOMATED |
+| Custom Clearance Request | ~3 hrs | 40% | MANUAL (LIS API available) |
+
+**Total impact: ~41 hrs/month → ~7.25 hrs/month (82% reduction)**
+
+This frees approximately one full work week per month of Michele's time, redirectable toward higher-value activities like supplier negotiation, financial analysis, and process improvement.
+
+---
+
 ## Notes
 
 - Michele's scope is unusually broad for one person — the Operations Effectiveness Phase 2 assessment explicitly flagged that too much daily volume flows through a single person
 - Pain points identified: information flows via email (not systematized), redundancies across locations, manual processes, incomplete transport documentation causing reactive fire-fighting
 - The target architecture aims to move more of Michele's coordination into Airtable (see [[Ops & Automations — Make.com]])
 - Accountant search: Consavo firm identified (Feb 2025) to support Michele's workload
+- **March 2026 automation wave:** 82% of Michele's recurring operational tasks are now automated or monitored — see [[Automation Registry]] for the full list
 
 ---
 
-See also: [[Carl Hirschmann]], [[Sebastian|Sébastien Lhermitte]], [[Sara Vergani]], [[Financial Overview]], [[Ops & Automations — Make.com]], [[Supply Chain & Logistics]]
+See also: [[Carl Hirschmann]], [[Sebastian|Sébastien Lhermitte]], [[Sara Vergani]], [[Financial Overview]], [[Ops & Automations — Make.com]], [[Supply Chain & Logistics]], [[SOP Analysis — Complete Index]], [[Automation Registry]]

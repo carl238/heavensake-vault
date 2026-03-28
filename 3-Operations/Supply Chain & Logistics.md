@@ -95,9 +95,26 @@ Based on SATOKO Logistics analysis:
 
 | Location | Partner | Cost | Notes |
 |----------|---------|------|-------|
-| Netherlands / EU | LIS Logistics Amsterdam | €15.50/pallet/week (rented) | Cold storage options evaluated (Dec 2024) |
-| USA | Park Street | Included in distribution | — |
+| Netherlands / EU | LIS Logistics Amsterdam | €15.50/pallet/week (rented) | Cold storage. See [[LIS Logistics Portal]] for full API docs |
+| USA | Park Street | Included in distribution | See [[US Inventory — Park Street]] for API-based tracking |
 | Japan | — | — | To be determined for e-commerce launch |
+
+### EU Inventory Status (as of March 2026)
+
+Full details: [[EU Inventory Management]]
+
+| Status | Total Bottles | Key Products |
+|--------|--------------|---------------|
+| **Cleared** (duty-paid, ready to sell) | 915 | J Ginjo Dewazakura (467), Junmai 12 (293), J DaiGinjo Orange (60) |
+| **Bonded** (under bond, pending clearance) | 2,400 | J DaiGinjo Orange (925), Sake Baby (501), J DaiGinjo Noir Niizawa (480) |
+
+Automated daily monitoring via Perplexity Computer cron (alerts when cleared stock drops below 50 bottles).
+
+### LIS Logistics API (Reverse-Engineered)
+
+The Vanboxtel portal has been reverse-engineered. Key discovery: the API supports **write operations** (creating sales orders, bulk imports) — not just reading data. This means EU order fulfillment can be automated programmatically.
+
+Full documentation: [[LIS Logistics Portal]]
 
 ---
 
@@ -157,4 +174,4 @@ The goal is to move logistics coordination into structured Airtable workflows:
 
 ---
 
-See also: [[Michele Fincato]], [[Sebastian|Sébastien Lhermitte]], [[Nana|Nana Zomen]], [[Ops & Automations — Make.com]], [[Financial Overview]], [[Heavensake Team Overview]]
+See also: [[Michele Fincato]], [[Sebastian|Sébastien Lhermitte]], [[Nana|Nana Zomen]], [[Ops & Automations — Make.com]], [[Financial Overview]], [[Heavensake Team Overview]], [[LIS Logistics Portal]], [[EU Inventory Management]], [[US Inventory — Park Street]], [[Forwarder & Shipping Management]], [[Automation Registry]]

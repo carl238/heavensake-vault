@@ -23,20 +23,31 @@ Park Street is HEAVENSAKE's US importer platform (Lucky Sake account). It manage
 | Bill Management | `app.parkstreet.com/bill-management` |
 
 ## Public API
-- Swagger docs: `navigator.parkstreet.com/router.php/public_apis`
-- OpenAPI spec: `navigator.parkstreet.com/js/public_apis.json`
-- Auth: Company token (query param `?token=XXX`) — must be requested from Park Street
+- **Base URL:** `https://api.parkstreet.com/public_apis/`
+- **Documentation:** https://parkstreet.readme.io/reference/getinvoices-2
+- **Swagger docs:** `navigator.parkstreet.com/router.php/public_apis`
+- **OpenAPI spec:** `navigator.parkstreet.com/js/public_apis.json`
+- **Auth:** Token as query parameter `?token=f25e6217724e35a33a8fc80e723741bfea944553`
+- **All methods:** POST with JSON body `{"date_from": "YYYY-MM-DD", "date_to": "YYYY-MM-DD"}`
 
-### API Endpoints
+### Tested & Working Endpoints (March 2026)
+| Endpoint | Method | Purpose | Data Returned |
+|----------|--------|---------|---------------|
+| `/get_invoices` | POST | US invoices by date range | invoice_num, customer, state, line items with SKU/qty/price |
+| `/get_sales_order` | POST | US sales orders by date range | order status, shipping address, line items |
+| `/inventory_adjustment` | POST | Per-product transaction history | Requires product + date range |
+| `/get_product_inventory_snapshot` | POST | Current inventory by SKU | Warehouse breakdown, on-hand, available, allocated |
+
+### Additional API Endpoints (from Swagger)
 | Endpoint | Method | Purpose |
 |----------|--------|---------|
-| `/public_apis/get_data/sales_order` | POST | Pull sales order data |
-| `/public_apis/set_data/sales_order` | POST | Create/update sales orders |
-| `/public_apis/get_data/expense_report` | POST | Pull expense data |
-| `/public_apis/get_data/cash_report` | POST | Pull cash/balance data |
-| `/public_apis/set_data/purchase_order` | POST | Create purchase orders |
-| `/public_apis/set_data/transfer_order` | POST | Create transfer orders |
-| `/public_apis/credit_management` | POST | Pull credit memos |
+| `/get_data/sales_order` | POST | Pull sales order data |
+| `/set_data/sales_order` | POST | Create/update sales orders |
+| `/get_data/expense_report` | POST | Pull expense data |
+| `/get_data/cash_report` | POST | Pull cash/balance data |
+| `/set_data/purchase_order` | POST | Create purchase orders |
+| `/set_data/transfer_order` | POST | Create transfer orders |
+| `/credit_management` | POST | Pull credit memos |
 
 ## Export Options
 All key sections support CSV/Excel export. Sales Invoice Report and Invoice Management support URL-based date filtering — ideal for automation.
@@ -61,6 +72,18 @@ All key sections support CSV/Excel export. Sales Invoice Report and Invoice Mana
 - Sunidhi K
 - Zak Gross
 
+## Automation Integration
+
+Park Street API is now the backbone of two automated workflows:
+1. **Monthly Sales Report** ([[Monthly Sales Report — SOP]]) — pulls US invoices on 1st of each month
+2. **US Inventory Tracking** ([[US Inventory — Park Street]]) — structured data replaces manual CSV exports
+
+See [[Automation Registry]] for all active tasks.
+
 ## Related
 - [[Supply Chain & Logistics]]
 - [[Michele Fincato]]
+- [[Monthly Sales Report — SOP]]
+- [[US Inventory — Park Street]]
+- [[Automation Registry]]
+- [[Cohort Analysis 2022-2026]]
