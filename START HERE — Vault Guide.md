@@ -104,3 +104,18 @@ All meeting transcripts are in **`5-Archive/Meeting Transcripts/`** (96 files). 
 - `2-Heavensake/Brand DNA & Voice/` — Brand voice master documents
 - `5-Archive/` — Meeting transcript archive
 - `1-Carl/People & Relationships/` — People profiles
+
+---
+
+## The Obsidian / Notion Boundary
+
+**Obsidian = the Bible.** Only permanent, absolute knowledge. Who people are. How the company works. What the brand stands for. Product specs. Competitor positioning. Keyword glossaries. Supply chain structure. Financial reference. If it's true today and will still be true in 6 months, it belongs here.
+
+**Notion = the desk.** Active projects, task tracking, vendor discussions, deployment status, content calendars, ongoing decisions. Anything with a status field ("in progress", "pending", "done") belongs in Notion, not here.
+
+**Rules:**
+- No links to Excel files, PDFs, or external documents. Write the knowledge directly.
+- No project updates or deployment guides. If it changes weekly, it's a Notion page.
+- No vendor disputes or ongoing negotiations. These are operational, not knowledge.
+- Internal `[[wikilinks]]` only. If a note needs to reference an external system, name it, don't link it.
+- Every note should read like a reference document, not a status update.
