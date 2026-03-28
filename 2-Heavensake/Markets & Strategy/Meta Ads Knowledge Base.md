@@ -1,14 +1,12 @@
 ---
 type: strategy
-source: uploaded-document
+source: computer-ai-session
 status: validated
-last-updated: 2026-03-24
-tags: [meta-ads, facebook, instagram, advertising, campaigns, targeting, strategy, US-market]
+last-updated: 2026-03-28
+tags: [meta-ads, facebook, instagram, advertising, campaigns, targeting, strategy, US-market, alcohol-compliance]
 ---
 
 # HEAVENSAKE — Meta Ads Knowledge Base
-
-*Source: HEAVENSAKE_Meta_Ads_Knowledge_Base.md — Single source of truth for Meta advertising strategy*
 
 > **Last updated:** March 24, 2026
 > **Maintainer:** Computer (AI) + Carl Hirschmann
@@ -127,6 +125,12 @@ Use this before publishing ANY HEAVENSAKE campaign:
 
 ### Tier 3 — Future Expansion
 Washington DC, Chicago, Portland OR
+
+### Data Sources for Metro Selection
+- Japanese-American population: [Pew Research](https://www.pewresearch.org/chart/top-10-u-s-metropolitan-areas-by-japanese-population-2019/)
+- Asian-American population by metro: [National Media Spots](https://nationalmediaspots.com/top-metropolitan-areas-in-the-usa-by-asian-american-population/)
+- Foodie city rankings: [New York Post / 2025 study](https://nypost.com/2025/09/29/lifestyle/best-foodie-cities-in-us-revealed-for-2025/)
+- Health-conscious dining: [Mandoe Media](https://mandoemedia.com/guides/the-best-cities-in-america-to-eat-healthily/)
 
 ---
 
@@ -333,6 +337,8 @@ Week 2-4:  Campaign 2 (Traffic/Conversion)
 | Creative | Label Noir Butterfly reel (existing post, no CTA) |
 | Estimated audience | 13.3M–15.7M |
 
+**Facebook suggestion:** Optimize Reels format for 8% lower cost. Ignored — organic post approach preserves social proof compounding. The reel is already 1072×1906 (9:16). The suggestion stems from using an existing post vs. native upload.
+
 ### Campaign 2: LABEL NOIR Butterfly — Website Leads (Relaunch)
 | Setting | Value |
 |---|---|
@@ -347,6 +353,8 @@ Week 2-4:  Campaign 2 (Traffic/Conversion)
 | Placements | Manual — Facebook + Instagram only |
 | Creative | Label Noir Butterfly reel, "Learn More" CTA |
 | URL | `https://heavensake.com/products/junmai-daiginjo-label-noir?utm_source=meta&utm_medium=paid&utm_campaign=label_noir_butterfly&utm_content=website_leads` |
+
+**Decision pending (March 31):** Whether to keep Leads objective or switch to Traffic (landing page views) based on pixel event volume and Campaign 1 performance data.
 
 ### Old Campaigns (Deleted March 24)
 - ~~LABEL NOIR Butterfly — Engagement~~ (rejected March 21 — Advantage+ violation)
@@ -389,6 +397,7 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 - **Schedule:** 9am CET daily (cron job `17398fa6`)
 - **Recipients:** carl@heavensake.com (TO), claire.senda@heavensake.com (CC)
 - **Content:** Campaign spend, impressions, reach, CPE, video views, ThruPlays, frequency, Video Viewers 75% audience size
+- **Note:** Requires local browser access to Meta Ads Manager. Currently set to send notification prompting manual pull.
 
 ### Key Metrics to Track
 
@@ -407,6 +416,32 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 | CTR | >1% | <0.5% |
 | Landing page views | Track | <50% of clicks |
 | ViewContent events | Track | <10/day |
+
+---
+
+## What We'll Learn (Data Collection Plan)
+
+### From Campaign 1 (Engagement, March 24–April 3)
+- [ ] Which metros generate the best CPE?
+- [ ] Which interest clusters drive meaningful engagement (comments) vs. passive views?
+- [ ] How fast does the Video Viewers 75% audience grow?
+- [ ] Is frequency healthy (<3.0) or too high (audience too narrow)?
+- [ ] How does the Butterfly reel compare to historical creatives?
+- [ ] Does Honolulu over-index due to Japanese-American population?
+- [ ] Is Austin generating meaningful engagement?
+
+### From Campaign 2 (Conversion, ~March 31–April 13)
+- [ ] ViewContent rate from retargeted video viewers?
+- [ ] Does warm audience convert better than cold?
+- [ ] CPA to drive someone to the $92 product page?
+- [ ] Which campaign objective works better: Leads, Traffic, or Sales?
+- [ ] Does the Purchaser Lookalike outperform the custom retargeting audiences?
+
+### Strategic Questions for Post-Campaign
+- [ ] Optimal audience size for $300 budgets?
+- [ ] Should income targeting be used for awareness campaigns?
+- [ ] Are 8 metros the right number, or should we concentrate on 4?
+- [ ] What's the minimum Campaign 1 duration before launching Campaign 2?
 
 ---
 
@@ -433,7 +468,7 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 | March 24 | Removed household income filter for awareness campaigns | Portfolio ranges $35–$700; income gating blocks potential entry-level buyers |
 | March 24 | Added champagne interests (Dom Pérignon, Krug, etc.) | Carl's insight: Régis Camus storytelling is central |
 | March 24 | Decided to wait for Day 7 data before finalizing Campaign 2 | Better to design based on real insights than assumptions |
-| March 24 | Considering Traffic objective instead of Leads for Campaign 2 | Leads optimizes for form fills; Traffic optimizes for page visits |
+| March 24 | Considering Traffic objective instead of Leads for Campaign 2 | Leads optimizes for form fills; Traffic optimizes for page visits — more aligned with product page goal |
 
 ---
 
@@ -446,9 +481,16 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 
 ---
 
-## Related Notes
+## Files & Documents
 
-- [[Sakura Prestige — Meta Ads Strategic Plan]] — detailed US campaign plan March 2026
-- [[Buyer Personas]] — audience profiles for targeting
-- [[Brand Voice Bible]] — creative guardrails
-- [[Markets & Strategy]] — broader market strategy
+| File | Location | Description |
+|---|---|---|
+| Meta Ads Strategy & Compliance Guide | `heavensake_meta_ads_guide.pdf` | 10-page internal PDF — all rules, targeting, benchmarks |
+| Full Strategy Document | `heavensake-meta-ads-strategy.pplx.md` | Detailed analysis with all research data |
+| Manus AI Campaign Plan | `Meta_Ad_Boost_Setup_Two-Part_U.S._Campaign.pdf` | Original campaign brief (partially outdated) |
+| Account Audit | `heavensake_3.0_audit.md` | Full Heavensake 3.0 account audit, March 2026 |
+| Targeting Research | `meta_ads_targeting_research_heavensake.md` | All verified Meta targeting options |
+
+---
+
+*This document is the single source of truth for HEAVENSAKE's Meta advertising strategy. Update after each campaign cycle with new performance data and refined targeting insights.*

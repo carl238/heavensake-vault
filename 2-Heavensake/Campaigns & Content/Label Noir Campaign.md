@@ -1,110 +1,102 @@
 ---
-type: knowledge
-status: validated
-last-synthesized: 2026-03-25
-source-meetings:
-  - 2026-02-03 Carl-Claire - Label Noir Content & Social Strategy.md
-  - 2026-03-11 Carl-Claire - Brand Storytelling & Visual Assets.md
-  - 2026-02-11 2026 Budget Review Part 1.md
-tags: [Label-Noir, butterfly, campaign, creative-direction, social-media, music]
+type: campaign
+status: active
+last-updated: 2026-03-28
+tags: [label-noir, butterfly-reel, meta-ads, campaign, engagement, US-market]
 ---
 
-# Label Noir Campaign
+# Label Noir Butterfly Campaign
 
-Label Noir is HEAVENSAKE's cultural statement product — the black label sake positioned at the intersection of luxury, music, and nightlife. The butterfly video is its signature content.
-
----
-
-## What Label Noir Represents
-
-Label Noir is the product that skews toward HEAVENSAKE's nightlife and cultural identity. Historically, early DTC sales were dominated by Label Noir/Azur (~70% of Shopify mix) because Carl's personal network bought them at launch. It is the entry point for many customers.
-
-Label Noir's brand universe: music (Rolling Stones award, music collaborations), arts, nightlife. The butterfly metaphor — transformation, emergence, flight — is the visual/conceptual anchor.
+> **Status:** Campaign 1 LIVE (March 24–April 3) | Campaign 2 in DRAFT (pending Day 7 analysis)
+> **Total Budget:** $600 ($300 per campaign)
+> **Creative:** Label Noir Butterfly reel (Instagram, posted March 18, 2026)
+> **Product:** Label Noir — Junmai Daiginjo (~$92)
+> **Product Page:** https://heavensake.com/products/junmai-daiginjo-label-noir
 
 ---
 
-## The Butterfly Campaign
+## Campaign 1: Engagement (Relaunch)
 
-**The butterfly video:**
-- AI-generated video symbolizing transformation — emergence, beauty, movement
-- Must be posted immediately (Carl was explicit in February 2026: "post the Label Noir butterfly video now")
-- Source: Julia (creative partner) — Claire to obtain urgently
-- The video is the centerpiece of the Label Noir social media moment
+| Setting | Value |
+|---|---|
+| Status | **LIVE — Delivering** |
+| Schedule | March 24 – April 3, 2026 (10 days) |
+| Budget | $300 Lifetime |
+| Objective | Engagement |
+| Audience | Original audience, 21+, 8 priority metros |
+| Interests | 20 curated (sake, champagne, foodie, art) + Engaged Shoppers |
+| Placements | Manual — Facebook + Instagram only |
+| Creative | Butterfly reel as organic post, no CTA |
+| Estimated audience | 13.3M–15.7M |
 
-**Why the butterfly works:**
-- Transformation metaphor aligns with the assemblage concept (individual elements → something greater)
-- Visually arresting — meets the "involuntary reaction" standard
-- Culturally resonant across markets (beauty, change, rebirth)
-- Positions the black bottle as dynamic, not static luxury
+### Day 2 Performance (March 26, 2026)
 
----
+| Metric | Value | Assessment |
+|---|---|---|
+| Post engagements | 5,504 | Strong |
+| Cost per engagement | $0.01 | 92% below peer median |
+| Amount spent | $51.46 | On pace |
+| Impressions | 8,595 | |
+| Reach | 7,559 | |
+| Frequency | 1.14 | Healthy |
+| CPM | $5.99 | Below $7.25 historical avg |
+| 3-sec video plays | 5,488 | |
+| IG play rate | 81.5% | Excellent hook |
+| FB play rate | 53.4% | |
 
-## Creative Direction
+**Platform split:** Facebook getting 73% of budget ($37.79) vs Instagram 27% ($13.68), despite Instagram outperforming on play rate and CPM. Meta's algorithm still in learning phase.
 
-**Visual principles for Label Noir:**
-- Dark, prestige visual palette (contrasts with the Hanami/pink Prestige 2 campaign)
-- Product-forward (the black bottle is the visual hero)
-- Music culture references: Rolling Stones collaboration (carousel post in development)
-- Alternating prestige content with dynamic visuals (not back-to-back carousels)
+**Engagement quality note:** The 5,504 "engagements" are predominantly 3-second video plays, not likes/comments/shares. Only 13 reactions and 0 comments at Day 2. This is typical for post engagement optimization — Meta counts video plays as engagements.
 
-**Content posting principles (Carl directives):**
-- Tuesdays through Thursdays preferred (Carl's audience engagement insight)
-- Don't post back-to-back carousels — alternate format types
-- Feed harmony: prestige content placement matters for grid aesthetics
-- The Rolling Stones carousel post: "balance content rhythm and brand storytelling"
+**Video Viewers 75% audience:** Below 1,000 as of Day 2. Still building.
 
----
+### Projected Full Campaign
 
-## Rolling Stones Connection
-
-HEAVENSAKE received a Rolling Stones award — a meaningful cultural moment that positions the brand within music culture, not just sake culture.
-
-**The Rolling Stones carousel post:**
-- In development (multiple drafts reviewed in March 2026)
-- Layout and narrative decisions: balancing content rhythm with brand storytelling
-- Carl's directive: prioritize the narrative arc, not just the visual of the award
-
-This is one of the brand's strongest proof points for the "sake at the top of culture" positioning.
+- ~30,000 total engagements at $0.01 CPE
+- ~44,000 total reach
+- Budget pacing: ~$25.73/day → full spend by April 3
 
 ---
 
-## TARU Packaging
+## Campaign 2: Website Leads (Relaunch) — DRAFT
 
-TARU is the sake barrel packaging for Label Noir. In February 2026, Carl directed:
-- Simplify the Torii gate image on TARU packaging — too complex
-- Attempt initial fix before outsourcing to Delphine
-- The Torii gate on TARU must be as clean and impactful as the gate concept in the anniversary event design
+| Setting | Value |
+|---|---|
+| Status | **DRAFT — Pending Day 7 insights** |
+| Schedule | March 31 – April 13, 2026 (14 days) |
+| Budget | $300 Lifetime |
+| Objective | Leads (may change to Traffic) |
+| Custom audiences | Video Viewers 75%, IG Engagers 90 Days, 1% Purchaser Lookalike |
+| Placements | Manual — Facebook + Instagram only |
+| Creative | Butterfly reel, "Learn More" CTA |
+| URL | Label Noir product page with UTM parameters |
 
----
-
-## Label Noir vs. Portfolio Position
-
-| Product | Role | Margin |
-|---------|------|--------|
-| Label Noir | Cultural entry point; DTC volume driver | Mid |
-| Label Azur | Complement to Noir; refreshing/daylight | Mid |
-| Prestige 1 | Premium; Noguchi | High |
-| Prestige 2 (Hanami) | Super-premium; Japan e-commerce | Very high |
-| Prestige 3 | Ultra-premium; $300; 10th anniversary | Highest |
-| Jūmi 12 | Unique hook (lower alcohol, less sugar) | Mid-high |
-
-A past bad batch of Azur damaged its reputation with early customers. Prestige 1 also had some quality issues. Communication to affected customers should acknowledge this and position Prestige 3 as a "thank you and redemption arc."
+### Decision Pending (March 31)
+- **Leads vs Traffic objective:** Leads optimizes for form fills; Traffic optimizes for page visits. Traffic may be more aligned with sending people to a product page.
+- **Audience readiness:** Video Viewers 75% needs to reach meaningful size before Campaign 2 has enough retargeting pool.
+- **Metro optimization:** Day 7 data will show which metros to prioritize or drop.
 
 ---
 
-## Podcast Concept
+## Campaign History & Lessons
 
-A 10-year anniversary podcast is under exploration for the Label Noir universe — telling the brand story through music and culture connections. Claire is tasked with sourcing a capable production team.
+### March 21 — First Launch (REJECTED)
+- Used Advantage+ audience → Meta overrode 21+ age-gating
+- Audience ballooned to 200M+ (should have been ~1M)
+- Rejected for alcohol policy violation within hours
+- **Root cause:** Advantage+ treats age as "suggestion," not hard limit
 
-This would sit naturally in the Label Noir brand world: music, culture, the story of how sake found its way to the Rolling Stones and Kinoko Shibari and Will.i.am.
+### March 24 — Relaunch (CURRENT)
+- Rebuilt with Original Audience, 21+ hard limit
+- Switched from national U.S. to 8 priority metros
+- Added champagne/wine interests per Carl's Régis Camus angle
+- Removed income filter (awareness campaign — portfolio starts at $35)
+- Campaign approved and delivering
 
 ---
 
-## Action Items (Active as of March 2026)
+## Links
 
-- Post butterfly video (Claire to obtain from Julia urgently)
-- Finalize Rolling Stones carousel post — Carl reviewing
-- Fix TARU Torii gate design (Claire + Delphine)
-- Develop Black Prestige teaser video concept
-- Source podcast production team for Label Noir 10-year content
-
+- [[Meta Ads Knowledge Base]] — Full strategy, rules, and targeting reference
+- [[Meta Ads Strategy]] — Strategic plan document
+- [[Product Portfolio]] — All products and pricing
