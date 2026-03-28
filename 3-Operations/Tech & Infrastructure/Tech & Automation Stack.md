@@ -175,7 +175,15 @@ The gap that limits AI autonomy today: the operations layer (Notion/database) is
 - LIS Logistics API reverse-engineering (full write access discovered)
 - Xero API: Full CRUD for invoices, quotes, POs, contacts
 
-**Impact:** 82% reduction in Michele's operational workload (~41 hrs/month → ~7.25 hrs/month). See [[Automation Registry]] and [[SOP Analysis — Complete Index]].
+**Data quality & monitoring automation (March 28, 2026 — live):**
+- Weekly Data Quality Check: Scans 6 Airtable tables for issues (Mondays 9am CET)
+- Monthly Operations Digest: Pre-Abdel meeting summary (12th of month)
+- Brewery Form Response Check: Cross-references submissions vs 6 expected breweries (3rd of month)
+- Notion KB Freshness Review: Checks for stale pages and gaps (1st of month)
+- Invoice & SKU Validation: Linkage % and orphan detection (5th of month)
+- All monitoring tasks deliver via email — read-only, never modify data
+
+**Impact:** 82% reduction in Michele's operational workload (~41 hrs/month → ~7.25 hrs/month). See [[Automation Registry]] and [[SOP Analysis — Complete Index]]. See [[Airtable Data Quality]] for current data quality status.
 
 **Connected APIs (via Perplexity Computer):**
 

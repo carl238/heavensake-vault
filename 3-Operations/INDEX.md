@@ -8,10 +8,11 @@ Everything related to running the business — logistics, distribution, finance,
 
 Active automations, process analysis, and the systems driving operational efficiency.
 
-- [[Automation Registry]] — **MASTER REFERENCE.** All 4 recurring tasks, 6 automation tools, connected APIs, Airtable key tables, config files, and Perplexity Computer vs Make.com comparison. Impact: 82% reduction in operational workload.
+- [[Automation Registry]] — **MASTER REFERENCE.** All 9 recurring tasks (4 operations + 5 monitoring), 6 automation tools, connected APIs, Airtable key tables, config files, and Perplexity Computer vs Make.com comparison. Impact: 82% reduction in operational workload.
 - [[SOP Analysis — Complete Index]] — All 8 of Michele's processes analyzed from video SOPs. Duration, systems, frequency, automation level, and current status for each. Before/after impact: ~41 hrs/month → ~7.25 hrs/month.
 - [[Monthly Sales Report — SOP]] — **CANONICAL.** How the automated pipeline works: Park Street API + Xero → transform → Google Sheets. 23-column schema, validation steps, known gaps. *(Sales Report Automation.md is a redirect to this note.)*
 - [[Japan Order Pipeline]] — Japan order detection and quote/PO creation workflow.
+- [[Airtable Data Quality]] — Data quality status for HEAVENSAKE Operations base. Known issues by table, monitoring schedule, connector limitations. Score: 55/100 (March 2026).
 
 ---
 

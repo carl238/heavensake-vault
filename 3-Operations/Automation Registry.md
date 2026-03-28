@@ -1,6 +1,6 @@
 # Automation Registry
 
-## Active Recurring Tasks
+## Active Recurring Tasks — Operations
 
 | ID | Name | Schedule | Status |
 |---|---|---|---|
@@ -8,6 +8,18 @@
 | dc164f40 | Japan Order Monitor | 3x daily, weekdays | ACTIVE |
 | 6bdeef94 | EU Stock Report (LIS) | Daily, weekdays 8am | ACTIVE |
 | a9c4ca18 | Auto-Invoice (Shipped POs) | 2x daily, weekdays 10am+4pm | ACTIVE |
+
+## Active Recurring Tasks — Monitoring & Reporting
+
+| ID | Name | Schedule | Status |
+|---|---|---|---|
+| 3b6ed2ae | Weekly Data Quality Check | Mondays 9am CET | ACTIVE |
+| 3ac9eecf | Monthly Operations Digest | 12th of month, 10am CEST | ACTIVE |
+| b9c53f08 | Brewery Form Response Check | 3rd of month | ACTIVE |
+| 9b4319c8 | Notion Knowledge Base Review | 1st of month | ACTIVE |
+| 08a6b553 | Invoice & SKU Validation | 5th of month | ACTIVE |
+
+All monitoring tasks deliver via email to carl@heavensake.com. They are read-only — they surface issues but never modify data.
 
 ## Utility Scripts
 
@@ -66,7 +78,7 @@ Two automation layers now run in parallel:
 | Layer | What It Handles | Strengths |
 |---|---|---|
 | **Make.com** ([[Ops & Automations — Make.com]]) | Nightly Xero/Airtable syncs, dashboards, shipment ETA tracking, JP brewery forms | Real-time webhooks, Airtable writes, established flows |
-| **Perplexity Computer** | Sales report generation, auto-invoicing, EU stock monitoring, Japan order detection | API orchestration, multi-system logic, AI-powered parsing |
+| **Perplexity Computer** | Sales report generation, auto-invoicing, EU stock monitoring, Japan order detection, data quality monitoring, monthly ops digest, brewery form tracking, Notion KB review, invoice/SKU validation | API orchestration, multi-system logic, AI-powered parsing, monitoring & alerting |
 
 Both complement each other — Make.com handles continuous sync, Perplexity handles complex multi-step workflows.
 
