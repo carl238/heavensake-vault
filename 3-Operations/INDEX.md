@@ -86,6 +86,7 @@ Operational systems, automation, ecommerce, and digital infrastructure.
 
 **Synthesized Knowledge Notes**
 - [[Tech & Automation Stack]] — DEFINITIVE NOTE: Shopify, Notion, Airtable (legacy), Make.com, HubSpot, Klaviyo, Meta Ads Manager, Perplexity Computer (with full API integration table), GEO stack. What's connected, what's broken, what Abdel is building.
+- [[SEO Technical Status]] — Technical SEO state of heavensake.com. All fixes deployed March 28, 2026: WebP hero, schema via GTM, alt text, meta descriptions, heading structure. Includes Shopify API credentials, known issues, and content pipeline.
 - [[Ops & Automations — Make.com]] — **COMPREHENSIVE.** Full Make.com infrastructure map: every active scenario, nightly batch orchestration, dashboard system, JP Brewery forms, all 19 connections, 26 webhooks, credit budget (40K/mo, 87% utilization), incident history, 7 optimization opportunities, and Perplexity Computer parallel automation layer.
 
 > **Archive:** All tech and infrastructure meeting transcripts are in `5-Archive/Meeting Transcripts/`.

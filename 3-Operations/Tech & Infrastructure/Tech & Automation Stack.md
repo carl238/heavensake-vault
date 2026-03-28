@@ -1,7 +1,7 @@
 ---
 type: knowledge
 status: validated
-last-synthesized: 2026-03-25
+last-synthesized: 2026-03-28
 source-meetings:
   - 2026-03-20 AI Strategy & Operations — Carl + Abdel.md
   - 2026-02-23 Operational Dashboard & GEO-SEO Marketing Automation.md
@@ -61,15 +61,28 @@ The gap that limits AI autonomy today: the operations layer (Notion/database) is
 **Role:** US DTC sales; Japan e-commerce (via Hikari logistics partner)
 
 **Current status:**
-- US store live
+- US store live (heavensake-us.myshopify.com)
+- Theme: Dawn v15.4.0 ("20260319_giancarlo_def"), ID 128229310513
 - Japan store (jp.heavensake.com) in setup — launching with Hanami bottle
 - Label Noir/Azur historically ~70% of DTC mix
 
+**Custom API app ("SEO Cleanup Tool"):**
+- Created March 28, 2026 for Perplexity Computer theme/file operations
+- Client ID: 691f13d87d18ee15ce035425499421ee
+- Scopes: write_files, write_script_tags, write_themes
+- Note: The Pipedream Shopify connector returns null for all queries — use this custom app or browser instead
+
+**SEO technical fixes deployed (March 28, 2026):**
+- Hero image converted to WebP (2.84 MB → 57 KB)
+- og:image HTTPS fix, H1 structure fix, heading hierarchy fix
+- Product/Organization/Article JSON-LD via GTM (18 pages covered)
+- Blog meta descriptions, alt text (products + blog), /collections/sake populated
+- Age verification script blocker (MutationObserver workaround for orphaned ScriptTags)
+- Full details: [[SEO Technical Status]]
+
 **Active technical issues (March 2026):**
 - Meta Conversion API not properly installed — needs developer fix
-- Orphan collections and obsolete products to be cleaned
-- Shopify API connections need scope updates for real-time Perplexity integration
-- Custom app creation in progress for Perplexity access token
+- Orphaned ScriptTags from uninstalled age verification apps (requires Shopify Support to purge)
 - Data sharing set to maximum for Conversions API (Claire confirmed)
 
 **Planned integrations:**
@@ -262,7 +275,8 @@ Notion ←→ Copywriting AI Agent (in testing via Abdel)
 | Shopify API scopes update for Perplexity | **High** | Carl |
 | HubSpot 2FA + access | **High** | Carl + Claire |
 | Notion brand knowledge layer | **High** | Claire + Gloria + Abdel |
-| Shopify orphan collections cleanup | **Medium** | Carl |
+| ~~Shopify orphan collections cleanup~~ | **Done** | Perplexity Computer (March 28) |
+| Orphaned ScriptTags (age verification) | **Medium** | Shopify Support (only they can purge) |
 | Make.com automation audit | **Medium** | Claire (share access) |
 | Dropbox asset organization + backup | **Medium** | Claire |
 | NFC tag implementation (brewery) | **Medium** | Nana + Sebastien |

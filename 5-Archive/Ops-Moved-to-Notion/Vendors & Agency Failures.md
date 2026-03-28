@@ -58,11 +58,11 @@ A documented record of vendor and agency failures — maintained as institutiona
 
 ---
 
-## Jakub Cambor — Exposed AI-Generated Reports
+## Jakub Cambor — AI-Generated Reports & Inflated SEO Data
 
-**Relationship:** [[Jakub Cambor]] — Freelance paid media and AI automations consultant. Quoted **£750 GBP** for a 2-part strategic "roadmap session."
+**Relationship:** [[Jakub Cambor]] — Freelance paid media, AI automations, and SEO consultant. Operates as "AI for Marketing" (aiformarketing.co.uk).
 
-**What was discovered:**
+### Incident 1: Meta Ads Report (Late 2025)
 
 Carl used [[Gemini]] to audit Jakub's agency report and discovered:
 - Facebook actually offers **~500 exportable data criteria** — Jakub's report covered only a fraction of these
@@ -75,7 +75,27 @@ Carl used [[Gemini]] to audit Jakub's agency report and discovered:
 
 **Impact on Paid Ads approach:** Led to the [[Social Media Boost Triage SOP]] and the mandate for custom Meta reporting (saves, profile visits, 100% video plays — not default reach metrics).
 
-**Current status:** Jakub's compensation model is under renegotiation toward outcome-based (% of actual ad revenue), not flat-fee. The £750 roadmap session is documented as a sunk cost.
+### Incident 2: SEO Audit Report (March 2026)
+
+Jakub delivered a full SEO audit (£650) and keyword research spreadsheet. Perplexity Computer cross-referenced every claim against the live site and DataForSEO actuals.
+
+**What was found:**
+- Report is ~70% accurate — most technical diagnoses are correct
+- Heavily AI-generated: the assembly likely cost ~$10 in DataForSEO API calls
+- Keyword volume data had 4 significant inflation errors ("sake food pairing" reported as 1,900 — actual volume: 170)
+- The report contains an internal contradiction: states "no Product schema" in one section, then recommends "maintaining" it in another — copy-paste from the AI template
+- Claimed "zero lazy loading" — verified as false; Dawn v15.4.0 implements it natively
+- Projected 10-20x growth to create urgency for his ongoing retainer proposal
+
+**Financial structure exposed:**
+- Step 1: Audit (£650) — $10 in API costs, AI-assembled
+- Step 2: Technical fix proposal (£1,500) — covers items Carl and Perplexity Computer fixed in one session at zero cost
+- Step 3: Ongoing monitoring (£1,500/month → negotiable to £800) — monthly DataForSEO reports (~$10/month in API costs)
+- Total Year 1 if fully bought: ~£14,150. Total data cost: ~£100.
+
+**Verdict:** Pay the £650 invoice — the audit was legitimate work. Do not pay for technical fixes (done). Negotiate monitoring to £800/month or use Giancarlo's Semrush access instead.
+
+**Useful deliverables to keep:** Seasonal data (gift sets spike 11x in December), competitor keyword intersection (97 keywords overlapping with Tippsy).
 
 ---
 
