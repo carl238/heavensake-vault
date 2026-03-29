@@ -168,3 +168,37 @@ The Shopify theme is managed by the dev team (historically ATOJ, now Giancarlo's
 > **All structured data changes go through GTM, not Shopify theme files.** This keeps SEO infrastructure independent of developer cycles and allows rapid iteration.
 
 This was established as the operating principle on March 28, 2026 during the Perplexity Computer SEO session with Carl.
+
+---
+
+## VII. GSC Structured Data Fixes (June 2025)
+
+### Issue 1: Review Snippets — `itemReviewed` Error
+**Reported by:** Google Search Console (Review Snippets report)
+**Affected URL:** `heavensake.com/products/junmai12`
+**Error:** "Missing field 'name' in 'itemReviewed'" — caused by redundant `itemReviewed` objects nested inside the Product schema in the Shopify theme.
+
+**Root Cause:** The snippet `snippets/product-schema.liquid` contained 3 unnecessary `itemReviewed` blocks (lines 42, 52, 62) that created malformed Review schema. These were part of Giancarlo's theme deployment, unrelated to the GTM-based structured data work.
+
+**Fix Applied:**
+- Removed 3 `itemReviewed` lines from `product-schema.liquid`
+- Fixed trailing commas and `offers` array formatting
+- Validated with Schema Markup Validator (0 errors)
+- GSC "Validate Fix" initiated
+
+### Issue 2: Merchant Listings — Price Format Error
+**Reported by:** Google Search Console (Merchant Listings report)
+**Affected URL:** `jp.heavensake.com/products/label-azur`
+**Error:** "Invalid floating point number in property 'price'" — price values contained commas (e.g., `8,800` instead of `8800`).
+
+**Root Cause:** The snippet `snippets/agent-readiness-product-jsonld.liquid` output `{{ variant.price | money_without_currency }}` which includes comma formatting for Japanese Yen prices.
+
+**Fix Applied:**
+- Added `| remove: ','` filter to 3 price output lines (lines 221, 222, 236) in `agent-readiness-product-jsonld.liquid`
+- Validated with Schema Markup Validator (0 errors)
+- GSC "Validate Fix" initiated (may need re-validation after CDN cache clears, ~30 min)
+
+### Prevention Notes
+- **Theme-level schema edits** carry risk of GSC errors when themes are redeployed or updated. This reinforces the Section VI principle: structured data should go through GTM where possible.
+- **Price formatting** is locale-dependent in Shopify. Any future multi-currency or multi-locale schema must account for `money_without_currency` including commas in some locales.
+- **Monitor GSC weekly** for new structured data issues, especially after theme updates.
