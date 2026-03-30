@@ -2,7 +2,7 @@
 type: strategy
 source: computer-ai-session
 status: validated
-last-updated: 2026-03-28
+last-updated: 2026-03-30
 tags: [meta-ads, facebook, instagram, advertising, campaigns, targeting, strategy, US-market, alcohol-compliance]
 ---
 
@@ -11,7 +11,7 @@ tags: [meta-ads, facebook, instagram, advertising, campaigns, targeting, strateg
 > **Last updated:** March 24, 2026
 > **Maintainer:** Computer (AI) + Carl Hirschmann
 > **Account:** Heavensake 3.0 — `act_1646768889416494`
-> **Status:** Campaign 1 LIVE, Campaign 2 in DRAFT (pending Day 7 insights)
+> **Status:** Campaign 1 LIVE (winding down), Campaign 2 DISCARDED (March 30)
 
 ---
 
@@ -283,12 +283,15 @@ Week 2-4:  Campaign 2 (Traffic/Conversion)
 | $5,000+ | Full funnel with prospecting, retargeting, dynamic product ads, frequency capping |
 
 ### Campaign Objective Selection
-| Goal | Objective | When to Use |
-|---|---|---|
-| Build social proof | Engagement | First campaign in sequence |
-| Drive website visits | Traffic (landing page views) | When pixel has <50 weekly conversion events |
-| Drive conversions | Sales | When pixel has 50+ weekly ViewContent or Purchase events |
-| Collect signups | Leads (instant forms) | Event registration, Club Heaven signups |
+| Goal | Objective | Performance Goal | When to Use |
+|---|---|---|---|
+| Build attention for video content | Engagement | **ThruPlay Views** | Any video reel — cinematic, AI, event. NEVER use "Maximize engagement with a post" for video. |
+| Build social proof (non-video) | Engagement | Maximize Interactions | Image/carousel posts where likes and comments matter |
+| Drive website visits | Traffic | Landing page views | When pixel has <50 weekly conversion events |
+| Drive conversions | Sales | Conversions | When pixel has 50+ weekly ViewContent or Purchase events |
+| Collect signups | Leads | Leads | Event registration, Club Heaven signups |
+
+**CRITICAL LEARNING (March 30, 2026):** "Maximize engagement with a post" on video ads counts 3-second auto-plays as engagements. The butterfly campaign showed 14,372 "engagements" but only 12 meaningful interactions. ThruPlay is the only video performance goal that measures real human attention.
 
 **Note (March 2026):** The Leads objective in Meta forces Advantage+ audience mode with no way to switch to original audience. Use age (21+) and locations as hard limits. For product page campaigns, prefer Traffic or Sales objectives which allow original audience.
 
@@ -317,14 +320,24 @@ Week 2-4:  Campaign 2 (Traffic/Conversion)
 - The Régis Camus story is under-utilized in paid media
 - Animation ads (Sake Beat, SakeBaby!) were top performers in the Erewhon campaign
 
+### Creative Type Strategy (March 2026)
+| Creative Type | Role | Best For | NOT For |
+|---|---|---|---|
+| AI bottle-as-hero (e.g., butterfly) | Brand wallpaper | ThruPlay awareness, visual universe building | Conversion campaigns — no intent trigger |
+| Real-world event/lifestyle (e.g., Sake No Hana) | Brand storytelling | ThruPlay awareness, warm audience building | Conversion (unless event is bookable) |
+| Product-focused with CTA | Conversion driver | Traffic/Sales campaigns with live e-commerce | Awareness (too commercial for top-of-funnel) |
+| Limited edition / scarcity | Conversion trigger | Sales campaigns with urgency | General awareness (wastes scarcity messaging) |
+
+**Key insight:** AI-generated content builds the aesthetic universe. Real-world content gives people a reason to enter it. Neither drives conversion without a concrete buyable/bookable destination.
+
 ---
 
-## Current Campaign Status (as of March 24, 2026)
+## Current Campaign Status (as of March 30, 2026)
 
 ### Campaign 1: LABEL NOIR Butterfly — Engagement (Relaunch)
 | Setting | Value |
 |---|---|
-| Status | **LIVE** — Published March 24, under review |
+| Status | **LIVE** — $179.56 of $300 spent, winding down |
 | Schedule | March 24 – April 3, 2026 (10 days) |
 | Budget | $300 Lifetime |
 | Audience type | Original audience |
@@ -342,19 +355,11 @@ Week 2-4:  Campaign 2 (Traffic/Conversion)
 ### Campaign 2: LABEL NOIR Butterfly — Website Leads (Relaunch)
 | Setting | Value |
 |---|---|
-| Status | **DRAFT** — Awaiting Day 7 insights from Campaign 1 |
-| Schedule | March 31 – April 13, 2026 (14 days) — may change |
-| Budget | $300 Lifetime |
-| Objective | Leads (may change to Traffic based on insights) |
-| Audience type | Advantage+ with hard limits (Leads objective forces this) |
-| Age | 21–65+ (hard limit) |
-| Locations | Same 8 metros (hard limit) |
-| Custom audiences | Video Viewers 75%, IG Engagers 90 Days, 1% Purchaser Lookalike |
-| Placements | Manual — Facebook + Instagram only |
-| Creative | Label Noir Butterfly reel, "Learn More" CTA |
-| URL | `https://heavensake.com/products/junmai-daiginjo-label-noir?utm_source=meta&utm_medium=paid&utm_campaign=label_noir_butterfly&utm_content=website_leads` |
+| Status | **DISCARDED** — Draft deleted March 30, 2026 |
 
-**Decision pending (March 31):** Whether to keep Leads objective or switch to Traffic (landing page views) based on pixel event volume and Campaign 1 performance data.
+**Why discarded:** Full Campaign 1 analysis revealed butterfly creative has no conversion architecture. 1 link click across 17,819 reach. 14,372 "engagements" were almost entirely 3-second auto-plays. AI bottle content is repositioned as brand wallpaper, not conversion driver. Conversion campaigns deferred until a concrete buyable/bookable action exists.
+
+See: [[Meta Ads Performance Analysis — March 2026]]
 
 ### Old Campaigns (Deleted March 24)
 - ~~LABEL NOIR Butterfly — Engagement~~ (rejected March 21 — Advantage+ violation)
@@ -469,6 +474,11 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 | March 24 | Added champagne interests (Dom Pérignon, Krug, etc.) | Carl's insight: Régis Camus storytelling is central |
 | March 24 | Decided to wait for Day 7 data before finalizing Campaign 2 | Better to design based on real insights than assumptions |
 | March 24 | Considering Traffic objective instead of Leads for Campaign 2 | Leads optimizes for form fills; Traffic optimizes for page visits — more aligned with product page goal |
+| March 30 | **Butterfly conversion campaign DISCARDED** | Full analysis: 14,372 engagements were auto-plays, not intent signals. 1 link click total. Creative lacks conversion architecture. |
+| March 30 | **ThruPlay established as mandatory video performance goal** | "Maximize engagement with a post" counts 3-sec auto-plays. ThruPlay measures real 15-sec attention. Non-negotiable for all video campaigns. |
+| March 30 | **AI bottle content = brand wallpaper (not conversion)** | Beautiful but no desire/scarcity trigger. Use for ThruPlay awareness only. Real-world content drives intent. |
+| March 30 | **Conversion campaigns deferred** | No campaign until a concrete buyable/bookable destination exists (e-commerce, event, limited edition). |
+| March 30 | **Sake No Hana boost planned as ThruPlay** | 30-sec cinematic reel. Reels + Stories placement only. 21-55 age cap. 3-4 cities max for $300 budget. |
 
 ---
 

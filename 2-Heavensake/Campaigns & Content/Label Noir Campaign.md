@@ -1,14 +1,14 @@
 ---
 type: campaign
 status: active
-last-updated: 2026-03-28
+last-updated: 2026-03-30
 tags: [label-noir, butterfly-reel, meta-ads, campaign, engagement, US-market]
 ---
 
 # Label Noir Butterfly Campaign
 
-> **Status:** Campaign 1 LIVE (March 24–April 3) | Campaign 2 in DRAFT (pending Day 7 analysis)
-> **Total Budget:** $600 ($300 per campaign)
+> **Status:** Campaign 1 LIVE (March 24–April 3) | Campaign 2 DISCARDED (March 30)
+> **Total Budget:** $300 (Campaign 2 budget reallocated)
 > **Creative:** Label Noir Butterfly reel (Instagram, posted March 18, 2026)
 > **Product:** Label Noir — Junmai Daiginjo (~$92)
 > **Product Page:** https://heavensake.com/products/junmai-daiginjo-label-noir
@@ -58,23 +58,25 @@ tags: [label-noir, butterfly-reel, meta-ads, campaign, engagement, US-market]
 
 ---
 
-## Campaign 2: Website Leads (Relaunch) — DRAFT
+## Campaign 2: Website Leads (Relaunch) — DISCARDED
 
 | Setting | Value |
 |---|---|
-| Status | **DRAFT — Pending Day 7 insights** |
-| Schedule | March 31 – April 13, 2026 (14 days) |
-| Budget | $300 Lifetime |
-| Objective | Leads (may change to Traffic) |
-| Custom audiences | Video Viewers 75%, IG Engagers 90 Days, 1% Purchaser Lookalike |
-| Placements | Manual — Facebook + Instagram only |
-| Creative | Butterfly reel, "Learn More" CTA |
-| URL | Label Noir product page with UTM parameters |
+| Status | **DISCARDED — March 30, 2026** |
+| Original Schedule | March 31 – April 13, 2026 (14 days) |
+| Original Budget | $300 Lifetime |
 
-### Decision Pending (March 31)
-- **Leads vs Traffic objective:** Leads optimizes for form fills; Traffic optimizes for page visits. Traffic may be more aligned with sending people to a product page.
-- **Audience readiness:** Video Viewers 75% needs to reach meaningful size before Campaign 2 has enough retargeting pool.
-- **Metro optimization:** Day 7 data will show which metros to prioritize or drop.
+### Why It Was Discarded (March 30, 2026)
+
+Full performance analysis of Campaign 1 revealed the butterfly creative has no conversion architecture:
+- Across 17,819 people reached: only 1 link click, 0 profile visits, 2 saves, 6 shares
+- 14,372 "post engagements" were almost entirely 3-second auto-play video views, not genuine interactions
+- The creative is visually striking but lacks a product moment, scarcity trigger, or desire mechanism
+- Running it as a conversion campaign would starve the algorithm of learning data (needs ~50 events/week)
+
+**Decision:** AI bottle-as-hero content is repositioned as brand wallpaper (ThruPlay awareness). Conversion campaigns will only be launched when a concrete buyable/bookable action exists.
+
+See: [[Meta Ads Performance Analysis — March 2026]]
 
 ---
 
