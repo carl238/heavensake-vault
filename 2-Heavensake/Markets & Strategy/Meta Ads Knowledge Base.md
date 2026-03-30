@@ -8,10 +8,9 @@ tags: [meta-ads, facebook, instagram, advertising, campaigns, targeting, strateg
 
 # HEAVENSAKE — Meta Ads Knowledge Base
 
-> **Last updated:** March 24, 2026
+> **Last updated:** March 30, 2026
 > **Maintainer:** Computer (AI) + Carl Hirschmann
-> **Account:** Heavensake 3.0 — `act_1646768889416494`
-> **Status:** Campaign 1 LIVE (winding down), Campaign 2 DISCARDED (March 30)
+> **Scope:** Principles, rules, targeting strategy, and compliance. Campaign status and operational details live in Notion.
 
 ---
 
@@ -332,47 +331,6 @@ Week 2-4:  Campaign 2 (Traffic/Conversion)
 
 ---
 
-## Current Campaign Status (as of March 30, 2026)
-
-### Campaign 1: LABEL NOIR Butterfly — Engagement (Relaunch)
-| Setting | Value |
-|---|---|
-| Status | **LIVE** — $179.56 of $300 spent, winding down |
-| Schedule | March 24 – April 3, 2026 (10 days) |
-| Budget | $300 Lifetime |
-| Audience type | Original audience |
-| Age | 21–65+ |
-| Locations | LA DMA, NYC DMA, SF DMA, Miami, Austin, Seattle, Honolulu DMA, San Diego DMA |
-| Interests (20) | Sake, Japanese cuisine, Japanese whisky, Ramen, Matcha, Wagyu, Sommelier, Dom Pérignon, Champagne Krug, Veuve Clicquot, PIPER-HEIDSIECK, Wine Spectator, Bordeaux wine, Bon Appétit, James Beard Foundation, Farm-to-table, FineDiningLovers, Art Basel, Contemporary art, Architectural Digest |
-| Behavior layer | AND must also match: Engaged Shoppers |
-| Income filter | None (awareness campaign) |
-| Placements | Manual — Facebook + Instagram only |
-| Creative | Label Noir Butterfly reel (existing post, no CTA) |
-| Estimated audience | 13.3M–15.7M |
-
-**Facebook suggestion:** Optimize Reels format for 8% lower cost. Ignored — organic post approach preserves social proof compounding. The reel is already 1072×1906 (9:16). The suggestion stems from using an existing post vs. native upload.
-
-### Campaign 2: LABEL NOIR Butterfly — Website Leads (Relaunch)
-| Setting | Value |
-|---|---|
-| Status | **DISCARDED** — Draft deleted March 30, 2026 |
-
-**Why discarded:** Full Campaign 1 analysis revealed butterfly creative has no conversion architecture. 1 link click across 17,819 reach. 14,372 "engagements" were almost entirely 3-second auto-plays. AI bottle content is repositioned as brand wallpaper, not conversion driver. Conversion campaigns deferred until a concrete buyable/bookable action exists.
-
-See: [[Meta Ads Performance Analysis — March 2026]]
-
-### Old Campaigns (Deleted March 24)
-- ~~LABEL NOIR Butterfly — Engagement~~ (rejected March 21 — Advantage+ violation)
-- ~~LABEL NOIR Butterfly — Website Leads~~ (old draft with non-compliant settings)
-
-### Other Campaigns in Account
-| Campaign | Status | Notes |
-|---|---|---|
-| Brand - Post Engagements | Inactive (all 9 ad sets off) | Historical — $1,648 spent, 121K engagements |
-| Lead Ads | Off | Historical — $5,457 spent, 1,560 leads |
-| Erewhon LA Geotargeting | Off | Historical — $3,000 spent, 472K reach |
-
----
 
 ## Target Consumer Profile
 
@@ -396,69 +354,6 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 
 ---
 
-## Monitoring & Reporting
-
-### Daily Report
-- **Schedule:** 9am CET daily (cron job `17398fa6`)
-- **Recipients:** carl@heavensake.com (TO), claire.senda@heavensake.com (CC)
-- **Content:** Campaign spend, impressions, reach, CPE, video views, ThruPlays, frequency, Video Viewers 75% audience size
-- **Note:** Requires local browser access to Meta Ads Manager. Currently set to send notification prompting manual pull.
-
-### Key Metrics to Track
-
-**Engagement campaigns:**
-| Metric | Benchmark | Alert If |
-|---|---|---|
-| Cost per Engagement (CPE) | ≤$0.01 | >$0.02 |
-| Frequency | <3.0 | >3.0 (audience too narrow) |
-| Video ThruPlays | Track growth | Declining day-over-day |
-| Video Viewers 75% audience size | Growing daily | Stagnant after 3 days |
-
-**Conversion campaigns:**
-| Metric | Benchmark | Alert If |
-|---|---|---|
-| CPC | ~$0.92 | >$2.00 |
-| CTR | >1% | <0.5% |
-| Landing page views | Track | <50% of clicks |
-| ViewContent events | Track | <10/day |
-
----
-
-## What We'll Learn (Data Collection Plan)
-
-### From Campaign 1 (Engagement, March 24–April 3)
-- [ ] Which metros generate the best CPE?
-- [ ] Which interest clusters drive meaningful engagement (comments) vs. passive views?
-- [ ] How fast does the Video Viewers 75% audience grow?
-- [ ] Is frequency healthy (<3.0) or too high (audience too narrow)?
-- [ ] How does the Butterfly reel compare to historical creatives?
-- [ ] Does Honolulu over-index due to Japanese-American population?
-- [ ] Is Austin generating meaningful engagement?
-
-### From Campaign 2 (Conversion, ~March 31–April 13)
-- [ ] ViewContent rate from retargeted video viewers?
-- [ ] Does warm audience convert better than cold?
-- [ ] CPA to drive someone to the $92 product page?
-- [ ] Which campaign objective works better: Leads, Traffic, or Sales?
-- [ ] Does the Purchaser Lookalike outperform the custom retargeting audiences?
-
-### Strategic Questions for Post-Campaign
-- [ ] Optimal audience size for $300 budgets?
-- [ ] Should income targeting be used for awareness campaigns?
-- [ ] Are 8 metros the right number, or should we concentrate on 4?
-- [ ] What's the minimum Campaign 1 duration before launching Campaign 2?
-
----
-
-## Open Infrastructure Questions
-
-- **Shopify CAPI integration** — Can Conversions API pass purchase events to Meta? Would enable true ROAS measurement.
-- **Klaviyo audience sync** — Email subscribers as custom audiences for retargeting (especially limited editions).
-- **GA4 integration** — Cross-reference Meta traffic with on-site behavior (time on page, scroll depth, add-to-cart).
-- **Instagram Insights API** — Direct post-level analytics (saves, shares, profile visits) to improve creative strategy.
-- **International campaigns** — Japan (18+), France, UAE each need market-specific compliance and audience strategies.
-
----
 
 ## Key Decisions Log
 
@@ -482,25 +377,4 @@ The ideal HEAVENSAKE consumer sits at the intersection of:
 
 ---
 
-## Team Contacts
-
-| Person | Email | Role |
-|---|---|---|
-| Carl Hirschmann | carl@heavensake.com | Founder, primary decision-maker |
-| Claire Senda | claire.senda@heavensake.com | Team member, CC on campaign reports |
-
----
-
-## Files & Documents
-
-| File | Location | Description |
-|---|---|---|
-| Meta Ads Strategy & Compliance Guide | `heavensake_meta_ads_guide.pdf` | 10-page internal PDF — all rules, targeting, benchmarks |
-| Full Strategy Document | `heavensake-meta-ads-strategy.pplx.md` | Detailed analysis with all research data |
-| Manus AI Campaign Plan | `Meta_Ad_Boost_Setup_Two-Part_U.S._Campaign.pdf` | Original campaign brief (partially outdated) |
-| Account Audit | `heavensake_3.0_audit.md` | Full Heavensake 3.0 account audit, March 2026 |
-| Targeting Research | `meta_ads_targeting_research_heavensake.md` | All verified Meta targeting options |
-
----
-
-*This document is the single source of truth for HEAVENSAKE's Meta advertising strategy. Update after each campaign cycle with new performance data and refined targeting insights.*
+*This document contains durable strategy, principles, and targeting knowledge. Campaign status, metrics, reporting schedules, and operational details live in Notion.*
