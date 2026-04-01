@@ -1,9 +1,9 @@
 ---
 type: knowledge
 status: validated
-last-updated: 2026-03-25
-source: carl-claire-37-calls
-tags: [Meta, Facebook, Instagram, ads, advertising, targeting, CAPI, retargeting, US-market]
+last-updated: 2026-04-01
+source: carl-claire-37-calls, nomad-boost-v2-analysis
+tags: [Meta, Facebook, Instagram, ads, advertising, targeting, CAPI, retargeting, US-market, boost-learnings, Nomad]
 ---
 
 # Meta Ads Strategy
@@ -177,6 +177,32 @@ HEAVENSAKE is thinking beyond Google SEO to AI-native search:
 (Call 32)
 
 This is a parallel track to Meta Ads — not a replacement.
+
+---
+
+## Nomad Boost v2 Strategic Principles (April 2026)
+
+Derived from the NOMAD reel boost optimization analysis — tested against live campaign data and 2026 Meta policy research.
+
+### Principle 1: "Drink Responsibly" = Algorithmic CPM Reduction Signal
+
+Including responsible-drinking messaging (e.g., "Drink Responsibly" overlay, age-gate CTA) in ad creative is not just compliance — it actively reduces CPM. Meta's 2026 alcohol-ads classifier grants preferential auction treatment to creatives that visibly demonstrate responsibility signals. This was validated by Hawtads 2026 research and aligns with Meta's Special Ad Category friction-reduction pathway. **Always include responsibility messaging in creative, not just in disclaimers.**
+
+### Principle 2: Facebook Organic Discovery Is Dead for Alcohol Brands (Jan 2026)
+
+As of January 2026, Meta's Special Ad Category restrictions have effectively killed organic discovery for alcohol brands on Facebook. Posts reach existing followers only; algorithmic recommendation is suppressed. **All Facebook investment must be paid. Organic effort should concentrate on Instagram**, where Reels still get limited algorithmic distribution even under alcohol restrictions.
+
+### Principle 3: Content-Matching Interest Layers Must Never Be Suppressed
+
+When reel content directly depicts a theme (e.g., alpine landscapes in the Nomad reel), the matching interest layer (e.g., "Alpine Skiing," "Swiss Alps," "Mountain Travel") must be included in targeting — never suppressed by Advantage+ or left to broad. Content-matched interests create a resonance loop: the viewer recognizes the aesthetic, engagement spikes, Meta's algorithm rewards the signal. **The interest layer should mirror what the eye sees in the first 3 seconds of the reel.**
+
+### Principle 4: Collector Demographics Are Shifting (Younger, Interdisciplinary)
+
+The HEAVENSAKE collector archetype is no longer exclusively 45-65 affluent traditionalists. The NOMAD Circle audience analysis shows a growing segment of 30-44 interdisciplinary collectors who cross categories: design objects, contemporary art, natural wine, Japanese craft. **Targeting must include design, architecture, and contemporary-art interests alongside traditional luxury-wine interests.** This broadens the funnel without diluting quality.
+
+### Principle 5: 75% Video Viewers > 15-Second Viewers for Retargeting
+
+When building retargeting audiences from video engagement, use the 75% completion threshold rather than a fixed 15-second cutoff. Reason: 75% completion proves intent-level attention regardless of video length, while 15-second viewers on a 60-second reel may represent only casual scroll-throughs. The 75% audience is smaller but converts at significantly higher rates. **This is the retargeting quality standard for all future HEAVENSAKE video campaigns.**
 
 ---
 
