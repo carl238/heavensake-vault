@@ -204,6 +204,30 @@ The HEAVENSAKE collector archetype is no longer exclusively 45-65 affluent tradi
 
 When building retargeting audiences from video engagement, use the 75% completion threshold rather than a fixed 15-second cutoff. Reason: 75% completion proves intent-level attention regardless of video length, while 15-second viewers on a 60-second reel may represent only casual scroll-throughs. The 75% audience is smaller but converts at significantly higher rates. **This is the retargeting quality standard for all future HEAVENSAKE video campaigns.**
 
+### Principle 6: Interest Targeting Must Mirror Video Content — Never Inherit from Previous Campaigns
+
+When setting up a new ad campaign, the interest stack must be built from scratch to match the specific creative being promoted. Interests should never be copied from a previous campaign targeting a different piece of content.
+
+**Case study:** The Manus-generated Nomad boost report carried over the "Wellness & Health" category (Mindfulness, Organic food, Health & wellness) from the earlier butterfly campaign. The Nomad reel contains zero wellness content — it's about art, design, sake, and alpine luxury. Including wellness interests diluted the audience with yoga and health-food enthusiasts who have no connection to the art collector profile. This wastes budget on irrelevant impressions and lowers the ad's relevance score.
+
+**Rule:** Every new campaign gets a fresh interest audit. The question for each interest is: "Does this appear in the first 15 seconds of the reel, OR does it describe someone who would genuinely care about what this video shows?" If the answer to both is no, the interest doesn't belong.
+
+### Principle 7: Remove Phantom Interests — If It's Not in Meta's Targeting System, It Doesn't Work
+
+Several interests listed in campaign plans don't exist as actual Meta targeting options (e.g., "St. Moritz," "Aspen," "Luxury resorts," "Sommelier"). When these are entered in Ads Manager, Meta either ignores them or fuzzy-matches to unrelated categories — silently degrading targeting quality.
+
+**Rule:** Before launching any campaign, every interest keyword must be verified inside Ads Manager's search tool. If it doesn't appear as a selectable interest, it must be replaced with a verifiable alternative or handled through geographic targeting. Geographic locations (St. Moritz, Aspen) are not interest targets — they're geographic targets.
+
+### Principle 8: Exclude, Don't Just Include — Audience Hygiene Is as Important as Targeting
+
+Every HEAVENSAKE Meta campaign must include audience exclusions:
+
+1. **Exclude existing Instagram followers** — they see organic posts; paid budget should reach new people
+2. **Exclude 95% video viewers** of the specific reel being promoted — they're already captured in the retargeting pool
+3. **Exclude past converters** (if applicable) — don't pay to reach people who already RSVP'd or purchased
+
+Without exclusions, a significant portion of budget goes to re-reaching people who are already in the HEAVENSAKE ecosystem. This is the silent budget leak that most campaign setups miss.
+
 ---
 
 ## Related Notes
