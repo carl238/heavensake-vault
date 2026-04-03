@@ -228,6 +228,10 @@ Every HEAVENSAKE Meta campaign must include audience exclusions:
 
 Without exclusions, a significant portion of budget goes to re-reaching people who are already in the HEAVENSAKE ecosystem. This is the silent budget leak that most campaign setups miss.
 
+### Principle 9: Always Set Lifetime Budget Before Touching Any Other Ad Set Field
+
+Meta Ads Manager has a UI bug where the ad scheduling (dayparting) checkbox becomes permanently disabled if you switch from daily to lifetime budget after other fields have been configured. The checkbox gets stuck in a "mixed/disabled" state and cannot be interacted with — not even by duplicating the ad set. **The fix is prevention: always select lifetime budget as the very first action when creating an ad set.** If dayparting is needed and the bug is already triggered, the only reliable workaround is the Meta Marketing API (`adset_schedule` parameter) or starting a brand-new ad set from scratch.
+
 ---
 
 ## Related Notes
