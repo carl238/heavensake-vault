@@ -1,9 +1,9 @@
 ---
 type: knowledge
 status: validated
-last-updated: 2026-04-06
-source: carl-claire-37-calls, nomad-boost-v2-analysis, thruplay-benchmark-analysis-apr-2026
-tags: [Meta, Facebook, Instagram, ads, advertising, targeting, CAPI, retargeting, US-market, boost-learnings, Nomad, thruplay, benchmarks]
+last-updated: 2026-04-01
+source: carl-claire-37-calls, nomad-boost-v2-analysis
+tags: [Meta, Facebook, Instagram, ads, advertising, targeting, CAPI, retargeting, US-market, boost-learnings, Nomad]
 ---
 
 # Meta Ads Strategy
@@ -234,29 +234,6 @@ Meta Ads Manager has a UI bug where the ad scheduling (dayparting) checkbox beco
 
 ---
 
-## Principle 10: Audit Placements for Audience Network Rewarded Video on Every ThruPlay Campaign
-
-ThruPlay optimization can silently inflate metrics via Audience Network Rewarded Video — third-party apps where users watch your ad in exchange for in-app virtual currency. These users have zero interest in HEAVENSAKE. They inflate ThruPlay counts and contaminate retargeting audiences with worthless viewers.
-
-**Rule:** On every ThruPlay campaign, check Ads Manager → Breakdown → By Placement within the first 48 hours. If Audience Network Rewarded Video consumes meaningful budget, exclude it immediately. Our Rule #6 (manual placements: Facebook + Instagram only) should prevent this, but verify every time. Source: [Jon Loomer](https://www.jonloomer.com/simplified-meta-ads-strategy/)
-
----
-
-## Principle 11: Retargeting Audience Tiering — Build Custom Audiences from Every ThruPlay Campaign
-
-Every ThruPlay campaign must generate segmented custom audiences at these thresholds:
-
-| Segment | Watch Depth | Retention Window | Use For |
-|---------|-------------|------------------|---------|
-| Casual | 3-second views | 60–90 days | Lookalike seed, broad retargeting |
-| Interested | 25–50% | 60 days | MOFU: social proof, testimonials |
-| High-intent | 75–95% | 30 days | BOFU: product showcase + CTA |
-| Completers | 95–100% | 30 days | BOFU: offers, urgency, dynamic product ads |
-
-Video viewer retargeting converts 40% better than website visitor retargeting when creatives are tailored to the specific video watched. Wait for 1,000+ per segment before launching retargeting. Builds on Principle 5 (75% viewers > 15-sec for retargeting). See [[Meta Ads — ThruPlay Benchmarks & Retargeting Framework (April 2026)]] for full framework.
-
----
-
 ## Related Notes
 
 - [[DTC & E-Commerce Strategy]]
@@ -264,4 +241,3 @@ Video viewer retargeting converts 40% better than website visitor retargeting wh
 - [[Carl's Vision for Heavensake 2026-2030]]
 - [[SOPs & Workflows]]
 - [[Team Structure & Roles]]
-- [[Meta Ads — ThruPlay Benchmarks & Retargeting Framework (April 2026)]]
